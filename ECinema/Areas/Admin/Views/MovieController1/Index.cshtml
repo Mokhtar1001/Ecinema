@@ -1,7 +1,5 @@
 ﻿@model IEnumerable<Movie>
 
-
-
 <!-- Filter Section -->
 <section class="py-3 filter-bar">
     <div class="container">
@@ -115,9 +113,10 @@
                         <th scope="col">Category Name</th>
                         <th scope="col">Cinema Name</th>
                         <th scope="col">Price</th>
-                        <th scope="col">Actor</th>
                         <th scope="col">Status</th>
-                        <th scope="col">Actions</th>
+                        <th scope="col">Action</th>
+                        <th scope="col">Descreption</th>
+                        <th scope="col">Actor</th>
                     </tr>
                 </thead>
                 <tbody>
@@ -139,9 +138,11 @@
                                 <td><span class="badge text-bg-danger">InActive</span></td>
                             }
                             <td>
-                                <a href="/Admin/Movie/Edit/@item.Id" type="button" class="btn btn-warning">Edit</a>
-                                <a href="/Admin/Movie/Delete/@item.Id" class="btn btn-danger btn-delete">Delete</a>
+                                <a asp-action="Edit" asp-route-id="@item.Id" class="btn btn-sm btn-warning">Edit</a>
+                                <a asp-action="Delete" asp-route-id="@item.Id" class="btn btn-sm btn-danger">Delete</a>
                             </td>
+                            
+                            <td>@item.Cinema.Description</td>
                         </tr>
                     }
                 </tbody>

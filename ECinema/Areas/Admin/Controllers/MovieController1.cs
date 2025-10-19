@@ -26,7 +26,7 @@ namespace ECinema.Areas.Admin.Controllers
                 ViewBag.Name = filterMovieVM.Name;
             }
 
-            if (filterMovieVM.Price is null)
+            if (filterMovieVM.Price is not null)
             {
                 Movies = Movies.Where(e => e.Price==filterMovieVM.Price);
                 ViewBag.minPrice = filterMovieVM.Price;
@@ -81,7 +81,7 @@ namespace ECinema.Areas.Admin.Controllers
         }
 
         [HttpPost]
-        public IActionResult Create(Movie Movie, IFormFile img, List<IFormFile>? subImgs, string[] colors)
+        public IActionResult Create(Movie Movie, IFormFile img, List<IFormFile>? subImgs)
         {
             var transaction = _context.Database.BeginTransaction();
 
@@ -122,16 +122,18 @@ namespace ECinema.Areas.Admin.Controllers
                         _context.MovieSubimages.Add(new()
                         {
                             Img = fileName,
-                            MovieId = MovieCreated.Entity.Id,
+                            MovieId = MovieCreated.Entity.Id
                         });
                     }
 
                     _context.SaveChanges();
                 }
 
-               
 
-                
+                TempData["success-notification"] = "Add movie Successfully";
+
+                transaction.Commit();
+
             }
             catch (Exception ex)
             {
@@ -145,6 +147,145 @@ namespace ECinema.Areas.Admin.Controllers
 
             //return View(nameof(Index));
             return RedirectToAction(nameof(Index));
+        }
+        [HttpGet]
+        public IActionResult Edit(int id)
+        {
+            var movie = _context.Movies.Include(e => e.MovieSubimages).FirstOrDefault(e => e.Id == id);
+
+            if (movie is null)
+                return RedirectToAction("NotFoundPage", "Home");
+
+            // Categories
+            var categories = _context.Categories;
+            // Brands
+            var cinemas = _context.Cinemas;
+
+            return View(new MovieVM
+            {
+                Categories = categories.AsEnumerable(),
+                Cinemas = cinemas.AsEnumerable(),
+                Movie = movie,
+            });
+        }
+
+        [HttpPost]
+        public IActionResult Edit(Movie movie, IFormFile? img, List<IFormFile>? subImgs, string[] colors)
+        {
+            var productInDb = _context.Movies.AsNoTracking().FirstOrDefault(e => e.Id == movie.Id);
+            if (productInDb is null)
+                return RedirectToAction("NotFoundPage", "Home");
+
+            if (img is not null)
+            {
+                if (img.Length > 0)
+                {
+                    // Save Img in wwwroot
+                    var fileName = Guid.NewGuid().ToString() + Path.GetExtension(img.FileName); // 30291jsfd4-210klsdf32-4vsfksgs.png
+                    var filePath = Path.Combine(Directory.GetCurrentDirectory(), "wwwroot\\images", fileName);
+
+                    using (var stream = System.IO.File.Create(filePath))
+                    {
+                        img.CopyTo(stream);
+                    }
+
+                    // Remove old Img in wwwroot
+                    var oldPath = Path.Combine(Directory.GetCurrentDirectory(), "wwwroot\\images", productInDb.MainImg);
+                    if (System.IO.File.Exists(oldPath))
+                    {
+                        System.IO.File.Delete(oldPath);
+                    }
+
+                    // Save Img in db
+                    movie.MainImg = fileName;
+                }
+            }
+            else
+            {
+                movie.MainImg = productInDb.MainImg;
+            }
+
+            _context.Movies.Update(movie);
+            _context.SaveChanges();
+
+            if (subImgs is not null && subImgs.Count > 0)
+            {
+                movie.MovieSubimages= new List<MovieSubimage>();
+
+                foreach (var item in subImgs)
+                {
+                    // Save Img in wwwroot
+                    var fileName = Guid.NewGuid().ToString() + Path.GetExtension(item.FileName); // 30291jsfd4-210klsdf32-4vsfksgs.png
+                    var filePath = Path.Combine(Directory.GetCurrentDirectory(), "wwwroot\\images\\product_images", fileName);
+
+                    using (var stream = System.IO.File.Create(filePath))
+                    {
+                        item.CopyTo(stream);
+                    }
+
+                   
+                }
+
+                _context.SaveChanges();
+            }
+
+
+           
+
+            TempData["success-notification"] = "Update Product Successfully";
+
+            return RedirectToAction(nameof(Index));
+        }
+        public IActionResult Delete(int id)
+        {
+            var product = _context.Movies.Include(e => e.MovieSubimages).FirstOrDefault(e => e.Id == id);
+
+            if (product is null)
+                return RedirectToAction("NotFoundPage", "Home");
+
+            // Remove old Img in wwwroot
+            var oldPath = Path.Combine(Directory.GetCurrentDirectory(), "wwwroot\\images", product.MainImg);
+            if (System.IO.File.Exists(oldPath))
+            {
+                System.IO.File.Delete(oldPath);
+            }
+
+            foreach (var item in product.MovieSubimages)
+            {
+                var subImgOldPath = Path.Combine(Directory.GetCurrentDirectory(), "wwwroot\\images\\product_images", item.Img);
+                if (System.IO.File.Exists(subImgOldPath))
+                {
+                    System.IO.File.Delete(subImgOldPath);
+                }
+            }
+
+
+            _context.Movies.Remove(product);
+            _context.SaveChanges();
+
+            TempData["success-notification"] = "Delete Product Successfully";
+
+            return RedirectToAction(nameof(Index));
+        }
+
+        public IActionResult DeleteSubImg(int productId, string Img)
+        {
+            var productSubImgInDb = _context.MovieSubimages.FirstOrDefault(e => e.MovieId == productId && e.Img == Img);
+
+            if (productSubImgInDb is null)
+                return RedirectToAction("NotFoundPage", "Home");
+
+            // Remove old Img in wwwroot
+            var oldPath = Path.Combine(Directory.GetCurrentDirectory(), "wwwroot\\images\\product_images", productSubImgInDb.Img);
+            if (System.IO.File.Exists(oldPath))
+            {
+                System.IO.File.Delete(oldPath);
+            }
+
+            _context.Remove(productSubImgInDb);
+            _context.SaveChanges();
+
+            return RedirectToAction(nameof(Edit), new { id = productId });
         }
     }
 }
