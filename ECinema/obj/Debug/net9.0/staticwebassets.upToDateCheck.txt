@@ -1,0 +1,1640 @@
+wwwroot\app\calendar.html
+wwwroot\app\chat.html
+wwwroot\app\e-commerce\billing.html
+wwwroot\app\e-commerce\checkout.html
+wwwroot\app\e-commerce\customer-details.html
+wwwroot\app\e-commerce\customers.html
+wwwroot\app\e-commerce\invoice.html
+wwwroot\app\e-commerce\orders\order-details.html
+wwwroot\app\e-commerce\orders\order-list.html
+wwwroot\app\e-commerce\product\product-details.html
+wwwroot\app\e-commerce\product\product-grid.html
+wwwroot\app\e-commerce\product\product-list.html
+wwwroot\app\e-commerce\shopping-cart.html
+wwwroot\app\e-learning\course\course-details.html
+wwwroot\app\e-learning\course\course-grid.html
+wwwroot\app\e-learning\course\course-list.html
+wwwroot\app\e-learning\course\create-a-course.html
+wwwroot\app\e-learning\student-overview.html
+wwwroot\app\e-learning\trainer-profile.html
+wwwroot\app\email\compose.html
+wwwroot\app\email\email-detail.html
+wwwroot\app\email\inbox.html
+wwwroot\app\events\create-an-event.html
+wwwroot\app\events\event-detail.html
+wwwroot\app\events\event-list.html
+wwwroot\app\kanban.html
+wwwroot\app\social\activity-log.html
+wwwroot\app\social\feed.html
+wwwroot\app\social\followers.html
+wwwroot\app\social\notifications.html
+wwwroot\app\support-desk\card-view.html
+wwwroot\app\support-desk\contact-details.html
+wwwroot\app\support-desk\contacts.html
+wwwroot\app\support-desk\quick-links.html
+wwwroot\app\support-desk\reports.html
+wwwroot\app\support-desk\table-view.html
+wwwroot\app\support-desk\tickets-preview.html
+wwwroot\assets\css\theme-rtl.css
+wwwroot\assets\css\theme-rtl.css.map
+wwwroot\assets\css\theme-rtl.min.css
+wwwroot\assets\css\theme-rtl.min.css.map
+wwwroot\assets\css\theme.css
+wwwroot\assets\css\theme.css.map
+wwwroot\assets\css\theme.min.css
+wwwroot\assets\css\theme.min.css.map
+wwwroot\assets\css\user-rtl.css
+wwwroot\assets\css\user-rtl.css.map
+wwwroot\assets\css\user-rtl.min.css
+wwwroot\assets\css\user-rtl.min.css.map
+wwwroot\assets\css\user.css
+wwwroot\assets\css\user.css.map
+wwwroot\assets\css\user.min.css
+wwwroot\assets\css\user.min.css.map
+wwwroot\assets\data\usa.js
+wwwroot\assets\data\world.js
+wwwroot\assets\img\animated-icons\bm.json
+wwwroot\assets\img\animated-icons\bouncing-ball.json
+wwwroot\assets\img\animated-icons\celebration.json
+wwwroot\assets\img\animated-icons\check-primary-light.json
+wwwroot\assets\img\animated-icons\heart.json
+wwwroot\assets\img\animated-icons\infinite-loop.json
+wwwroot\assets\img\animated-icons\loading-animation.json
+wwwroot\assets\img\animated-icons\loading-balls.json
+wwwroot\assets\img\animated-icons\loading-circle-scale.json
+wwwroot\assets\img\animated-icons\loading-square.json
+wwwroot\assets\img\animated-icons\loading.json
+wwwroot\assets\img\animated-icons\shopping-list.json
+wwwroot\assets\img\animated-icons\sleeping-404.json
+wwwroot\assets\img\animated-icons\ss.json
+wwwroot\assets\img\animated-icons\star-feedback.json
+wwwroot\assets\img\animated-icons\warning-light.json
+wwwroot\assets\img\chat\1.jpg
+wwwroot\assets\img\chat\10.jpg
+wwwroot\assets\img\chat\11.jpg
+wwwroot\assets\img\chat\12.jpg
+wwwroot\assets\img\chat\2.jpg
+wwwroot\assets\img\chat\3.jpg
+wwwroot\assets\img\chat\4.jpg
+wwwroot\assets\img\chat\5.jpg
+wwwroot\assets\img\chat\6.jpg
+wwwroot\assets\img\chat\7.jpg
+wwwroot\assets\img\chat\8.jpg
+wwwroot\assets\img\chat\9.jpg
+wwwroot\assets\img\crm\call.svg
+wwwroot\assets\img\crm\email.svg
+wwwroot\assets\img\crm\india.png
+wwwroot\assets\img\crm\nepal.png
+wwwroot\assets\img\crm\other.svg
+wwwroot\assets\img\crm\social.svg
+wwwroot\assets\img\crm\thailand.png
+wwwroot\assets\img\crm\uae.png
+wwwroot\assets\img\doc\bulk-select.png
+wwwroot\assets\img\doc\error.png
+wwwroot\assets\img\ecommerce\1.jpg
+wwwroot\assets\img\ecommerce\2.jpg
+wwwroot\assets\img\ecommerce\3.jpg
+wwwroot\assets\img\ecommerce\4.jpg
+wwwroot\assets\img\ecommerce\5.jpg
+wwwroot\assets\img\ecommerce\6.jpg
+wwwroot\assets\img\ecommerce\7.jpg
+wwwroot\assets\img\elearning\avatar\student.png
+wwwroot\assets\img\elearning\avatar\trainer.png
+wwwroot\assets\img\elearning\courses\course-details.png
+wwwroot\assets\img\elearning\courses\course1.png
+wwwroot\assets\img\elearning\courses\course2.png
+wwwroot\assets\img\elearning\courses\course3.png
+wwwroot\assets\img\elearning\courses\course4.png
+wwwroot\assets\img\elearning\courses\course5.png
+wwwroot\assets\img\elearning\courses\course6.png
+wwwroot\assets\img\elearning\courses\course7.png
+wwwroot\assets\img\elearning\courses\course8.png
+wwwroot\assets\img\elearning\courses\course9.png
+wwwroot\assets\img\elearning\lessons\chapter1.png
+wwwroot\assets\img\elearning\lessons\chapter2.png
+wwwroot\assets\img\elearning\lessons\chapter3.png
+wwwroot\assets\img\elearning\lessons\chapter4.png
+wwwroot\assets\img\elearning\lessons\intro.png
+wwwroot\assets\img\favicons\android-chrome-192x192.png
+wwwroot\assets\img\favicons\android-chrome-512x512.png
+wwwroot\assets\img\favicons\apple-touch-icon.png
+wwwroot\assets\img\favicons\browserconfig.xml
+wwwroot\assets\img\favicons\favicon-16x16.png
+wwwroot\assets\img\favicons\favicon-32x32.png
+wwwroot\assets\img\favicons\favicon.ico
+wwwroot\assets\img\favicons\manifest.json
+wwwroot\assets\img\favicons\mstile-150x150.png
+wwwroot\assets\img\favicons\site.webmanifest
+wwwroot\assets\img\gallery\1.jpg
+wwwroot\assets\img\gallery\2.jpg
+wwwroot\assets\img\gallery\2000.jpg
+wwwroot\assets\img\gallery\2001.jpg
+wwwroot\assets\img\gallery\2006.jpg
+wwwroot\assets\img\gallery\2007.jpg
+wwwroot\assets\img\gallery\2008.jpg
+wwwroot\assets\img\gallery\2010.jpg
+wwwroot\assets\img\gallery\3.jpg
+wwwroot\assets\img\gallery\4.jpg
+wwwroot\assets\img\gallery\5.jpg
+wwwroot\assets\img\generic\1.jpg
+wwwroot\assets\img\generic\10.jpg
+wwwroot\assets\img\generic\11.jpg
+wwwroot\assets\img\generic\12.jpg
+wwwroot\assets\img\generic\13.jpg
+wwwroot\assets\img\generic\14.jpg
+wwwroot\assets\img\generic\15.jpg
+wwwroot\assets\img\generic\16.jpg
+wwwroot\assets\img\generic\17.jpg
+wwwroot\assets\img\generic\18.jpg
+wwwroot\assets\img\generic\19.jpg
+wwwroot\assets\img\generic\2.jpg
+wwwroot\assets\img\generic\20.jpg
+wwwroot\assets\img\generic\3.jpg
+wwwroot\assets\img\generic\4.jpg
+wwwroot\assets\img\generic\5.jpg
+wwwroot\assets\img\generic\6.jpg
+wwwroot\assets\img\generic\7.jpg
+wwwroot\assets\img\generic\8.jpg
+wwwroot\assets\img\generic\9.jpg
+wwwroot\assets\img\generic\bg-1.jpg
+wwwroot\assets\img\generic\bg-2.jpg
+wwwroot\assets\img\generic\bg-navbar.png
+wwwroot\assets\img\generic\card.png
+wwwroot\assets\img\generic\dashboard-alt-dark.png
+wwwroot\assets\img\generic\dashboard-alt.jpg
+wwwroot\assets\img\generic\dashboard-alt.png
+wwwroot\assets\img\generic\dashboard-old.png
+wwwroot\assets\img\generic\default.png
+wwwroot\assets\img\generic\falcon-mode-dark.jpg
+wwwroot\assets\img\generic\falcon-mode-default.jpg
+wwwroot\assets\img\generic\Frame-14.png
+wwwroot\assets\img\generic\html-falcon.png
+wwwroot\assets\img\generic\image-file-2.png
+wwwroot\assets\img\generic\inverted.png
+wwwroot\assets\img\generic\showcase-footer-bg.png
+wwwroot\assets\img\generic\vibrant.png
+wwwroot\assets\img\icons\arrows-h.svg
+wwwroot\assets\img\icons\calendar.png
+wwwroot\assets\img\icons\chevron-up.svg
+wwwroot\assets\img\icons\chip.png
+wwwroot\assets\img\icons\chrome-logo.png
+wwwroot\assets\img\icons\cloud-download-.svg
+wwwroot\assets\img\icons\cloud-download.svg
+wwwroot\assets\img\icons\cloud-upload.svg
+wwwroot\assets\img\icons\connect-circle.png
+wwwroot\assets\img\icons\cookie-1.png
+wwwroot\assets\img\icons\cookie.png
+wwwroot\assets\img\icons\discount.svg
+wwwroot\assets\img\icons\docs.png
+wwwroot\assets\img\icons\double-chevron-up.svg
+wwwroot\assets\img\icons\edit-alt-.svg
+wwwroot\assets\img\icons\edit-alt.svg
+wwwroot\assets\img\icons\firefox-logo.png
+wwwroot\assets\img\icons\folder-open-solid.svg
+wwwroot\assets\img\icons\folder-solid.svg
+wwwroot\assets\img\icons\free.svg
+wwwroot\assets\img\icons\icon-angle-right.svg
+wwwroot\assets\img\icons\icon-payment-methods-grid.png
+wwwroot\assets\img\icons\icon-payment-methods.png
+wwwroot\assets\img\icons\icon-paypal-full.png
+wwwroot\assets\img\icons\image.png
+wwwroot\assets\img\icons\leaflet\layers-2x.png
+wwwroot\assets\img\icons\leaflet\layers.png
+wwwroot\assets\img\icons\leaflet\marker-icon-2x.png
+wwwroot\assets\img\icons\leaflet\marker-icon.png
+wwwroot\assets\img\icons\leaflet\marker-shadow.png
+wwwroot\assets\img\icons\left-arrow-from-left.svg
+wwwroot\assets\img\icons\location.png
+wwwroot\assets\img\icons\map-marker.png
+wwwroot\assets\img\icons\master-card.png
+wwwroot\assets\img\icons\moon.svg
+wwwroot\assets\img\icons\networking.svg
+wwwroot\assets\img\icons\nineDots.svg
+wwwroot\assets\img\icons\paragraph.svg
+wwwroot\assets\img\icons\play.svg
+wwwroot\assets\img\icons\pro.svg
+wwwroot\assets\img\icons\radarRect.png
+wwwroot\assets\img\icons\safari-logo.png
+wwwroot\assets\img\icons\sent.svg
+wwwroot\assets\img\icons\shield.png
+wwwroot\assets\img\icons\shield.svg
+wwwroot\assets\img\icons\signal.png
+wwwroot\assets\img\icons\spot-illustrations\1.svg
+wwwroot\assets\img\icons\spot-illustrations\16.png
+wwwroot\assets\img\icons\spot-illustrations\2.svg
+wwwroot\assets\img\icons\spot-illustrations\21.png
+wwwroot\assets\img\icons\spot-illustrations\3.svg
+wwwroot\assets\img\icons\spot-illustrations\4.png
+wwwroot\assets\img\icons\spot-illustrations\4.svg
+wwwroot\assets\img\icons\spot-illustrations\41.png
+wwwroot\assets\img\icons\spot-illustrations\45.png
+wwwroot\assets\img\icons\spot-illustrations\47.png
+wwwroot\assets\img\icons\spot-illustrations\48.png
+wwwroot\assets\img\icons\spot-illustrations\49.png
+wwwroot\assets\img\icons\spot-illustrations\5.png
+wwwroot\assets\img\icons\spot-illustrations\5.svg
+wwwroot\assets\img\icons\spot-illustrations\50.png
+wwwroot\assets\img\icons\spot-illustrations\6.png
+wwwroot\assets\img\icons\spot-illustrations\6.svg
+wwwroot\assets\img\icons\spot-illustrations\authentication-corner.png
+wwwroot\assets\img\icons\spot-illustrations\bg-shape.png
+wwwroot\assets\img\icons\spot-illustrations\calendar.svg
+wwwroot\assets\img\icons\spot-illustrations\comment-active.png
+wwwroot\assets\img\icons\spot-illustrations\comment-inactive.png
+wwwroot\assets\img\icons\spot-illustrations\corner-1.png
+wwwroot\assets\img\icons\spot-illustrations\corner-2.png
+wwwroot\assets\img\icons\spot-illustrations\corner-3.png
+wwwroot\assets\img\icons\spot-illustrations\corner-4.png
+wwwroot\assets\img\icons\spot-illustrations\corner-5.png
+wwwroot\assets\img\icons\spot-illustrations\corner-6.png
+wwwroot\assets\img\icons\spot-illustrations\corner-7.png
+wwwroot\assets\img\icons\spot-illustrations\course-details-bg.png
+wwwroot\assets\img\icons\spot-illustrations\creating.png
+wwwroot\assets\img\icons\spot-illustrations\ecommerce-bg.png
+wwwroot\assets\img\icons\spot-illustrations\editing.svg
+wwwroot\assets\img\icons\spot-illustrations\envelope.png
+wwwroot\assets\img\icons\spot-illustrations\falcon.png
+wwwroot\assets\img\icons\spot-illustrations\gifts.png
+wwwroot\assets\img\icons\spot-illustrations\half-circle-1.png
+wwwroot\assets\img\icons\spot-illustrations\half-circle.png
+wwwroot\assets\img\icons\spot-illustrations\image.svg
+wwwroot\assets\img\icons\spot-illustrations\international-women-s-day-2.png
+wwwroot\assets\img\icons\spot-illustrations\international-women-s-day.jpg
+wwwroot\assets\img\icons\spot-illustrations\like-active.png
+wwwroot\assets\img\icons\spot-illustrations\like-inactive.png
+wwwroot\assets\img\icons\spot-illustrations\location.svg
+wwwroot\assets\img\icons\spot-illustrations\navbar-vertical.png
+wwwroot\assets\img\icons\spot-illustrations\paper-plane.svg
+wwwroot\assets\img\icons\spot-illustrations\rocket.png
+wwwroot\assets\img\icons\spot-illustrations\settings.png
+wwwroot\assets\img\icons\spot-illustrations\shape-1.png
+wwwroot\assets\img\icons\spot-illustrations\share-active.png
+wwwroot\assets\img\icons\spot-illustrations\share-inactive.png
+wwwroot\assets\img\icons\spot-illustrations\startup.svg
+wwwroot\assets\img\icons\star_on.svg
+wwwroot\assets\img\icons\sun.svg
+wwwroot\assets\img\icons\target.svg
+wwwroot\assets\img\icons\triple-chevron-up.svg
+wwwroot\assets\img\icons\user-plus.svg
+wwwroot\assets\img\icons\users.svg
+wwwroot\assets\img\icons\visa.png
+wwwroot\assets\img\icons\weather-icon.png
+wwwroot\assets\img\icons\weather-sm.jpg
+wwwroot\assets\img\icons\weather.jpg
+wwwroot\assets\img\icons\zip.png
+wwwroot\assets\img\illustrations\1.svg
+wwwroot\assets\img\illustrations\2.svg
+wwwroot\assets\img\illustrations\3.svg
+wwwroot\assets\img\illustrations\4.png
+wwwroot\assets\img\illustrations\4.svg
+wwwroot\assets\img\illustrations\5.png
+wwwroot\assets\img\illustrations\5.svg
+wwwroot\assets\img\illustrations\6.png
+wwwroot\assets\img\illustrations\6.svg
+wwwroot\assets\img\illustrations\authentication-corner.png
+wwwroot\assets\img\illustrations\bg-shape.png
+wwwroot\assets\img\illustrations\bg-wave.png
+wwwroot\assets\img\illustrations\calendar.svg
+wwwroot\assets\img\illustrations\comment-active.png
+wwwroot\assets\img\illustrations\comment-inactive.png
+wwwroot\assets\img\illustrations\corner-1.png
+wwwroot\assets\img\illustrations\corner-2.png
+wwwroot\assets\img\illustrations\corner-3.png
+wwwroot\assets\img\illustrations\corner-4.png
+wwwroot\assets\img\illustrations\corner-5.png
+wwwroot\assets\img\illustrations\corner-6.png
+wwwroot\assets\img\illustrations\creating.png
+wwwroot\assets\img\illustrations\crm-bar-chart.png
+wwwroot\assets\img\illustrations\crm-line-chart.png
+wwwroot\assets\img\illustrations\ecommerce-bg.png
+wwwroot\assets\img\illustrations\editing.svg
+wwwroot\assets\img\illustrations\envelope.png
+wwwroot\assets\img\illustrations\falcon.png
+wwwroot\assets\img\illustrations\gifts.png
+wwwroot\assets\img\illustrations\half-circle-1.png
+wwwroot\assets\img\illustrations\half-circle.png
+wwwroot\assets\img\illustrations\image.svg
+wwwroot\assets\img\illustrations\international-women-s-day-2.png
+wwwroot\assets\img\illustrations\international-women-s-day.jpg
+wwwroot\assets\img\illustrations\like-active.png
+wwwroot\assets\img\illustrations\like-inactive.png
+wwwroot\assets\img\illustrations\location.svg
+wwwroot\assets\img\illustrations\navbar-vertical.png
+wwwroot\assets\img\illustrations\paper-plane.svg
+wwwroot\assets\img\illustrations\reports-bg.png
+wwwroot\assets\img\illustrations\reports-greeting.png
+wwwroot\assets\img\illustrations\rocket.png
+wwwroot\assets\img\illustrations\settings.png
+wwwroot\assets\img\illustrations\shape-1.png
+wwwroot\assets\img\illustrations\share-active.png
+wwwroot\assets\img\illustrations\share-inactive.png
+wwwroot\assets\img\illustrations\startup.svg
+wwwroot\assets\img\illustrations\ticket-bg.png
+wwwroot\assets\img\illustrations\ticket-welcome.png
+wwwroot\assets\img\kanban\1.jpg
+wwwroot\assets\img\kanban\2.jpg
+wwwroot\assets\img\kanban\3.jpg
+wwwroot\assets\img\kanban\4.jpg
+wwwroot\assets\img\logo.png
+wwwroot\assets\img\logos\adidas.png
+wwwroot\assets\img\logos\adobe-creative-cloud.png
+wwwroot\assets\img\logos\amazon.png
+wwwroot\assets\img\logos\apple.png
+wwwroot\assets\img\logos\asana-logo.png
+wwwroot\assets\img\logos\atlassian.png
+wwwroot\assets\img\logos\b&w\1.png
+wwwroot\assets\img\logos\b&w\10.png
+wwwroot\assets\img\logos\b&w\11.png
+wwwroot\assets\img\logos\b&w\12.png
+wwwroot\assets\img\logos\b&w\2.png
+wwwroot\assets\img\logos\b&w\3.png
+wwwroot\assets\img\logos\b&w\4.png
+wwwroot\assets\img\logos\b&w\5.png
+wwwroot\assets\img\logos\b&w\6.png
+wwwroot\assets\img\logos\b&w\7.png
+wwwroot\assets\img\logos\b&w\8.png
+wwwroot\assets\img\logos\b&w\9.png
+wwwroot\assets\img\logos\bs-5.png
+wwwroot\assets\img\logos\bs-logo.png
+wwwroot\assets\img\logos\cocacola.png
+wwwroot\assets\img\logos\coursera.png
+wwwroot\assets\img\logos\digitalocean.png
+wwwroot\assets\img\logos\echart.png
+wwwroot\assets\img\logos\facebook.png
+wwwroot\assets\img\logos\g.png
+wwwroot\assets\img\logos\github.png
+wwwroot\assets\img\logos\gmail.png
+wwwroot\assets\img\logos\goodreads.png
+wwwroot\assets\img\logos\google.png
+wwwroot\assets\img\logos\harvard.png
+wwwroot\assets\img\logos\hp.png
+wwwroot\assets\img\logos\hubstaff.png
+wwwroot\assets\img\logos\intel-2.png
+wwwroot\assets\img\logos\intel.png
+wwwroot\assets\img\logos\js.png
+wwwroot\assets\img\logos\logo-invoice-.png
+wwwroot\assets\img\logos\logo-invoice.png
+wwwroot\assets\img\logos\mailbluster.png
+wwwroot\assets\img\logos\medium.png
+wwwroot\assets\img\logos\netflix.png
+wwwroot\assets\img\logos\nike.png
+wwwroot\assets\img\logos\nvidia.png
+wwwroot\assets\img\logos\oxford.png
+wwwroot\assets\img\logos\paypal.png
+wwwroot\assets\img\logos\pinterest.png
+wwwroot\assets\img\logos\pug.png
+wwwroot\assets\img\logos\samsung.png
+wwwroot\assets\img\logos\spectrum.jpg
+wwwroot\assets\img\logos\spotify.png
+wwwroot\assets\img\logos\stanford.png
+wwwroot\assets\img\logos\staten.png
+wwwroot\assets\img\logos\stripe.png
+wwwroot\assets\img\logos\techcrunch.png
+wwwroot\assets\img\logos\technext.png
+wwwroot\assets\img\logos\themewagon-main.png
+wwwroot\assets\img\logos\themewagon.png
+wwwroot\assets\img\logos\tj-heigh-school.png
+wwwroot\assets\img\logos\twitter.png
+wwwroot\assets\img\logos\unsplash.png
+wwwroot\assets\img\logos\youtube.png
+wwwroot\assets\img\management\activity-1.png
+wwwroot\assets\img\management\activity-2.png
+wwwroot\assets\img\management\activity-3.png
+wwwroot\assets\img\management\activity-4.png
+wwwroot\assets\img\management\activity-5.png
+wwwroot\assets\img\management\activity-6.png
+wwwroot\assets\img\management\activity-7.png
+wwwroot\assets\img\management\activity-8.png
+wwwroot\assets\img\management\activity-9.png
+wwwroot\assets\img\nav-icons\apple.png
+wwwroot\assets\img\nav-icons\deviantart.png
+wwwroot\assets\img\nav-icons\discord.png
+wwwroot\assets\img\nav-icons\facebook.png
+wwwroot\assets\img\nav-icons\github-light.png
+wwwroot\assets\img\nav-icons\github.png
+wwwroot\assets\img\nav-icons\google.png
+wwwroot\assets\img\nav-icons\hp.png
+wwwroot\assets\img\nav-icons\instagram.png
+wwwroot\assets\img\nav-icons\linkedin.png
+wwwroot\assets\img\nav-icons\mailbluster.png
+wwwroot\assets\img\nav-icons\pinterest.png
+wwwroot\assets\img\nav-icons\slack.png
+wwwroot\assets\img\nav-icons\spotify.png
+wwwroot\assets\img\nav-icons\steam.png
+wwwroot\assets\img\nav-icons\themewagon.png
+wwwroot\assets\img\nav-icons\trello.png
+wwwroot\assets\img\nav-icons\twitter.png
+wwwroot\assets\img\nav-icons\vimeo.png
+wwwroot\assets\img\nav-icons\wwf.png
+wwwroot\assets\img\nav-icons\xbox.png
+wwwroot\assets\img\products\1-2.jpg
+wwwroot\assets\img\products\1-3.jpg
+wwwroot\assets\img\products\1-4.jpg
+wwwroot\assets\img\products\1-5.jpg
+wwwroot\assets\img\products\1-6.jpg
+wwwroot\assets\img\products\1.jpg
+wwwroot\assets\img\products\10.png
+wwwroot\assets\img\products\11.png
+wwwroot\assets\img\products\12.png
+wwwroot\assets\img\products\13.png
+wwwroot\assets\img\products\14.png
+wwwroot\assets\img\products\2-thumb.png
+wwwroot\assets\img\products\2.jpg
+wwwroot\assets\img\products\3-thumb.png
+wwwroot\assets\img\products\3.jpg
+wwwroot\assets\img\products\4.jpg
+wwwroot\assets\img\products\5-thumb.png
+wwwroot\assets\img\products\5.jpg
+wwwroot\assets\img\products\6.jpg
+wwwroot\assets\img\products\7.jpg
+wwwroot\assets\img\products\8.jpg
+wwwroot\assets\img\products\9.jpg
+wwwroot\assets\img\team\1-thumb.png
+wwwroot\assets\img\team\1.jpg
+wwwroot\assets\img\team\10.jpg
+wwwroot\assets\img\team\11.jpg
+wwwroot\assets\img\team\12.jpg
+wwwroot\assets\img\team\13.jpg
+wwwroot\assets\img\team\14-thumb.png
+wwwroot\assets\img\team\14.jpg
+wwwroot\assets\img\team\15.jpg
+wwwroot\assets\img\team\16.jpg
+wwwroot\assets\img\team\17.jpg
+wwwroot\assets\img\team\18.jpg
+wwwroot\assets\img\team\19.jpg
+wwwroot\assets\img\team\2-thumb.png
+wwwroot\assets\img\team\2.jpg
+wwwroot\assets\img\team\20.jpg
+wwwroot\assets\img\team\21.jpg
+wwwroot\assets\img\team\22.jpg
+wwwroot\assets\img\team\23.jpg
+wwwroot\assets\img\team\24.jpg
+wwwroot\assets\img\team\25-thumb.png
+wwwroot\assets\img\team\25.jpg
+wwwroot\assets\img\team\3-thumb.png
+wwwroot\assets\img\team\3.jpg
+wwwroot\assets\img\team\4-thumb.png
+wwwroot\assets\img\team\4.jpg
+wwwroot\assets\img\team\5-thumb.png
+wwwroot\assets\img\team\5.jpg
+wwwroot\assets\img\team\6.jpg
+wwwroot\assets\img\team\7.jpg
+wwwroot\assets\img\team\8.jpg
+wwwroot\assets\img\team\9.jpg
+wwwroot\assets\img\team\avatar.png
+wwwroot\assets\img\team\empty-thumb.png
+wwwroot\assets\img\tickets\due-tickets.png
+wwwroot\assets\img\tickets\hold-tickets.png
+wwwroot\assets\img\tickets\open-tickets.png
+wwwroot\assets\img\tickets\reports\1.png
+wwwroot\assets\img\tickets\reports\2.png
+wwwroot\assets\img\tickets\reports\3.png
+wwwroot\assets\img\tickets\reports\4.png
+wwwroot\assets\img\tickets\reports\5.png
+wwwroot\assets\img\tickets\reports\6.png
+wwwroot\assets\img\tickets\reports\7.png
+wwwroot\assets\img\tickets\unassigned.png
+wwwroot\assets\js\config.js
+wwwroot\assets\js\config.js.map
+wwwroot\assets\js\echart-example.js
+wwwroot\assets\js\echart-example.js.map
+wwwroot\assets\js\echarts-example.js
+wwwroot\assets\js\echarts-example.js.map
+wwwroot\assets\js\emoji-button.js
+wwwroot\assets\js\flatpickr.js
+wwwroot\assets\js\theme.js
+wwwroot\assets\js\theme.js.map
+wwwroot\assets\js\theme.min.js
+wwwroot\assets\js\theme.min.js.map
+wwwroot\assets\logos\themewagon (1).png
+wwwroot\assets\video\beach.jpg
+wwwroot\assets\video\beach.mp4
+wwwroot\assets\video\beach.webm
+wwwroot\css\site.css
+wwwroot\dashboard\analytics.html
+wwwroot\dashboard\crm.html
+wwwroot\dashboard\e-commerce.html
+wwwroot\dashboard\lms.html
+wwwroot\dashboard\project-management.html
+wwwroot\dashboard\saas.html
+wwwroot\dashboard\support-desk.html
+wwwroot\demo\combo-nav.html
+wwwroot\demo\fluid.html
+wwwroot\demo\navbar-double-top.html
+wwwroot\demo\navbar-top.html
+wwwroot\demo\navbar-vertical-card.html
+wwwroot\demo\navbar-vertical-inverted.html
+wwwroot\demo\navbar-vertical-vibrant.html
+wwwroot\demo\navbar-vertical.html
+wwwroot\demo\RTL.html
+wwwroot\documentation\customization\configuration.html
+wwwroot\documentation\customization\dark-mode.html
+wwwroot\documentation\customization\plugin.html
+wwwroot\documentation\customization\styling.html
+wwwroot\documentation\design-file.html
+wwwroot\documentation\faq.html
+wwwroot\documentation\getting-started.html
+wwwroot\documentation\gulp.html
+wwwroot\favicon.ico
+wwwroot\images\08487903-d991-4891-8ece-93473d520391.png
+wwwroot\images\0b66ee78-691b-4f85-af2d-7bf9514ae73c.png
+wwwroot\images\2cdadd79-2366-4d2f-baf1-b5c991f25c7e.png
+wwwroot\images\46e0b503-e9f0-45f0-8366-96a1081bc6c6.png
+wwwroot\images\554aba62-1737-4e4d-a24c-5bb0b3822d8b.png
+wwwroot\images\6fb97745-ee0d-4125-b73c-a49d3b017a8d.png
+wwwroot\images\923b0424-f54c-41bb-8f89-d11897bf7b4f.png
+wwwroot\images\999e7aea-7212-404c-ba0a-d1635fe359b7.png
+wwwroot\images\dfddcc8f-6d4f-4ef2-88c8-ecf26b3e4e41.png
+wwwroot\images\e6e9caed-8ff5-41ec-80d7-d4ea1ffb7180.png
+wwwroot\images\e7f37a63-43f4-4a75-a222-3b5739d7d1de.png
+wwwroot\images\ffbfe2c1-40a8-4f84-a272-37ff19e04df0.png
+wwwroot\images\Movie_images\00ab04f0-5cb2-4b63-af56-86c0c7c33c0c.png
+wwwroot\images\Movie_images\34c9b596-9c79-4691-add9-0ca7753335ec.png
+wwwroot\images\Movie_images\d417b533-637a-4758-b6e9-85cd4e174494.png
+wwwroot\images\Movie_images\dee2389b-c6e7-423f-b400-591c5c95b3ae.png
+wwwroot\images\Movie_images\ea639e78-d553-4f9c-8ae2-2931e5f86158.png
+wwwroot\images\Movie_images\f65af4d0-9426-4352-aca5-e38b5498807a.png
+wwwroot\js\site.js
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap.css
+wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css
+wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
+wwwroot\lib\bootstrap\LICENSE
+wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.js
+wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.min.js
+wwwroot\lib\jquery-validation-unobtrusive\LICENSE.txt
+wwwroot\lib\jquery-validation\dist\additional-methods.js
+wwwroot\lib\jquery-validation\dist\additional-methods.min.js
+wwwroot\lib\jquery-validation\dist\jquery.validate.js
+wwwroot\lib\jquery-validation\dist\jquery.validate.min.js
+wwwroot\lib\jquery-validation\LICENSE.md
+wwwroot\lib\jquery\dist\jquery.js
+wwwroot\lib\jquery\dist\jquery.min.js
+wwwroot\lib\jquery\dist\jquery.min.map
+wwwroot\lib\jquery\dist\jquery.slim.js
+wwwroot\lib\jquery\dist\jquery.slim.min.js
+wwwroot\lib\jquery\dist\jquery.slim.min.map
+wwwroot\lib\jquery\LICENSE.txt
+wwwroot\modules\charts\chartjs.html
+wwwroot\modules\charts\d3js.html
+wwwroot\modules\charts\echarts\bar-charts.html
+wwwroot\modules\charts\echarts\candlestick-charts.html
+wwwroot\modules\charts\echarts\gauge-charts.html
+wwwroot\modules\charts\echarts\geo-map.html
+wwwroot\modules\charts\echarts\heatmap-charts.html
+wwwroot\modules\charts\echarts\how-to-use.html
+wwwroot\modules\charts\echarts\line-charts.html
+wwwroot\modules\charts\echarts\pie-charts.html
+wwwroot\modules\charts\echarts\radar-charts.html
+wwwroot\modules\charts\echarts\scatter-charts.html
+wwwroot\modules\components\accordion.html
+wwwroot\modules\components\alerts.html
+wwwroot\modules\components\anchor.html
+wwwroot\modules\components\animated-icons.html
+wwwroot\modules\components\background.html
+wwwroot\modules\components\badges.html
+wwwroot\modules\components\bottom-bar.html
+wwwroot\modules\components\breadcrumbs.html
+wwwroot\modules\components\buttons.html
+wwwroot\modules\components\calendar.html
+wwwroot\modules\components\cards.html
+wwwroot\modules\components\carousel\bootstrap.html
+wwwroot\modules\components\carousel\swiper.html
+wwwroot\modules\components\close-button.html
+wwwroot\modules\components\collapse.html
+wwwroot\modules\components\cookie-notice.html
+wwwroot\modules\components\countup.html
+wwwroot\modules\components\draggable.html
+wwwroot\modules\components\dropdowns.html
+wwwroot\modules\components\jquery-components.html
+wwwroot\modules\components\list-group.html
+wwwroot\modules\components\modals.html
+wwwroot\modules\components\navs-and-tabs\combo-navbar.html
+wwwroot\modules\components\navs-and-tabs\double-top-navbar.html
+wwwroot\modules\components\navs-and-tabs\navbar.html
+wwwroot\modules\components\navs-and-tabs\navs.html
+wwwroot\modules\components\navs-and-tabs\tabs.html
+wwwroot\modules\components\navs-and-tabs\top-navbar.html
+wwwroot\modules\components\navs-and-tabs\vertical-navbar.html
+wwwroot\modules\components\offcanvas.html
+wwwroot\modules\components\pagination.html
+wwwroot\modules\components\pictures\avatar.html
+wwwroot\modules\components\pictures\figures.html
+wwwroot\modules\components\pictures\hoverbox.html
+wwwroot\modules\components\pictures\images.html
+wwwroot\modules\components\pictures\lightbox.html
+wwwroot\modules\components\placeholder.html
+wwwroot\modules\components\popovers.html
+wwwroot\modules\components\progress-bar.html
+wwwroot\modules\components\scrollspy.html
+wwwroot\modules\components\search.html
+wwwroot\modules\components\spinners.html
+wwwroot\modules\components\timeline.html
+wwwroot\modules\components\toasts.html
+wwwroot\modules\components\tooltips.html
+wwwroot\modules\components\treeview.html
+wwwroot\modules\components\typed-text.html
+wwwroot\modules\components\videos\embed.html
+wwwroot\modules\components\videos\plyr.html
+wwwroot\modules\forms\advance\advance-select.html
+wwwroot\modules\forms\advance\date-picker.html
+wwwroot\modules\forms\advance\editor.html
+wwwroot\modules\forms\advance\emoji-button.html
+wwwroot\modules\forms\advance\file-uploader.html
+wwwroot\modules\forms\advance\rating.html
+wwwroot\modules\forms\basic\checks.html
+wwwroot\modules\forms\basic\form-control.html
+wwwroot\modules\forms\basic\input-group.html
+wwwroot\modules\forms\basic\layout.html
+wwwroot\modules\forms\basic\range.html
+wwwroot\modules\forms\basic\select.html
+wwwroot\modules\forms\floating-labels.html
+wwwroot\modules\forms\validation.html
+wwwroot\modules\forms\wizard.html
+wwwroot\modules\icons\bootstrap-icons.html
+wwwroot\modules\icons\feather.html
+wwwroot\modules\icons\font-awesome.html
+wwwroot\modules\icons\material-icons.html
+wwwroot\modules\maps\google-map.html
+wwwroot\modules\maps\leaflet-map.html
+wwwroot\modules\tables\advance-tables.html
+wwwroot\modules\tables\basic-tables.html
+wwwroot\modules\tables\bulk-select.html
+wwwroot\modules\utilities\borders.html
+wwwroot\modules\utilities\clearfix.html
+wwwroot\modules\utilities\colored-links.html
+wwwroot\modules\utilities\colors.html
+wwwroot\modules\utilities\display.html
+wwwroot\modules\utilities\flex.html
+wwwroot\modules\utilities\float.html
+wwwroot\modules\utilities\grid.html
+wwwroot\modules\utilities\overlayscrollbar.html
+wwwroot\modules\utilities\position.html
+wwwroot\modules\utilities\sizing.html
+wwwroot\modules\utilities\spacing.html
+wwwroot\modules\utilities\stretched-link.html
+wwwroot\modules\utilities\text-truncation.html
+wwwroot\modules\utilities\typography.html
+wwwroot\modules\utilities\vertical-align.html
+wwwroot\modules\utilities\visibility.html
+wwwroot\pages\authentication\card\confirm-mail.html
+wwwroot\pages\authentication\card\forgot-password.html
+wwwroot\pages\authentication\card\lock-screen.html
+wwwroot\pages\authentication\card\login.html
+wwwroot\pages\authentication\card\logout.html
+wwwroot\pages\authentication\card\register.html
+wwwroot\pages\authentication\card\reset-password.html
+wwwroot\pages\authentication\simple\confirm-mail.html
+wwwroot\pages\authentication\simple\forgot-password.html
+wwwroot\pages\authentication\simple\lock-screen.html
+wwwroot\pages\authentication\simple\login.html
+wwwroot\pages\authentication\simple\logout.html
+wwwroot\pages\authentication\simple\register.html
+wwwroot\pages\authentication\simple\reset-password.html
+wwwroot\pages\authentication\split\confirm-mail.html
+wwwroot\pages\authentication\split\forgot-password.html
+wwwroot\pages\authentication\split\lock-screen.html
+wwwroot\pages\authentication\split\login.html
+wwwroot\pages\authentication\split\logout.html
+wwwroot\pages\authentication\split\register.html
+wwwroot\pages\authentication\split\reset-password.html
+wwwroot\pages\authentication\wizard.html
+wwwroot\pages\errors\404.html
+wwwroot\pages\errors\500.html
+wwwroot\pages\faq\faq-accordion.html
+wwwroot\pages\faq\faq-alt.html
+wwwroot\pages\faq\faq-basic.html
+wwwroot\pages\landing.html
+wwwroot\pages\miscellaneous\associations.html
+wwwroot\pages\miscellaneous\invite-people.html
+wwwroot\pages\miscellaneous\privacy-policy.html
+wwwroot\pages\pricing\pricing-alt.html
+wwwroot\pages\pricing\pricing-default.html
+wwwroot\pages\starter.html
+wwwroot\pages\user\profile.html
+wwwroot\pages\user\settings.html
+wwwroot\vendors\anchorjs\anchor.min.js
+wwwroot\vendors\bootstrap\bootstrap.min.js
+wwwroot\vendors\bootstrap\bootstrap.min.js.map
+wwwroot\vendors\chart\chart.min.js
+wwwroot\vendors\choices\base.min.css
+wwwroot\vendors\choices\choices.min.css
+wwwroot\vendors\choices\choices.min.js
+wwwroot\vendors\countup\countUp.umd.js
+wwwroot\vendors\d3\d3.min.js
+wwwroot\vendors\datatables.net-bs5\dataTables.bootstrap5.min.css
+wwwroot\vendors\datatables.net-bs5\dataTables.bootstrap5.min.js
+wwwroot\vendors\datatables.net-dt\jquery.dataTables.min.css
+wwwroot\vendors\datatables.net-fixedcolumns\dataTables.fixedColumns.min.js
+wwwroot\vendors\datatables.net\jquery.dataTables.min.js
+wwwroot\vendors\dayjs\dayjs.min.js
+wwwroot\vendors\draggable\draggable.bundle.legacy.js
+wwwroot\vendors\dropzone\dropzone.min.css
+wwwroot\vendors\dropzone\dropzone.min.js
+wwwroot\vendors\echarts-countries-js\map\USA.js
+wwwroot\vendors\echarts-countries-js\map\world.js
+wwwroot\vendors\echarts-countries-js\world\world.js
+wwwroot\vendors\echarts\echarts.min.js
+wwwroot\vendors\flatpickr\flatpickr.min.css
+wwwroot\vendors\fontawesome\all.min.js
+wwwroot\vendors\fullcalendar\main.js
+wwwroot\vendors\fullcalendar\main.min.css
+wwwroot\vendors\fullcalendar\main.min.js
+wwwroot\vendors\glightbox\glightbox.min.css
+wwwroot\vendors\glightbox\glightbox.min.js
+wwwroot\vendors\is\is.min.js
+wwwroot\vendors\jquery\jquery.min.js
+wwwroot\vendors\leaflet.markercluster\leaflet.markercluster.js
+wwwroot\vendors\leaflet.markercluster\leaflet.markercluster.js.map
+wwwroot\vendors\leaflet.markercluster\MarkerCluster.css
+wwwroot\vendors\leaflet.markercluster\MarkerCluster.Default.css
+wwwroot\vendors\leaflet.tilelayer.colorfilter\leaflet-tilelayer-colorfilter.min.js
+wwwroot\vendors\leaflet\leaflet.css
+wwwroot\vendors\leaflet\leaflet.js
+wwwroot\vendors\leaflet\leaflet.js.map
+wwwroot\vendors\list.js\list.min.js
+wwwroot\vendors\list.js\list.min.js.map
+wwwroot\vendors\lodash\lodash.min.js
+wwwroot\vendors\lottie\lottie.min.js
+wwwroot\vendors\overlayscrollbars\OverlayScrollbars.min.css
+wwwroot\vendors\overlayscrollbars\OverlayScrollbars.min.js
+wwwroot\vendors\plyr\plyr.css
+wwwroot\vendors\plyr\plyr.polyfilled.min.js
+wwwroot\vendors\plyr\plyr.polyfilled.min.js.map
+wwwroot\vendors\popper\popper.min.js
+wwwroot\vendors\popper\popper.min.js.map
+wwwroot\vendors\prism\prism-okaidia.css
+wwwroot\vendors\prism\prism.js
+wwwroot\vendors\rater-js\index.js
+wwwroot\vendors\rater-js\rater-js.js
+wwwroot\vendors\rater-js\star_0.svg
+wwwroot\vendors\rater-js\star_1.svg
+wwwroot\vendors\rater-js\style.css
+wwwroot\vendors\select2-bootstrap-5-theme\select2-bootstrap-5-theme.min.css
+wwwroot\vendors\select2\select2.full.min.js
+wwwroot\vendors\select2\select2.min.css
+wwwroot\vendors\select2\select2.min.js
+wwwroot\vendors\simplebar\simplebar.min.css
+wwwroot\vendors\simplebar\simplebar.min.js
+wwwroot\vendors\swiper\swiper-bundle.min.css
+wwwroot\vendors\swiper\swiper-bundle.min.js
+wwwroot\vendors\tiny-slider\tiny-slider.css
+wwwroot\vendors\tiny-slider\tiny-slider.css.map
+wwwroot\vendors\tiny-slider\tiny-slider.js
+wwwroot\vendors\tiny-slider\tiny-slider.scss
+wwwroot\vendors\tinymce\bower.json
+wwwroot\vendors\tinymce\CHANGELOG.md
+wwwroot\vendors\tinymce\composer.json
+wwwroot\vendors\tinymce\icons\default\icons.js
+wwwroot\vendors\tinymce\icons\default\icons.min.js
+wwwroot\vendors\tinymce\icons\default\index.js
+wwwroot\vendors\tinymce\jquery.tinymce.js
+wwwroot\vendors\tinymce\jquery.tinymce.min.js
+wwwroot\vendors\tinymce\license.txt
+wwwroot\vendors\tinymce\package.json
+wwwroot\vendors\tinymce\plugins\advlist\index.js
+wwwroot\vendors\tinymce\plugins\advlist\plugin.js
+wwwroot\vendors\tinymce\plugins\advlist\plugin.min.js
+wwwroot\vendors\tinymce\plugins\anchor\index.js
+wwwroot\vendors\tinymce\plugins\anchor\plugin.js
+wwwroot\vendors\tinymce\plugins\anchor\plugin.min.js
+wwwroot\vendors\tinymce\plugins\autolink\index.js
+wwwroot\vendors\tinymce\plugins\autolink\plugin.js
+wwwroot\vendors\tinymce\plugins\autolink\plugin.min.js
+wwwroot\vendors\tinymce\plugins\autoresize\index.js
+wwwroot\vendors\tinymce\plugins\autoresize\plugin.js
+wwwroot\vendors\tinymce\plugins\autoresize\plugin.min.js
+wwwroot\vendors\tinymce\plugins\autosave\index.js
+wwwroot\vendors\tinymce\plugins\autosave\plugin.js
+wwwroot\vendors\tinymce\plugins\autosave\plugin.min.js
+wwwroot\vendors\tinymce\plugins\bbcode\index.js
+wwwroot\vendors\tinymce\plugins\bbcode\plugin.js
+wwwroot\vendors\tinymce\plugins\bbcode\plugin.min.js
+wwwroot\vendors\tinymce\plugins\charmap\index.js
+wwwroot\vendors\tinymce\plugins\charmap\plugin.js
+wwwroot\vendors\tinymce\plugins\charmap\plugin.min.js
+wwwroot\vendors\tinymce\plugins\codesample\index.js
+wwwroot\vendors\tinymce\plugins\codesample\plugin.js
+wwwroot\vendors\tinymce\plugins\codesample\plugin.min.js
+wwwroot\vendors\tinymce\plugins\code\index.js
+wwwroot\vendors\tinymce\plugins\code\plugin.js
+wwwroot\vendors\tinymce\plugins\code\plugin.min.js
+wwwroot\vendors\tinymce\plugins\colorpicker\index.js
+wwwroot\vendors\tinymce\plugins\colorpicker\plugin.js
+wwwroot\vendors\tinymce\plugins\colorpicker\plugin.min.js
+wwwroot\vendors\tinymce\plugins\contextmenu\index.js
+wwwroot\vendors\tinymce\plugins\contextmenu\plugin.js
+wwwroot\vendors\tinymce\plugins\contextmenu\plugin.min.js
+wwwroot\vendors\tinymce\plugins\directionality\index.js
+wwwroot\vendors\tinymce\plugins\directionality\plugin.js
+wwwroot\vendors\tinymce\plugins\directionality\plugin.min.js
+wwwroot\vendors\tinymce\plugins\emoticons\index.js
+wwwroot\vendors\tinymce\plugins\emoticons\js\emojiimages.js
+wwwroot\vendors\tinymce\plugins\emoticons\js\emojiimages.min.js
+wwwroot\vendors\tinymce\plugins\emoticons\js\emojis.js
+wwwroot\vendors\tinymce\plugins\emoticons\js\emojis.min.js
+wwwroot\vendors\tinymce\plugins\emoticons\plugin.js
+wwwroot\vendors\tinymce\plugins\emoticons\plugin.min.js
+wwwroot\vendors\tinymce\plugins\fullpage\index.js
+wwwroot\vendors\tinymce\plugins\fullpage\plugin.js
+wwwroot\vendors\tinymce\plugins\fullpage\plugin.min.js
+wwwroot\vendors\tinymce\plugins\fullscreen\index.js
+wwwroot\vendors\tinymce\plugins\fullscreen\plugin.js
+wwwroot\vendors\tinymce\plugins\fullscreen\plugin.min.js
+wwwroot\vendors\tinymce\plugins\help\index.js
+wwwroot\vendors\tinymce\plugins\help\plugin.js
+wwwroot\vendors\tinymce\plugins\help\plugin.min.js
+wwwroot\vendors\tinymce\plugins\hr\index.js
+wwwroot\vendors\tinymce\plugins\hr\plugin.js
+wwwroot\vendors\tinymce\plugins\hr\plugin.min.js
+wwwroot\vendors\tinymce\plugins\imagetools\index.js
+wwwroot\vendors\tinymce\plugins\imagetools\plugin.js
+wwwroot\vendors\tinymce\plugins\imagetools\plugin.min.js
+wwwroot\vendors\tinymce\plugins\image\index.js
+wwwroot\vendors\tinymce\plugins\image\plugin.js
+wwwroot\vendors\tinymce\plugins\image\plugin.min.js
+wwwroot\vendors\tinymce\plugins\importcss\index.js
+wwwroot\vendors\tinymce\plugins\importcss\plugin.js
+wwwroot\vendors\tinymce\plugins\importcss\plugin.min.js
+wwwroot\vendors\tinymce\plugins\insertdatetime\index.js
+wwwroot\vendors\tinymce\plugins\insertdatetime\plugin.js
+wwwroot\vendors\tinymce\plugins\insertdatetime\plugin.min.js
+wwwroot\vendors\tinymce\plugins\legacyoutput\index.js
+wwwroot\vendors\tinymce\plugins\legacyoutput\plugin.js
+wwwroot\vendors\tinymce\plugins\legacyoutput\plugin.min.js
+wwwroot\vendors\tinymce\plugins\link\index.js
+wwwroot\vendors\tinymce\plugins\link\plugin.js
+wwwroot\vendors\tinymce\plugins\link\plugin.min.js
+wwwroot\vendors\tinymce\plugins\lists\index.js
+wwwroot\vendors\tinymce\plugins\lists\plugin.js
+wwwroot\vendors\tinymce\plugins\lists\plugin.min.js
+wwwroot\vendors\tinymce\plugins\media\index.js
+wwwroot\vendors\tinymce\plugins\media\plugin.js
+wwwroot\vendors\tinymce\plugins\media\plugin.min.js
+wwwroot\vendors\tinymce\plugins\nonbreaking\index.js
+wwwroot\vendors\tinymce\plugins\nonbreaking\plugin.js
+wwwroot\vendors\tinymce\plugins\nonbreaking\plugin.min.js
+wwwroot\vendors\tinymce\plugins\noneditable\index.js
+wwwroot\vendors\tinymce\plugins\noneditable\plugin.js
+wwwroot\vendors\tinymce\plugins\noneditable\plugin.min.js
+wwwroot\vendors\tinymce\plugins\pagebreak\index.js
+wwwroot\vendors\tinymce\plugins\pagebreak\plugin.js
+wwwroot\vendors\tinymce\plugins\pagebreak\plugin.min.js
+wwwroot\vendors\tinymce\plugins\paste\index.js
+wwwroot\vendors\tinymce\plugins\paste\plugin.js
+wwwroot\vendors\tinymce\plugins\paste\plugin.min.js
+wwwroot\vendors\tinymce\plugins\preview\index.js
+wwwroot\vendors\tinymce\plugins\preview\plugin.js
+wwwroot\vendors\tinymce\plugins\preview\plugin.min.js
+wwwroot\vendors\tinymce\plugins\print\index.js
+wwwroot\vendors\tinymce\plugins\print\plugin.js
+wwwroot\vendors\tinymce\plugins\print\plugin.min.js
+wwwroot\vendors\tinymce\plugins\quickbars\index.js
+wwwroot\vendors\tinymce\plugins\quickbars\plugin.js
+wwwroot\vendors\tinymce\plugins\quickbars\plugin.min.js
+wwwroot\vendors\tinymce\plugins\save\index.js
+wwwroot\vendors\tinymce\plugins\save\plugin.js
+wwwroot\vendors\tinymce\plugins\save\plugin.min.js
+wwwroot\vendors\tinymce\plugins\searchreplace\index.js
+wwwroot\vendors\tinymce\plugins\searchreplace\plugin.js
+wwwroot\vendors\tinymce\plugins\searchreplace\plugin.min.js
+wwwroot\vendors\tinymce\plugins\spellchecker\index.js
+wwwroot\vendors\tinymce\plugins\spellchecker\plugin.js
+wwwroot\vendors\tinymce\plugins\spellchecker\plugin.min.js
+wwwroot\vendors\tinymce\plugins\tabfocus\index.js
+wwwroot\vendors\tinymce\plugins\tabfocus\plugin.js
+wwwroot\vendors\tinymce\plugins\tabfocus\plugin.min.js
+wwwroot\vendors\tinymce\plugins\table\index.js
+wwwroot\vendors\tinymce\plugins\table\plugin.js
+wwwroot\vendors\tinymce\plugins\table\plugin.min.js
+wwwroot\vendors\tinymce\plugins\template\index.js
+wwwroot\vendors\tinymce\plugins\template\plugin.js
+wwwroot\vendors\tinymce\plugins\template\plugin.min.js
+wwwroot\vendors\tinymce\plugins\textcolor\index.js
+wwwroot\vendors\tinymce\plugins\textcolor\plugin.js
+wwwroot\vendors\tinymce\plugins\textcolor\plugin.min.js
+wwwroot\vendors\tinymce\plugins\textpattern\index.js
+wwwroot\vendors\tinymce\plugins\textpattern\plugin.js
+wwwroot\vendors\tinymce\plugins\textpattern\plugin.min.js
+wwwroot\vendors\tinymce\plugins\toc\index.js
+wwwroot\vendors\tinymce\plugins\toc\plugin.js
+wwwroot\vendors\tinymce\plugins\toc\plugin.min.js
+wwwroot\vendors\tinymce\plugins\visualblocks\index.js
+wwwroot\vendors\tinymce\plugins\visualblocks\plugin.js
+wwwroot\vendors\tinymce\plugins\visualblocks\plugin.min.js
+wwwroot\vendors\tinymce\plugins\visualchars\index.js
+wwwroot\vendors\tinymce\plugins\visualchars\plugin.js
+wwwroot\vendors\tinymce\plugins\visualchars\plugin.min.js
+wwwroot\vendors\tinymce\plugins\wordcount\index.js
+wwwroot\vendors\tinymce\plugins\wordcount\plugin.js
+wwwroot\vendors\tinymce\plugins\wordcount\plugin.min.js
+wwwroot\vendors\tinymce\README.md
+wwwroot\vendors\tinymce\skins\content\dark\content.css
+wwwroot\vendors\tinymce\skins\content\dark\content.min.css
+wwwroot\vendors\tinymce\skins\content\default\content.css
+wwwroot\vendors\tinymce\skins\content\default\content.min.css
+wwwroot\vendors\tinymce\skins\content\document\content.css
+wwwroot\vendors\tinymce\skins\content\document\content.min.css
+wwwroot\vendors\tinymce\skins\content\writer\content.css
+wwwroot\vendors\tinymce\skins\content\writer\content.min.css
+wwwroot\vendors\tinymce\skins\ui\oxide-dark\content.css
+wwwroot\vendors\tinymce\skins\ui\oxide-dark\content.inline.css
+wwwroot\vendors\tinymce\skins\ui\oxide-dark\content.inline.min.css
+wwwroot\vendors\tinymce\skins\ui\oxide-dark\content.min.css
+wwwroot\vendors\tinymce\skins\ui\oxide-dark\content.mobile.css
+wwwroot\vendors\tinymce\skins\ui\oxide-dark\content.mobile.min.css
+wwwroot\vendors\tinymce\skins\ui\oxide-dark\fonts\tinymce-mobile.woff
+wwwroot\vendors\tinymce\skins\ui\oxide-dark\skin.css
+wwwroot\vendors\tinymce\skins\ui\oxide-dark\skin.min.css
+wwwroot\vendors\tinymce\skins\ui\oxide-dark\skin.mobile.css
+wwwroot\vendors\tinymce\skins\ui\oxide-dark\skin.mobile.min.css
+wwwroot\vendors\tinymce\skins\ui\oxide-dark\skin.shadowdom.css
+wwwroot\vendors\tinymce\skins\ui\oxide-dark\skin.shadowdom.min.css
+wwwroot\vendors\tinymce\skins\ui\oxide\content.css
+wwwroot\vendors\tinymce\skins\ui\oxide\content.inline.css
+wwwroot\vendors\tinymce\skins\ui\oxide\content.inline.min.css
+wwwroot\vendors\tinymce\skins\ui\oxide\content.min.css
+wwwroot\vendors\tinymce\skins\ui\oxide\content.mobile.css
+wwwroot\vendors\tinymce\skins\ui\oxide\content.mobile.min.css
+wwwroot\vendors\tinymce\skins\ui\oxide\fonts\tinymce-mobile.woff
+wwwroot\vendors\tinymce\skins\ui\oxide\skin.css
+wwwroot\vendors\tinymce\skins\ui\oxide\skin.min.css
+wwwroot\vendors\tinymce\skins\ui\oxide\skin.mobile.css
+wwwroot\vendors\tinymce\skins\ui\oxide\skin.mobile.min.css
+wwwroot\vendors\tinymce\skins\ui\oxide\skin.shadowdom.css
+wwwroot\vendors\tinymce\skins\ui\oxide\skin.shadowdom.min.css
+wwwroot\vendors\tinymce\themes\mobile\index.js
+wwwroot\vendors\tinymce\themes\mobile\theme.js
+wwwroot\vendors\tinymce\themes\mobile\theme.min.js
+wwwroot\vendors\tinymce\themes\silver\index.js
+wwwroot\vendors\tinymce\themes\silver\theme.js
+wwwroot\vendors\tinymce\themes\silver\theme.min.js
+wwwroot\vendors\tinymce\tinymce.d.ts
+wwwroot\vendors\tinymce\tinymce.js
+wwwroot\vendors\tinymce\tinymce.min.js
+wwwroot\vendors\typed.js\typed.js
+wwwroot\vendors\validator\validator.min.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\css\site.css
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\favicon.ico
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\js\site.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css.map
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css.map
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css.map
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css.map
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css.map
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css.map
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css.map
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css.map
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\lib\bootstrap\dist\css\bootstrap.css
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css.map
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css.map
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js.map
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js.map
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\lib\bootstrap\dist\js\bootstrap.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.min.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\lib\jquery-validation-unobtrusive\LICENSE.txt
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\lib\jquery-validation\dist\additional-methods.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\lib\jquery-validation\dist\additional-methods.min.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\lib\jquery-validation\dist\jquery.validate.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\lib\jquery-validation\dist\jquery.validate.min.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\lib\jquery-validation\LICENSE.md
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\lib\jquery\dist\jquery.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\lib\jquery\dist\jquery.min.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\lib\jquery\dist\jquery.min.map
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\lib\jquery\dist\jquery.slim.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\lib\jquery\dist\jquery.slim.min.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\lib\jquery\dist\jquery.slim.min.map
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\lib\jquery\LICENSE.txt
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\app\chat.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\app\calendar.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\app\e-commerce\billing.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\app\e-commerce\checkout.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\app\e-commerce\customer-details.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\app\e-commerce\customers.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\app\e-commerce\invoice.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\app\e-commerce\orders\order-details.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\app\e-commerce\orders\order-list.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\app\e-commerce\product\product-details.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\app\e-commerce\product\product-grid.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\app\e-commerce\product\product-list.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\app\e-commerce\shopping-cart.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\app\e-learning\course\course-details.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\app\e-learning\course\course-grid.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\app\e-learning\course\course-list.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\app\e-learning\course\create-a-course.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\app\e-learning\student-overview.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\app\e-learning\trainer-profile.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\app\email\compose.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\app\email\email-detail.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\app\email\inbox.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\app\events\create-an-event.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\app\events\event-detail.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\app\events\event-list.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\app\kanban.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\app\social\activity-log.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\app\social\feed.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\app\social\followers.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\app\social\notifications.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\app\support-desk\card-view.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\app\support-desk\contact-details.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\app\support-desk\contacts.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\app\support-desk\quick-links.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\app\support-desk\reports.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\app\support-desk\table-view.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\app\support-desk\tickets-preview.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\assets\css\theme-rtl.css
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\assets\css\theme-rtl.css.map
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\assets\css\theme-rtl.min.css
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\assets\css\theme-rtl.min.css.map
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\assets\css\theme.css
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\assets\css\theme.css.map
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\assets\css\theme.min.css
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\assets\css\theme.min.css.map
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\assets\css\user-rtl.css
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\assets\css\user-rtl.css.map
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\assets\css\user-rtl.min.css
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\assets\css\user-rtl.min.css.map
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\assets\css\user.css
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\assets\css\user.css.map
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\assets\css\user.min.css
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\assets\css\user.min.css.map
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\assets\data\usa.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\assets\data\world.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\assets\img\animated-icons\bm.json
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\assets\img\animated-icons\bouncing-ball.json
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\assets\img\animated-icons\celebration.json
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\assets\img\animated-icons\check-primary-light.json
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\assets\img\animated-icons\heart.json
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\assets\img\animated-icons\infinite-loop.json
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\assets\img\animated-icons\loading-animation.json
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\assets\img\animated-icons\loading-balls.json
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\assets\img\animated-icons\loading-circle-scale.json
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\assets\img\animated-icons\loading-square.json
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\assets\img\animated-icons\loading.json
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\assets\img\animated-icons\shopping-list.json
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\assets\img\animated-icons\sleeping-404.json
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\assets\img\animated-icons\ss.json
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\assets\img\animated-icons\star-feedback.json
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\assets\img\animated-icons\warning-light.json
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\assets\img\crm\call.svg
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\assets\img\crm\email.svg
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\assets\img\crm\other.svg
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\assets\img\crm\social.svg
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\assets\img\favicons\browserconfig.xml
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\assets\img\favicons\favicon.ico
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\assets\img\favicons\manifest.json
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\assets\img\favicons\site.webmanifest
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\assets\img\icons\arrows-h.svg
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\assets\img\icons\chevron-up.svg
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\assets\img\icons\cloud-download-.svg
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\assets\img\icons\cloud-download.svg
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\assets\img\icons\cloud-upload.svg
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\assets\img\icons\discount.svg
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\assets\img\icons\double-chevron-up.svg
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\assets\img\icons\edit-alt-.svg
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\assets\img\icons\edit-alt.svg
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\assets\img\icons\folder-open-solid.svg
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\assets\img\icons\folder-solid.svg
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\assets\img\icons\free.svg
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\assets\img\icons\icon-angle-right.svg
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\assets\img\icons\left-arrow-from-left.svg
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\assets\img\icons\moon.svg
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\assets\img\icons\networking.svg
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\assets\img\icons\nineDots.svg
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\assets\img\icons\paragraph.svg
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\assets\img\icons\play.svg
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\assets\img\icons\pro.svg
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\assets\img\icons\sent.svg
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\assets\img\icons\shield.svg
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\assets\img\icons\spot-illustrations\1.svg
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\assets\img\icons\spot-illustrations\2.svg
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\assets\img\icons\spot-illustrations\3.svg
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\assets\img\icons\spot-illustrations\4.svg
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\assets\img\icons\spot-illustrations\5.svg
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\assets\img\icons\spot-illustrations\6.svg
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\assets\img\icons\spot-illustrations\calendar.svg
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\assets\img\icons\spot-illustrations\editing.svg
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\assets\img\icons\spot-illustrations\image.svg
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\assets\img\icons\spot-illustrations\location.svg
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\assets\img\icons\spot-illustrations\paper-plane.svg
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\assets\img\icons\spot-illustrations\startup.svg
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\assets\img\icons\star_on.svg
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\assets\img\icons\sun.svg
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\assets\img\icons\target.svg
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\assets\img\icons\triple-chevron-up.svg
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\assets\img\icons\user-plus.svg
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\assets\img\icons\users.svg
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\assets\img\illustrations\1.svg
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\assets\img\illustrations\2.svg
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\assets\img\illustrations\3.svg
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\assets\img\illustrations\4.svg
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\assets\img\illustrations\5.svg
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\assets\img\illustrations\6.svg
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\assets\img\illustrations\calendar.svg
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\assets\img\illustrations\editing.svg
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\assets\img\illustrations\image.svg
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\assets\img\illustrations\location.svg
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\assets\img\illustrations\paper-plane.svg
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\assets\img\illustrations\startup.svg
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\assets\js\config.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\assets\js\config.js.map
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\assets\js\echart-example.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\assets\js\echart-example.js.map
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\assets\js\echarts-example.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\assets\js\echarts-example.js.map
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\assets\js\emoji-button.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\assets\js\flatpickr.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\assets\js\theme.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\assets\js\theme.js.map
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\assets\js\theme.min.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\assets\js\theme.min.js.map
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\dashboard\analytics.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\dashboard\crm.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\dashboard\e-commerce.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\dashboard\lms.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\dashboard\project-management.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\dashboard\saas.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\dashboard\support-desk.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\demo\combo-nav.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\demo\fluid.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\demo\navbar-double-top.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\demo\navbar-top.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\demo\navbar-vertical-card.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\demo\navbar-vertical-inverted.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\demo\navbar-vertical-vibrant.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\demo\navbar-vertical.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\demo\RTL.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\documentation\customization\configuration.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\documentation\customization\dark-mode.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\documentation\customization\plugin.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\documentation\customization\styling.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\documentation\design-file.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\documentation\faq.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\documentation\getting-started.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\documentation\gulp.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\modules\charts\chartjs.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\modules\charts\d3js.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\modules\charts\echarts\bar-charts.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\modules\charts\echarts\candlestick-charts.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\modules\charts\echarts\gauge-charts.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\modules\charts\echarts\geo-map.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\modules\charts\echarts\heatmap-charts.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\modules\charts\echarts\how-to-use.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\modules\charts\echarts\line-charts.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\modules\charts\echarts\pie-charts.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\modules\charts\echarts\radar-charts.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\modules\charts\echarts\scatter-charts.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\modules\components\accordion.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\modules\components\alerts.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\modules\components\anchor.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\modules\components\animated-icons.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\modules\components\background.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\modules\components\badges.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\modules\components\bottom-bar.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\modules\components\breadcrumbs.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\modules\components\buttons.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\modules\components\calendar.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\modules\components\cards.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\modules\components\carousel\bootstrap.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\modules\components\carousel\swiper.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\modules\components\close-button.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\modules\components\collapse.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\modules\components\cookie-notice.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\modules\components\countup.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\modules\components\draggable.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\modules\components\dropdowns.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\modules\components\jquery-components.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\modules\components\list-group.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\modules\components\modals.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\modules\components\navs-and-tabs\combo-navbar.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\modules\components\navs-and-tabs\double-top-navbar.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\modules\components\navs-and-tabs\navbar.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\modules\components\navs-and-tabs\navs.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\modules\components\navs-and-tabs\tabs.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\modules\components\navs-and-tabs\top-navbar.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\modules\components\navs-and-tabs\vertical-navbar.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\modules\components\offcanvas.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\modules\components\pagination.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\modules\components\pictures\avatar.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\modules\components\pictures\figures.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\modules\components\pictures\hoverbox.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\modules\components\pictures\images.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\modules\components\pictures\lightbox.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\modules\components\placeholder.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\modules\components\popovers.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\modules\components\progress-bar.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\modules\components\scrollspy.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\modules\components\search.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\modules\components\spinners.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\modules\components\timeline.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\modules\components\toasts.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\modules\components\tooltips.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\modules\components\treeview.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\modules\components\typed-text.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\modules\components\videos\embed.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\modules\components\videos\plyr.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\modules\forms\advance\advance-select.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\modules\forms\advance\date-picker.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\modules\forms\advance\editor.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\modules\forms\advance\emoji-button.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\modules\forms\advance\file-uploader.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\modules\forms\advance\rating.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\modules\forms\basic\checks.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\modules\forms\basic\form-control.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\modules\forms\basic\input-group.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\modules\forms\basic\layout.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\modules\forms\basic\range.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\modules\forms\basic\select.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\modules\forms\floating-labels.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\modules\forms\validation.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\modules\forms\wizard.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\modules\icons\bootstrap-icons.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\modules\icons\feather.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\modules\icons\font-awesome.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\modules\icons\material-icons.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\modules\maps\google-map.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\modules\maps\leaflet-map.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\modules\tables\advance-tables.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\modules\tables\basic-tables.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\modules\tables\bulk-select.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\modules\utilities\borders.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\modules\utilities\clearfix.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\modules\utilities\colored-links.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\modules\utilities\colors.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\modules\utilities\display.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\modules\utilities\flex.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\modules\utilities\float.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\modules\utilities\grid.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\modules\utilities\overlayscrollbar.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\modules\utilities\position.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\modules\utilities\sizing.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\modules\utilities\spacing.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\modules\utilities\stretched-link.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\modules\utilities\text-truncation.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\modules\utilities\typography.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\modules\utilities\vertical-align.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\modules\utilities\visibility.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\pages\authentication\card\confirm-mail.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\pages\authentication\card\forgot-password.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\pages\authentication\card\lock-screen.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\pages\authentication\card\login.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\pages\authentication\card\logout.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\pages\authentication\card\register.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\pages\authentication\card\reset-password.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\pages\authentication\simple\confirm-mail.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\pages\authentication\simple\forgot-password.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\pages\authentication\simple\lock-screen.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\pages\authentication\simple\login.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\pages\authentication\simple\logout.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\pages\authentication\simple\register.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\pages\authentication\simple\reset-password.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\pages\authentication\split\confirm-mail.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\pages\authentication\split\forgot-password.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\pages\authentication\split\lock-screen.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\pages\authentication\split\login.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\pages\authentication\split\logout.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\pages\authentication\split\register.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\pages\authentication\split\reset-password.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\pages\authentication\wizard.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\pages\errors\404.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\pages\errors\500.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\pages\faq\faq-accordion.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\pages\faq\faq-alt.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\pages\faq\faq-basic.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\pages\landing.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\pages\miscellaneous\associations.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\pages\miscellaneous\invite-people.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\pages\miscellaneous\privacy-policy.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\pages\pricing\pricing-alt.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\pages\pricing\pricing-default.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\pages\starter.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\pages\user\profile.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\pages\user\settings.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\anchorjs\anchor.min.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\bootstrap\bootstrap.min.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\bootstrap\bootstrap.min.js.map
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\chart\chart.min.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\choices\base.min.css
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\choices\choices.min.css
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\choices\choices.min.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\countup\countUp.umd.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\d3\d3.min.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\datatables.net-bs5\dataTables.bootstrap5.min.css
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\datatables.net-bs5\dataTables.bootstrap5.min.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\datatables.net-dt\jquery.dataTables.min.css
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\datatables.net-fixedcolumns\dataTables.fixedColumns.min.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\datatables.net\jquery.dataTables.min.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\dayjs\dayjs.min.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\draggable\draggable.bundle.legacy.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\dropzone\dropzone.min.css
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\dropzone\dropzone.min.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\echarts-countries-js\map\USA.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\echarts-countries-js\map\world.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\echarts-countries-js\world\world.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\echarts\echarts.min.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\flatpickr\flatpickr.min.css
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\fontawesome\all.min.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\fullcalendar\main.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\fullcalendar\main.min.css
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\fullcalendar\main.min.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\glightbox\glightbox.min.css
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\glightbox\glightbox.min.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\is\is.min.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\jquery\jquery.min.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\leaflet.markercluster\leaflet.markercluster.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\leaflet.markercluster\leaflet.markercluster.js.map
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\leaflet.markercluster\MarkerCluster.css
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\leaflet.markercluster\MarkerCluster.Default.css
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\leaflet.tilelayer.colorfilter\leaflet-tilelayer-colorfilter.min.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\leaflet\leaflet.css
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\leaflet\leaflet.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\leaflet\leaflet.js.map
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\list.js\list.min.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\list.js\list.min.js.map
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\lodash\lodash.min.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\lottie\lottie.min.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\overlayscrollbars\OverlayScrollbars.min.css
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\overlayscrollbars\OverlayScrollbars.min.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\plyr\plyr.css
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\plyr\plyr.polyfilled.min.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\plyr\plyr.polyfilled.min.js.map
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\popper\popper.min.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\popper\popper.min.js.map
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\prism\prism-okaidia.css
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\prism\prism.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\rater-js\index.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\rater-js\rater-js.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\rater-js\star_0.svg
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\rater-js\star_1.svg
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\rater-js\style.css
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\select2-bootstrap-5-theme\select2-bootstrap-5-theme.min.css
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\select2\select2.full.min.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\select2\select2.min.css
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\select2\select2.min.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\simplebar\simplebar.min.css
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\simplebar\simplebar.min.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\swiper\swiper-bundle.min.css
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\swiper\swiper-bundle.min.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tiny-slider\tiny-slider.css
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tiny-slider\tiny-slider.css.map
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tiny-slider\tiny-slider.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\bower.json
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\CHANGELOG.md
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\composer.json
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\icons\default\icons.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\icons\default\icons.min.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\icons\default\index.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\jquery.tinymce.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\jquery.tinymce.min.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\license.txt
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\package.json
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\plugins\advlist\index.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\plugins\advlist\plugin.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\plugins\advlist\plugin.min.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\plugins\anchor\index.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\plugins\anchor\plugin.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\plugins\anchor\plugin.min.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\plugins\autolink\index.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\plugins\autolink\plugin.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\plugins\autolink\plugin.min.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\plugins\autoresize\index.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\plugins\autoresize\plugin.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\plugins\autoresize\plugin.min.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\plugins\autosave\index.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\plugins\autosave\plugin.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\plugins\autosave\plugin.min.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\plugins\bbcode\index.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\plugins\bbcode\plugin.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\plugins\bbcode\plugin.min.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\plugins\charmap\index.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\plugins\charmap\plugin.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\plugins\charmap\plugin.min.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\plugins\codesample\index.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\plugins\codesample\plugin.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\plugins\codesample\plugin.min.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\plugins\code\index.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\plugins\code\plugin.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\plugins\code\plugin.min.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\plugins\colorpicker\index.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\plugins\colorpicker\plugin.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\plugins\colorpicker\plugin.min.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\plugins\contextmenu\index.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\plugins\contextmenu\plugin.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\plugins\contextmenu\plugin.min.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\plugins\directionality\index.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\plugins\directionality\plugin.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\plugins\directionality\plugin.min.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\plugins\emoticons\index.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\plugins\emoticons\js\emojiimages.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\plugins\emoticons\js\emojiimages.min.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\plugins\emoticons\js\emojis.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\plugins\emoticons\js\emojis.min.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\plugins\emoticons\plugin.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\plugins\emoticons\plugin.min.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\plugins\fullpage\index.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\plugins\fullpage\plugin.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\plugins\fullpage\plugin.min.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\plugins\fullscreen\index.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\plugins\fullscreen\plugin.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\plugins\fullscreen\plugin.min.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\plugins\help\index.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\plugins\help\plugin.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\plugins\help\plugin.min.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\plugins\hr\index.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\plugins\hr\plugin.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\plugins\hr\plugin.min.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\plugins\imagetools\index.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\plugins\imagetools\plugin.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\plugins\imagetools\plugin.min.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\plugins\image\index.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\plugins\image\plugin.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\plugins\image\plugin.min.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\plugins\importcss\index.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\plugins\importcss\plugin.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\plugins\importcss\plugin.min.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\plugins\insertdatetime\index.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\plugins\insertdatetime\plugin.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\plugins\insertdatetime\plugin.min.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\plugins\legacyoutput\index.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\plugins\legacyoutput\plugin.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\plugins\legacyoutput\plugin.min.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\plugins\link\index.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\plugins\link\plugin.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\plugins\link\plugin.min.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\plugins\lists\index.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\plugins\lists\plugin.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\plugins\lists\plugin.min.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\plugins\media\index.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\plugins\media\plugin.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\plugins\media\plugin.min.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\plugins\nonbreaking\index.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\plugins\nonbreaking\plugin.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\plugins\nonbreaking\plugin.min.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\plugins\noneditable\index.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\plugins\noneditable\plugin.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\plugins\noneditable\plugin.min.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\plugins\pagebreak\index.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\plugins\pagebreak\plugin.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\plugins\pagebreak\plugin.min.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\plugins\paste\index.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\plugins\paste\plugin.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\plugins\paste\plugin.min.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\plugins\preview\index.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\plugins\preview\plugin.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\plugins\preview\plugin.min.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\plugins\print\index.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\plugins\print\plugin.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\plugins\print\plugin.min.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\plugins\quickbars\index.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\plugins\quickbars\plugin.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\plugins\quickbars\plugin.min.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\plugins\save\index.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\plugins\save\plugin.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\plugins\save\plugin.min.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\plugins\searchreplace\index.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\plugins\searchreplace\plugin.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\plugins\searchreplace\plugin.min.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\plugins\spellchecker\index.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\plugins\spellchecker\plugin.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\plugins\spellchecker\plugin.min.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\plugins\tabfocus\index.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\plugins\tabfocus\plugin.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\plugins\tabfocus\plugin.min.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\plugins\table\index.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\plugins\table\plugin.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\plugins\table\plugin.min.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\plugins\template\index.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\plugins\template\plugin.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\plugins\template\plugin.min.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\plugins\textcolor\index.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\plugins\textcolor\plugin.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\plugins\textcolor\plugin.min.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\plugins\textpattern\index.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\plugins\textpattern\plugin.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\plugins\textpattern\plugin.min.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\plugins\toc\index.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\plugins\toc\plugin.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\plugins\toc\plugin.min.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\plugins\visualblocks\index.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\plugins\visualblocks\plugin.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\plugins\visualblocks\plugin.min.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\plugins\visualchars\index.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\plugins\visualchars\plugin.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\plugins\visualchars\plugin.min.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\plugins\wordcount\index.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\plugins\wordcount\plugin.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\plugins\wordcount\plugin.min.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\README.md
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\skins\content\dark\content.css
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\skins\content\dark\content.min.css
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\skins\content\default\content.css
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\skins\content\default\content.min.css
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\skins\content\document\content.css
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\skins\content\document\content.min.css
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\skins\content\writer\content.css
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\skins\content\writer\content.min.css
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\skins\ui\oxide-dark\content.css
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\skins\ui\oxide-dark\content.inline.css
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\skins\ui\oxide-dark\content.inline.min.css
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\skins\ui\oxide-dark\content.min.css
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\skins\ui\oxide-dark\content.mobile.css
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\skins\ui\oxide-dark\content.mobile.min.css
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\skins\ui\oxide-dark\skin.css
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\skins\ui\oxide-dark\skin.min.css
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\skins\ui\oxide-dark\skin.mobile.css
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\skins\ui\oxide-dark\skin.mobile.min.css
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\skins\ui\oxide-dark\skin.shadowdom.css
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\skins\ui\oxide-dark\skin.shadowdom.min.css
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\skins\ui\oxide\content.css
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\skins\ui\oxide\content.inline.css
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\skins\ui\oxide\content.inline.min.css
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\skins\ui\oxide\content.min.css
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\skins\ui\oxide\content.mobile.css
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\skins\ui\oxide\content.mobile.min.css
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\skins\ui\oxide\skin.css
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\skins\ui\oxide\skin.min.css
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\skins\ui\oxide\skin.mobile.css
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\skins\ui\oxide\skin.mobile.min.css
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\skins\ui\oxide\skin.shadowdom.css
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\skins\ui\oxide\skin.shadowdom.min.css
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\themes\mobile\index.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\themes\mobile\theme.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\themes\mobile\theme.min.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\themes\silver\index.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\themes\silver\theme.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\themes\silver\theme.min.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\tinymce.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\tinymce.min.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\typed.js\typed.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\validator\validator.min.js

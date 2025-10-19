@@ -1,0 +1,60 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Mokhtar Ahmed\\source\\repos\\ECinema\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A97DCC6D-A565-4A95-B176-8F5AE8382316}|ECinema\\ECinema.csproj|c:\\users\\mokhtar ahmed\\source\\repos\\ecinema\\ecinema\\models\\moviesubimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A97DCC6D-A565-4A95-B176-8F5AE8382316}|ECinema\\ECinema.csproj|solutionrelative:ecinema\\models\\moviesubimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A97DCC6D-A565-4A95-B176-8F5AE8382316}|ECinema\\ECinema.csproj|c:\\users\\mokhtar ahmed\\source\\repos\\ecinema\\ecinema\\areas\\admin\\views\\moviecontroller1\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A97DCC6D-A565-4A95-B176-8F5AE8382316}|ECinema\\ECinema.csproj|solutionrelative:ecinema\\areas\\admin\\views\\moviecontroller1\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MovieSubimage.cs",
+              "DocumentMoniker": "C:\\Users\\Mokhtar Ahmed\\source\\repos\\ECinema\\ECinema\\Models\\MovieSubimage.cs",
+              "RelativeDocumentMoniker": "ECinema\\Models\\MovieSubimage.cs",
+              "ToolTip": "C:\\Users\\Mokhtar Ahmed\\source\\repos\\ECinema\\ECinema\\Models\\MovieSubimage.cs",
+              "RelativeToolTip": "ECinema\\Models\\MovieSubimage.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-19T03:26:49.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Mokhtar Ahmed\\source\\repos\\ECinema\\ECinema\\Areas\\Admin\\Views\\MovieController1\\Index.cshtml",
+              "RelativeDocumentMoniker": "ECinema\\Areas\\Admin\\Views\\MovieController1\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Mokhtar Ahmed\\source\\repos\\ECinema\\ECinema\\Areas\\Admin\\Views\\MovieController1\\Index.cshtml",
+              "RelativeToolTip": "ECinema\\Areas\\Admin\\Views\\MovieController1\\Index.cshtml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-19T02:06:11.911Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
