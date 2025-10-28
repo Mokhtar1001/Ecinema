@@ -537,9 +537,11 @@ wwwroot\documentation\getting-started.html
 wwwroot\documentation\gulp.html
 wwwroot\favicon.ico
 wwwroot\images\b553f859-7912-45d6-8849-397bf4ac08fb.png
+wwwroot\images\ddb96189-aba4-4ec4-84ba-692f4b80cf63.png
 wwwroot\images\ffbfe2c1-40a8-4f84-a272-37ff19e04df0.png
 wwwroot\images\Movie_images\2e0735df-d95e-4bd2-a8be-4ec108cd224d.png
 wwwroot\images\Movie_images\3c248166-9a06-43fb-bb4b-aceeac18c6e4.png
+wwwroot\images\Movie_images\5f304837-280c-4632-9b1c-a13286a3ad5f.png
 wwwroot\js\site.js
 wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
 wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map

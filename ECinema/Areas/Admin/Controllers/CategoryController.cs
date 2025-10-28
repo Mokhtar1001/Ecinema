@@ -1,37 +1,49 @@
-﻿using ECinema.DataAccess;
+﻿
+using ECinema.DataAccess;
 using ECinema.Models;
+using ECinema.Repositories;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
+using System.Threading;
+using System.Threading.Tasks;
 
 namespace ECinema.Areas.Admin.Controllers
 {
-    
+
     public class CategoryController : Controller
     {
-        ApplicationDbContext _context=new();
-        public IActionResult Index()
+        //ApplicationDbContext _context=new();
+        private readonly IRepository<Category> _categoryRepository; /*= new Repository<Category>();*/
+
+        public CategoryController(IRepository<Category> categoryRepository)
         {
-            var categorias = _context.Categories.AsNoTracking().AsQueryable();
+            _categoryRepository = categoryRepository;
+        }
+        public async Task<IActionResult> Index(CancellationToken cancellationToken)
+        {
+            var categorias = await _categoryRepository.GetAllAsync(tracked: false, cancellationToken:
+                cancellationToken);
             return View(categorias.AsEnumerable());
         }
         [HttpGet]
         public IActionResult Create()
         {
-            return View();
+            return View(new Category());
         }
         [HttpPost]
-        public IActionResult Create(Category category)
+        public async Task<IActionResult> Create(Category category, CancellationToken cancellationToken)
         {
-            _context.Categories.Add(category);
-            _context.SaveChanges();
+            await _categoryRepository.AddAsync(category, cancellationToken);
+            await _categoryRepository.CommitAsync(cancellationToken);
 
             //return View(nameof(Index));
             return RedirectToAction(nameof(Index));
         }
         [HttpGet]
-        public IActionResult Edit(int id)
+        public async Task<IActionResult> Edit(int id, CancellationToken cancellationToken)
         {
-            var category = _context.Categories.FirstOrDefault(e => e.Id == id);
+            var category = await _categoryRepository.GetOneAsync(e => e.Id == id, cancellationToken:
+                cancellationToken);
 
             if (category is null)
                 return RedirectToAction("NotFoundPage", "Home");
@@ -40,22 +52,24 @@ namespace ECinema.Areas.Admin.Controllers
         }
 
         [HttpPost]
-        public IActionResult Edit(Category category)
+        public async Task<IActionResult> Edit(Category category, CancellationToken cancellationToken)
         {
-            _context.Categories.Update(category);
-            _context.SaveChanges();
+            _categoryRepository.Update(category);
+            await _categoryRepository.CommitAsync(cancellationToken);
 
             return RedirectToAction(nameof(Index));
         }
 
-        public IActionResult Delete(int id)
+        public async Task<IActionResult> Delete(int id, CancellationToken cancellationToken)
         {
-            var category = _context.Categories.FirstOrDefault(e => e.Id == id);
+            var category = await _categoryRepository.GetOneAsync(e => e.Id == id, cancellationToken:
+               cancellationToken);
 
-            
+            if (category is null)
+                return RedirectToAction("NotFoundPage", "Home");
 
-            _context.Categories.Remove(category);
-            _context.SaveChanges();
+            _categoryRepository.Delet(category);
+            await _categoryRepository.CommitAsync(cancellationToken);
 
             return RedirectToAction(nameof(Index));
         }

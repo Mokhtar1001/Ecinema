@@ -1,20 +1,29 @@
 ﻿using ECinema.DataAccess;
 using ECinema.Models;
+using ECinema.Repositories;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
+using System.Threading;
+using System.Threading.Tasks;
 
 namespace ECinema.Areas.Admin.Controllers
 {
     public class CinemaController : Controller
     {
-        ApplicationDbContext _context =new();
-        public IActionResult Index()
+        //ApplicationDbContext _context = new();
+        //Repository<Cinema> _CinemaRepository = new();
+        private readonly IRepository<Cinema> _CinemaRepository;
+        public CinemaController(IRepository<Cinema> cinemaRepository)
         {
-            var cinemas = _context.Cinemas.AsNoTracking().AsQueryable();
+            _CinemaRepository = cinemaRepository;
+        }
+        public async Task<IActionResult> Index(CancellationToken cancellationToken)
+        {
+            var Cinemas = await _CinemaRepository.GetAllAsync(tracked: false);
 
             // Add Filter
 
-            return View(cinemas.Select(e => new
+            return View(Cinemas.Select(e => new
             {
                 e.Id,
                 e.Name,
@@ -29,7 +38,7 @@ namespace ECinema.Areas.Admin.Controllers
         }
 
         [HttpPost]
-        public IActionResult Create(Cinema cinema, IFormFile img)
+        public async Task<IActionResult> Create(Cinema cinema, IFormFile img, CancellationToken cancellationToken)
         {
             if (img is not null && img.Length > 0)
             {
@@ -46,33 +55,33 @@ namespace ECinema.Areas.Admin.Controllers
                 cinema.Img = fileName;
             }
 
-            // Save brand in db
-            _context.Cinemas.Add(cinema);
-            _context.SaveChanges();
+            // Save Cinema in db
+            await _CinemaRepository.AddAsync(cinema, cancellationToken);
+            await _CinemaRepository.CommitAsync(cancellationToken);
 
-            //Response.Cookies.Append("success-notification", "Add Brand Successfully");
-            TempData["success-notification"] = "Add Brand Successfully";
+            //Response.Cookies.Append("success-notification", "Add Cinema Successfully");
+            TempData["success-notification"] = "Add Cinema Successfully";
 
             //return View(nameof(Index));
             return RedirectToAction(nameof(Index));
         }
 
         [HttpGet]
-        public IActionResult Edit(int id)
+        public async Task<IActionResult> Edit(int id, CancellationToken cancellationToken)
         {
-            var brand = _context.Cinemas.FirstOrDefault(e => e.Id == id);
+            var Cinema = await _CinemaRepository.GetOneAsync(e => e.Id == id, cancellationToken: cancellationToken);
 
-            if (brand is null)
+            if (Cinema is null)
                 return RedirectToAction("NotFoundPage", "Home");
 
-            return View(brand);
+            return View(Cinema);
         }
 
         [HttpPost]
-        public IActionResult Edit(Cinema cinema, IFormFile? img)
+        public async Task<IActionResult> Edit(Cinema cinema, IFormFile? img, CancellationToken cancellationToken)
         {
-            var cinemaInDb = _context.Cinemas.AsNoTracking().FirstOrDefault(e => e.Id == cinema.Id);
-            if (cinemaInDb is null)
+            var CinemaInDb = await _CinemaRepository.GetOneAsync(e => e.Id == cinema.Id, tracked: false);
+            if (CinemaInDb is null)
                 return RedirectToAction("NotFoundPage", "Home");
 
             if (img is not null)
@@ -89,7 +98,7 @@ namespace ECinema.Areas.Admin.Controllers
                     }
 
                     // Remove old Img in wwwroot
-                    var oldPath = Path.Combine(Directory.GetCurrentDirectory(), "wwwroot\\images", cinemaInDb.Img);
+                    var oldPath = Path.Combine(Directory.GetCurrentDirectory(), "wwwroot\\images", CinemaInDb.Img);
                     if (System.IO.File.Exists(oldPath))
                     {
                         System.IO.File.Delete(oldPath);
@@ -101,20 +110,20 @@ namespace ECinema.Areas.Admin.Controllers
             }
             else
             {
-                cinema.Img = cinemaInDb.Img;
+                cinema.Img = CinemaInDb.Img;
             }
 
-            _context.Cinemas.Update(cinema);
-            _context.SaveChanges();
+            _CinemaRepository.Update(cinema);
+            await _CinemaRepository.CommitAsync(cancellationToken);
 
-            TempData["success-notification"] = "Update Brand Successfully";
+            TempData["success-notification"] = "Update Cinema Successfully";
 
             return RedirectToAction(nameof(Index));
         }
 
-        public IActionResult Delete(int id)
+        public async Task<IActionResult> Delete(int id, CancellationToken cancellationToken)
         {
-            var cinema = _context.Cinemas.FirstOrDefault(e => e.Id == id);
+            var cinema = await _CinemaRepository.GetOneAsync(e => e.Id == id);
 
             if (cinema is null)
                 return RedirectToAction("NotFoundPage", "Home");
@@ -126,13 +135,12 @@ namespace ECinema.Areas.Admin.Controllers
                 System.IO.File.Delete(oldPath);
             }
 
-            _context.Cinemas.Remove(cinema);
-            _context.SaveChanges();
+            _CinemaRepository.Delet(cinema);
+            await _CinemaRepository.CommitAsync(cancellationToken);
 
-            TempData["success-notification"] = "Delete Brand Successfully";
+            TempData["success-notification"] = "Delete Cinema Successfully";
 
             return RedirectToAction(nameof(Index));
         }
     }
 }
-
