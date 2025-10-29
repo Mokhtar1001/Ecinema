@@ -1,3 +1,7 @@
+﻿using ECinema.DataAccess;
+using ECinema.Repositories;
+using ECinema.Repositories.IRepositories;
+
 namespace ECinema
 {
     public class Program
@@ -6,22 +10,28 @@ namespace ECinema
         {
             var builder = WebApplication.CreateBuilder(args);
 
-            // Add services to the container.
+            // Add services
             builder.Services.AddControllersWithViews();
+
+            // DbContext
+            builder.Services.AddDbContext<ApplicationDbContext>();
+
+            // Generic repository
+            builder.Services.AddScoped(typeof(IRepository<>), typeof(Repository<>));
+
+            // ✅ Specific repositories
+            builder.Services.AddScoped<IMovieRepository, MovieRepository>();
 
             var app = builder.Build();
 
-            // Configure the HTTP request pipeline.
             if (!app.Environment.IsDevelopment())
             {
                 app.UseExceptionHandler("/Home/Error");
-                // The default HSTS value is 30 days. You may want to change this for production scenarios, see https://aka.ms/aspnetcore-hsts.
                 app.UseHsts();
             }
 
             app.UseHttpsRedirection();
             app.UseRouting();
-
             app.UseAuthorization();
 
             app.MapStaticAssets();

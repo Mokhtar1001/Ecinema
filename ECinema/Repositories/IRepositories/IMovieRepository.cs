@@ -1,10 +1,9 @@
-﻿namespace ECinema.Repositories.IRepositories
+﻿
+namespace ECinema.Repositories.IRepositories
 {
-    public class IMovieRepository: IRepository<Movie>
+    public interface IMovieRepository : IRepository<Movie>
     {
         Task AddRange(IEnumerable<Movie> movies, CancellationToken cancellationToken = default);
 
     }
-
-   
 }

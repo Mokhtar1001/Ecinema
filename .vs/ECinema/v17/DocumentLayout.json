@@ -1,7 +1,32 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Mokhtar Ahmed\\source\\repos\\ECinema\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A97DCC6D-A565-4A95-B176-8F5AE8382316}|ECinema\\ECinema.csproj|c:\\users\\mokhtar ahmed\\source\\repos\\ecinema\\ecinema\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A97DCC6D-A565-4A95-B176-8F5AE8382316}|ECinema\\ECinema.csproj|solutionrelative:ecinema\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A97DCC6D-A565-4A95-B176-8F5AE8382316}|ECinema\\ECinema.csproj|c:\\users\\mokhtar ahmed\\source\\repos\\ecinema\\ecinema\\areas\\admin\\controllers\\cinemacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A97DCC6D-A565-4A95-B176-8F5AE8382316}|ECinema\\ECinema.csproj|solutionrelative:ecinema\\areas\\admin\\controllers\\cinemacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A97DCC6D-A565-4A95-B176-8F5AE8382316}|ECinema\\ECinema.csproj|c:\\users\\mokhtar ahmed\\source\\repos\\ecinema\\ecinema\\repositories\\repositary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A97DCC6D-A565-4A95-B176-8F5AE8382316}|ECinema\\ECinema.csproj|solutionrelative:ecinema\\repositories\\repositary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A97DCC6D-A565-4A95-B176-8F5AE8382316}|ECinema\\ECinema.csproj|c:\\users\\mokhtar ahmed\\source\\repos\\ecinema\\ecinema\\repositories\\irepositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A97DCC6D-A565-4A95-B176-8F5AE8382316}|ECinema\\ECinema.csproj|solutionrelative:ecinema\\repositories\\irepositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A97DCC6D-A565-4A95-B176-8F5AE8382316}|ECinema\\ECinema.csproj|c:\\users\\mokhtar ahmed\\source\\repos\\ecinema\\ecinema\\repositories\\irepositories\\imovierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A97DCC6D-A565-4A95-B176-8F5AE8382316}|ECinema\\ECinema.csproj|solutionrelative:ecinema\\repositories\\irepositories\\imovierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A97DCC6D-A565-4A95-B176-8F5AE8382316}|ECinema\\ECinema.csproj|c:\\users\\mokhtar ahmed\\source\\repos\\ecinema\\ecinema\\global.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A97DCC6D-A565-4A95-B176-8F5AE8382316}|ECinema\\ECinema.csproj|solutionrelative:ecinema\\global.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -21,11 +46,85 @@
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CinemaController.cs",
+              "DocumentMoniker": "C:\\Users\\Mokhtar Ahmed\\source\\repos\\ECinema\\ECinema\\Areas\\Admin\\Controllers\\CinemaController.cs",
+              "RelativeDocumentMoniker": "ECinema\\Areas\\Admin\\Controllers\\CinemaController.cs",
+              "ToolTip": "C:\\Users\\Mokhtar Ahmed\\source\\repos\\ECinema\\ECinema\\Areas\\Admin\\Controllers\\CinemaController.cs",
+              "RelativeToolTip": "ECinema\\Areas\\Admin\\Controllers\\CinemaController.cs",
+              "ViewState": "AgIAAHEAAAAAAAAAAADwv5IAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T00:16:19.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Repositary.cs",
+              "DocumentMoniker": "C:\\Users\\Mokhtar Ahmed\\source\\repos\\ECinema\\ECinema\\Repositories\\Repositary.cs",
+              "RelativeDocumentMoniker": "ECinema\\Repositories\\Repositary.cs",
+              "ToolTip": "C:\\Users\\Mokhtar Ahmed\\source\\repos\\ECinema\\ECinema\\Repositories\\Repositary.cs",
+              "RelativeToolTip": "ECinema\\Repositories\\Repositary.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAowF0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T00:16:04.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Mokhtar Ahmed\\source\\repos\\ECinema\\ECinema\\Repositories\\IRepositories\\IRepository.cs",
+              "RelativeDocumentMoniker": "ECinema\\Repositories\\IRepositories\\IRepository.cs",
+              "ToolTip": "C:\\Users\\Mokhtar Ahmed\\source\\repos\\ECinema\\ECinema\\Repositories\\IRepositories\\IRepository.cs",
+              "RelativeToolTip": "ECinema\\Repositories\\IRepositories\\IRepository.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAYwCUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T00:15:50.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Global.cs",
+              "DocumentMoniker": "C:\\Users\\Mokhtar Ahmed\\source\\repos\\ECinema\\ECinema\\Global.cs",
+              "RelativeDocumentMoniker": "ECinema\\Global.cs",
+              "ToolTip": "C:\\Users\\Mokhtar Ahmed\\source\\repos\\ECinema\\ECinema\\Global.cs",
+              "RelativeToolTip": "ECinema\\Global.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T00:10:20.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Mokhtar Ahmed\\source\\repos\\ECinema\\ECinema\\Program.cs",
+              "RelativeDocumentMoniker": "ECinema\\Program.cs",
+              "ToolTip": "C:\\Users\\Mokhtar Ahmed\\source\\repos\\ECinema\\ECinema\\Program.cs",
+              "RelativeToolTip": "ECinema\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T00:09:13.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IMovieRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Mokhtar Ahmed\\source\\repos\\ECinema\\ECinema\\Repositories\\IRepositories\\IMovieRepository.cs",
+              "RelativeDocumentMoniker": "ECinema\\Repositories\\IRepositories\\IMovieRepository.cs",
+              "ToolTip": "C:\\Users\\Mokhtar Ahmed\\source\\repos\\ECinema\\ECinema\\Repositories\\IRepositories\\IMovieRepository.cs",
+              "RelativeToolTip": "ECinema\\Repositories\\IRepositories\\IMovieRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T00:07:28.449Z",
+              "EditorCaption": ""
             }
           ]
         }

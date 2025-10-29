@@ -1,6 +1,7 @@
-﻿using ECinema.DataAccess;
+﻿
+using ECinema.DataAccess;
 using ECinema.Models;
-using ECinema.Repositories;
+using ECinema.Repositories.IRepositories;
 using ECinema.ViewModels;
 using ECinema.ViewModels.ECinema.ViewModels;
 using Microsoft.AspNetCore.Mvc;

@@ -1,6 +1,7 @@
 ﻿using ECinema.DataAccess;
 using ECinema.Models;
 using ECinema.Repositories;
+using ECinema.Repositories.IRepositories;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using System.Threading;
