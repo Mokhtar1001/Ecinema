@@ -115,8 +115,8 @@
                       </a>
                       <!-- more inner pages-->
                     </li>
-                    <li class="nav-item"><a class="nav-link active" href="~/dashboard/e-commerce.html">
-                        <div class="d-flex align-items-center"><span class="nav-link-text ps-1">E commerce</span>
+                    <li class="nav-item"><a class="nav-link active" href="/Admin/User/Index">
+                        <div class="d-flex align-items-center"><span class="nav-link-text ps-1">Users</span>
                         </div>
                       </a>
                       <!-- more inner pages-->
@@ -2002,6 +2002,7 @@
           </nav>
           <div>
               @RenderBody()
+
           </div>
           <footer class="footer">
             <div class="row g-0 justify-content-between fs--1 mt-4 mb-3">
@@ -2193,7 +2194,9 @@
     <script src="https://polyfill.io/v3/polyfill.min.js?features=window.scroll"></script>
     <script src="~/vendors/list.js/list.min.js"></script>
     <script src="~/assets/js/theme.js"></script>
-
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+    @await RenderSectionAsync("ADS", required: false)
   </body>
 
 </html>

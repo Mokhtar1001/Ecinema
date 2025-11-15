@@ -1,9 +1,13 @@
-using System.Diagnostics;
 using ECinema.Models;
+using ECinema.Utility;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
+using System.Diagnostics;
 
 namespace ECinema.Areas.Admin.Controllers
 {
+    [Area("Admin")]
+    [Authorize(Roles = $"{SD.SUPER_ADMIN_ROLE},{SD.ADMIN_ROLE},{SD.EMPLOYEE_ROLE}")]
     public class HomeController : Controller
     {
         private readonly ILogger<HomeController> _logger;

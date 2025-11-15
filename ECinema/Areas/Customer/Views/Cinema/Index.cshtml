@@ -1,0 +1,171 @@
+﻿@{
+    ViewBag.Title = "Cinema Plan";
+    var reservedSeatsJson = Newtonsoft.Json.JsonConvert.SerializeObject(ViewBag.Reserved);
+}
+
+<style>
+    .screen {
+        width: 80%;
+        margin: 20px auto;
+        text-align: center;
+        font-weight: bold;
+        font-size: 22px;
+        padding: 10px;
+        border-bottom: 6px solid #777;
+    }
+
+    .seat-wrapper {
+        display: grid;
+        grid-template-columns: repeat(11,55px);
+        gap: 12px;
+        justify-content: center;
+        margin-top: 25px;
+    }
+
+    .seat-svg {
+        cursor: pointer;
+        fill: gray;
+        transition: 0.2s;
+    }
+
+        .seat-svg.selected {
+            fill: gold;
+        }
+
+        .seat-svg.reserved {
+            fill: red;
+            cursor: not-allowed;
+        }
+
+    .seat-number {
+        font-size: 10px;
+        text-anchor: middle;
+        fill: white;
+        font-weight: bold;
+    }
+
+    .gap {
+        width: 40px;
+    }
+
+    .btn-container {
+        margin-top: 20px;
+        display: flex;
+        justify-content: center;
+        gap: 20px;
+    }
+
+    .alert {
+        text-align: center;
+        margin-top: 10px;
+        font-weight: bold;
+    }
+</style>
+
+@if (TempData["Error"] != null)
+{
+    <div class="alert alert-warning">@TempData["Error"]</div>
+}
+@if (TempData["Success"] != null)
+{
+    <div class="alert alert-success">@TempData["Success"]</div>
+}
+
+<div class="screen">SCREEN</div>
+
+<form method="post" asp-area="Customer" asp-controller="Cinema" asp-action="BookSeats" id="bookingForm">
+    <input type="hidden" name="seats" id="selectedSeats" />
+
+    <div class="seat-wrapper">
+        @for (int i = 1; i <= 50; i++)
+        {
+            bool isGap = (i % 10 == 6);
+            if (isGap)
+            {
+                <div class="gap"></div>
+            }
+
+            var seatId = "S" + i;
+
+            <svg width="45" height="45" viewBox="0 0 24 24" class="seat-svg" id="@seatId" onclick="toggleSeat('@seatId')">
+                <rect x="4" y="2" width="16" height="12" rx="3"></rect>
+                <rect x="6" y="14" width="12" height="8" rx="2"></rect>
+                <text x="12" y="18" class="seat-number">@seatId</text>
+            </svg>
+        }
+    </div>
+
+    <div class="btn-container">
+        <button type="submit" onclick="return bookSelected()" class="btn btn-primary">تأكيد الحجز</button>
+        <button type="button" onclick="clearSelection()" class="btn btn-secondary">إلغاء الاختيار</button>
+        <button type="button" onclick="cancelSelected()" class="btn btn-danger">إلغاء الحجز</button>
+    </div>
+</form>
+
+<script>
+    var reservedSeats = @Html.Raw(reservedSeatsJson);
+    var userSelectedSeats = [];
+
+    window.onload = function() {
+        reservedSeats.forEach(id => {
+            var seat = document.getElementById(id);
+            if (seat) seat.classList.add("reserved");
+        });
+    }
+
+    function toggleSeat(id) {
+        var seat = document.getElementById(id);
+        if (seat.classList.contains("reserved")) return;
+
+        seat.classList.toggle("selected");
+
+        if (seat.classList.contains("selected")) {
+            if (!userSelectedSeats.includes(id)) userSelectedSeats.push(id);
+        } else {
+            userSelectedSeats = userSelectedSeats.filter(s => s !== id);
+        }
+    }
+
+    function bookSelected() {
+        if (userSelectedSeats.length === 0) {
+            alert("اختر كرسي الأول!");
+            return false;
+        }
+        document.getElementById("selectedSeats").value = userSelectedSeats.join(',');
+        return true;
+    }
+
+    function clearSelection() {
+        userSelectedSeats.forEach(id => {
+            var seat = document.getElementById(id);
+            if (seat) seat.classList.remove('selected');
+        });
+        userSelectedSeats = [];
+        document.getElementById("selectedSeats").value = '';
+    }
+
+    function cancelSelected() {
+        // الكراسي المحجوزة فعليًا (أحمر) فقط
+        var reservedSeatElements = [...document.querySelectorAll('.seat-svg.reserved')];
+        if (reservedSeatElements.length === 0) {
+            alert("لا توجد كراسي محجوزة لإلغاء الحجز!");
+            return;
+        }
+
+        var reservedSeatIds = reservedSeatElements.map(seat => seat.id);
+
+        // إنشاء form ديناميكي لإرسال POST للـ Controller
+        var form = document.createElement("form");
+        form.method = "post";
+        form.action = '@Url.Action("CancelSeats", "Cinema", new { area = "Customer" })';
+
+        var input = document.createElement("input");
+        input.type = "hidden";
+        input.name = "seats";
+        input.value = reservedSeatIds.join(',');
+        form.appendChild(input);
+
+        document.body.appendChild(form);
+        form.submit();
+    }
+</script>

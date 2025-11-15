@@ -1,7 +1,7 @@
 ﻿using ECinema.DataAccess;
 using ECinema.Models;
-using ECinema.Repositories;
-using ECinema.Repositories.IRepositories;
+using ECinema.Utility;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using System.Threading;
@@ -9,18 +9,21 @@ using System.Threading.Tasks;
 
 namespace ECinema.Areas.Admin.Controllers
 {
+    [Area("Admin")]
+    [Authorize(Roles = $"{SD.SUPER_ADMIN_ROLE},{SD.ADMIN_ROLE},{SD.EMPLOYEE_ROLE}")]
+
     public class CinemaController : Controller
     {
         //ApplicationDbContext _context = new();
         //Repository<Cinema> _CinemaRepository = new();
-        private readonly IRepository<Cinema> _CinemaRepository;
+        private readonly IRepository<Cinema> _CinemaRepository; 
         public CinemaController(IRepository<Cinema> cinemaRepository)
         {
             _CinemaRepository = cinemaRepository;
         }
-        public async Task<IActionResult> Index(CancellationToken cancellationToken)
+        public async Task<IActionResult> Index( CancellationToken cancellationToken)
         {
-            var Cinemas = await _CinemaRepository.GetAllAsync(tracked: false);
+            var Cinemas = await _CinemaRepository.GetAllAsync(tracked:false);
 
             // Add Filter
 
@@ -39,6 +42,7 @@ namespace ECinema.Areas.Admin.Controllers
         }
 
         [HttpPost]
+        [Authorize(Roles = $"{SD.SUPER_ADMIN_ROLE},{SD.ADMIN_ROLE}")]
         public async Task<IActionResult> Create(Cinema cinema, IFormFile img, CancellationToken cancellationToken)
         {
             if (img is not null && img.Length > 0)
@@ -68,9 +72,9 @@ namespace ECinema.Areas.Admin.Controllers
         }
 
         [HttpGet]
-        public async Task<IActionResult> Edit(int id, CancellationToken cancellationToken)
+        public async Task<IActionResult> Edit(int id,CancellationToken cancellationToken)
         {
-            var Cinema = await _CinemaRepository.GetOneAsync(e => e.Id == id, cancellationToken: cancellationToken);
+            var Cinema = await _CinemaRepository.GetOneAsync(e => e.Id == id, cancellationToken:cancellationToken);
 
             if (Cinema is null)
                 return RedirectToAction("NotFoundPage", "Home");
@@ -79,9 +83,10 @@ namespace ECinema.Areas.Admin.Controllers
         }
 
         [HttpPost]
-        public async Task<IActionResult> Edit(Cinema cinema, IFormFile? img, CancellationToken cancellationToken)
+        [Authorize(Roles = $"{SD.SUPER_ADMIN_ROLE},{SD.ADMIN_ROLE}")]
+        public async Task<IActionResult> Edit(Cinema cinema, IFormFile? img,CancellationToken cancellationToken)
         {
-            var CinemaInDb = await _CinemaRepository.GetOneAsync(e => e.Id == cinema.Id, tracked: false);
+            var CinemaInDb = await _CinemaRepository.GetOneAsync(e => e.Id == cinema.Id,tracked:false);
             if (CinemaInDb is null)
                 return RedirectToAction("NotFoundPage", "Home");
 
@@ -122,6 +127,7 @@ namespace ECinema.Areas.Admin.Controllers
             return RedirectToAction(nameof(Index));
         }
 
+        [Authorize(Roles = $"{SD.SUPER_ADMIN_ROLE},{SD.ADMIN_ROLE}")]
         public async Task<IActionResult> Delete(int id, CancellationToken cancellationToken)
         {
             var cinema = await _CinemaRepository.GetOneAsync(e => e.Id == id);
@@ -145,3 +151,4 @@ namespace ECinema.Areas.Admin.Controllers
         }
     }
 }
+

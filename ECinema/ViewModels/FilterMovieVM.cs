@@ -15,7 +15,10 @@ namespace ECinema.ViewModels
             public string? Name{ get; set; }
             public int? CategoryId { get; set; }
             public decimal? Price { get; set; }
+
             public int? CinemaId { get; set; }
+            public int? ActorId { get; set; }
+
         }
     }
 

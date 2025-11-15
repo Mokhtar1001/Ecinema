@@ -40,10 +40,17 @@
                             {
                                 <td><span class="badge text-bg-danger">InActive</span></td>
                             }
-                            <td>
-                                <a asp-action="Edit" asp-route-id="@item.Id" class="btn btn-sm btn-warning">Edit</a>
-                                <a asp-action="Delete" asp-route-id="@item.Id" class="btn btn-sm btn-danger">Delete</a>
-                            </td>
+                             @if(User.IsInRole(SD.SUPER_ADMIN_ROLE) || User.IsInRole(SD.ADMIN_ROLE))
+                            {
+                                <td>
+                                    <a href="/Admin/Cinema/Edit/@item.Id" type="button" class="btn btn-warning">Edit</a>
+                                    <a href="/Admin/Cinema/Delete/@item.Id" class="btn btn-danger btn-delete">Delete</a>
+                                </td>
+                            }
+                            else
+                            {
+                                <td>No Actions!</td>
+                            }
                         </tr>
                     }
                 </tbody>

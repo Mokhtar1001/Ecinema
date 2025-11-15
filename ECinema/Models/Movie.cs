@@ -12,12 +12,13 @@
         public double Rate { get; set; }
         public string MainImg { get; set; } = string.Empty;
 
+        public long Traffic { get; set; }
         public int CategoryId { get; set; }
         public Category Category { get; set; } = null!;
         public int CinemaId { get; set; }
         public Cinema Cinema { get; set; } = null!;
 
         public List<Actor> Actors { get; set; } 
-        public List<MovieSubimage> MovieSubimages { get; set; }
+        public List<MovieSubimage>? MovieSubimages { get; set; }
     }
 }

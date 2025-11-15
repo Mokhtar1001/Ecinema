@@ -2,8 +2,7 @@
 
 namespace ECinema.Models
 {
-    [PrimaryKey(nameof(MovieId),nameof(Id))]
-
+    
     public class MovieSubimage
     {
         public int Id { get; set; }

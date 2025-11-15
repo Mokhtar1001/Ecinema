@@ -1,5 +1,4 @@
-﻿
-using ECinema.Repositories.IRepositories;
+﻿using ECinema.Repositories.IRepositories;
 using System.Threading.Tasks;
 
 namespace ECinema.Repositories
@@ -8,14 +7,14 @@ namespace ECinema.Repositories
     {
         private ApplicationDbContext _context; //= new();
 
-        public MovieRepository(ApplicationDbContext context) : base(context)
+        public MovieRepository(ApplicationDbContext context): base(context)
         {
             _context = context;
         }
 
-        public async Task AddRange(IEnumerable<Movie> movies, CancellationToken cancellationToken = default)
+        public async Task AddRange(IEnumerable<Movie>movies,CancellationToken cancellationToken= default)
         {
-            await _context.AddRangeAsync(movies, cancellationToken);
+            await _context.AddRangeAsync(movies,cancellationToken);
         }
     }
 }

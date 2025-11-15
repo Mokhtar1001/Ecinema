@@ -64,6 +64,132 @@ namespace ECinema.Migrations
                     b.ToTable("Actors");
                 });
 
+            modelBuilder.Entity("ECinema.Models.ApplicationUser", b =>
+                {
+                    b.Property<string>("Id")
+                        .HasColumnType("nvarchar(450)");
+
+                    b.Property<int>("AccessFailedCount")
+                        .HasColumnType("int");
+
+                    b.Property<string>("Address")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("ConcurrencyStamp")
+                        .IsConcurrencyToken()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("Email")
+                        .HasMaxLength(256)
+                        .HasColumnType("nvarchar(256)");
+
+                    b.Property<bool>("EmailConfirmed")
+                        .HasColumnType("bit");
+
+                    b.Property<string>("FirstName")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("LastName")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<bool>("LockoutEnabled")
+                        .HasColumnType("bit");
+
+                    b.Property<DateTimeOffset?>("LockoutEnd")
+                        .HasColumnType("datetimeoffset");
+
+                    b.Property<string>("NormalizedEmail")
+                        .HasMaxLength(256)
+                        .HasColumnType("nvarchar(256)");
+
+                    b.Property<string>("NormalizedUserName")
+                        .HasMaxLength(256)
+                        .HasColumnType("nvarchar(256)");
+
+                    b.Property<string>("PasswordHash")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("PhoneNumber")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<bool>("PhoneNumberConfirmed")
+                        .HasColumnType("bit");
+
+                    b.Property<string>("SecurityStamp")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<bool>("TwoFactorEnabled")
+                        .HasColumnType("bit");
+
+                    b.Property<string>("UserName")
+                        .HasMaxLength(256)
+                        .HasColumnType("nvarchar(256)");
+
+                    b.HasKey("Id");
+
+                    b.HasIndex("NormalizedEmail")
+                        .HasDatabaseName("EmailIndex");
+
+                    b.HasIndex("NormalizedUserName")
+                        .IsUnique()
+                        .HasDatabaseName("UserNameIndex")
+                        .HasFilter("[NormalizedUserName] IS NOT NULL");
+
+                    b.ToTable("AspNetUsers", (string)null);
+                });
+
+            modelBuilder.Entity("ECinema.Models.ApplicationUserOTP", b =>
+                {
+                    b.Property<string>("Id")
+                        .HasColumnType("nvarchar(450)");
+
+                    b.Property<string>("ApplicationUserId")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(450)");
+
+                    b.Property<DateTime>("CreateAt")
+                        .HasColumnType("datetime2");
+
+                    b.Property<bool>("IsValid")
+                        .HasColumnType("bit");
+
+                    b.Property<string>("OTP")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<DateTime>("ValidTo")
+                        .HasColumnType("datetime2");
+
+                    b.HasKey("Id");
+
+                    b.HasIndex("ApplicationUserId");
+
+                    b.ToTable("ApplicationUserOTPs");
+                });
+
+            modelBuilder.Entity("ECinema.Models.Cart", b =>
+                {
+                    b.Property<int>("MovieId")
+                        .HasColumnType("int");
+
+                    b.Property<string>("ApplicationUserId")
+                        .HasColumnType("nvarchar(450)");
+
+                    b.Property<int>("Count")
+                        .HasColumnType("int");
+
+                    b.Property<decimal>("Price")
+                        .HasColumnType("decimal(18,2)");
+
+                    b.HasKey("MovieId", "ApplicationUserId");
+
+                    b.HasIndex("ApplicationUserId");
+
+                    b.ToTable("Carts");
+                });
+
             modelBuilder.Entity("ECinema.Models.Category", b =>
                 {
                     b.Property<int>("Id")
@@ -152,6 +278,9 @@ namespace ECinema.Migrations
                     b.Property<bool>("Status")
                         .HasColumnType("bit");
 
+                    b.Property<long>("Traffic")
+                        .HasColumnType("bigint");
+
                     b.HasKey("Id");
 
                     b.HasIndex("CategoryId");
@@ -192,6 +321,461 @@ namespace ECinema.Migrations
                     b.ToTable("MovieSubimages");
                 });
 
+            modelBuilder.Entity("ECinema.Models.Seat", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
+
+                    b.Property<bool>("IsReserved")
+                        .HasColumnType("bit");
+
+                    b.Property<string>("SeatCode")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.HasKey("Id");
+
+                    b.ToTable("Seats");
+
+                    b.HasData(
+                        new
+                        {
+                            Id = 1,
+                            IsReserved = false,
+                            SeatCode = "S1"
+                        },
+                        new
+                        {
+                            Id = 2,
+                            IsReserved = false,
+                            SeatCode = "S2"
+                        },
+                        new
+                        {
+                            Id = 3,
+                            IsReserved = false,
+                            SeatCode = "S3"
+                        },
+                        new
+                        {
+                            Id = 4,
+                            IsReserved = false,
+                            SeatCode = "S4"
+                        },
+                        new
+                        {
+                            Id = 5,
+                            IsReserved = false,
+                            SeatCode = "S5"
+                        },
+                        new
+                        {
+                            Id = 6,
+                            IsReserved = false,
+                            SeatCode = "S6"
+                        },
+                        new
+                        {
+                            Id = 7,
+                            IsReserved = false,
+                            SeatCode = "S7"
+                        },
+                        new
+                        {
+                            Id = 8,
+                            IsReserved = false,
+                            SeatCode = "S8"
+                        },
+                        new
+                        {
+                            Id = 9,
+                            IsReserved = false,
+                            SeatCode = "S9"
+                        },
+                        new
+                        {
+                            Id = 10,
+                            IsReserved = false,
+                            SeatCode = "S10"
+                        },
+                        new
+                        {
+                            Id = 11,
+                            IsReserved = false,
+                            SeatCode = "S11"
+                        },
+                        new
+                        {
+                            Id = 12,
+                            IsReserved = false,
+                            SeatCode = "S12"
+                        },
+                        new
+                        {
+                            Id = 13,
+                            IsReserved = false,
+                            SeatCode = "S13"
+                        },
+                        new
+                        {
+                            Id = 14,
+                            IsReserved = false,
+                            SeatCode = "S14"
+                        },
+                        new
+                        {
+                            Id = 15,
+                            IsReserved = false,
+                            SeatCode = "S15"
+                        },
+                        new
+                        {
+                            Id = 16,
+                            IsReserved = false,
+                            SeatCode = "S16"
+                        },
+                        new
+                        {
+                            Id = 17,
+                            IsReserved = false,
+                            SeatCode = "S17"
+                        },
+                        new
+                        {
+                            Id = 18,
+                            IsReserved = false,
+                            SeatCode = "S18"
+                        },
+                        new
+                        {
+                            Id = 19,
+                            IsReserved = false,
+                            SeatCode = "S19"
+                        },
+                        new
+                        {
+                            Id = 20,
+                            IsReserved = false,
+                            SeatCode = "S20"
+                        },
+                        new
+                        {
+                            Id = 21,
+                            IsReserved = false,
+                            SeatCode = "S21"
+                        },
+                        new
+                        {
+                            Id = 22,
+                            IsReserved = false,
+                            SeatCode = "S22"
+                        },
+                        new
+                        {
+                            Id = 23,
+                            IsReserved = false,
+                            SeatCode = "S23"
+                        },
+                        new
+                        {
+                            Id = 24,
+                            IsReserved = false,
+                            SeatCode = "S24"
+                        },
+                        new
+                        {
+                            Id = 25,
+                            IsReserved = false,
+                            SeatCode = "S25"
+                        },
+                        new
+                        {
+                            Id = 26,
+                            IsReserved = false,
+                            SeatCode = "S26"
+                        },
+                        new
+                        {
+                            Id = 27,
+                            IsReserved = false,
+                            SeatCode = "S27"
+                        },
+                        new
+                        {
+                            Id = 28,
+                            IsReserved = false,
+                            SeatCode = "S28"
+                        },
+                        new
+                        {
+                            Id = 29,
+                            IsReserved = false,
+                            SeatCode = "S29"
+                        },
+                        new
+                        {
+                            Id = 30,
+                            IsReserved = false,
+                            SeatCode = "S30"
+                        },
+                        new
+                        {
+                            Id = 31,
+                            IsReserved = false,
+                            SeatCode = "S31"
+                        },
+                        new
+                        {
+                            Id = 32,
+                            IsReserved = false,
+                            SeatCode = "S32"
+                        },
+                        new
+                        {
+                            Id = 33,
+                            IsReserved = false,
+                            SeatCode = "S33"
+                        },
+                        new
+                        {
+                            Id = 34,
+                            IsReserved = false,
+                            SeatCode = "S34"
+                        },
+                        new
+                        {
+                            Id = 35,
+                            IsReserved = false,
+                            SeatCode = "S35"
+                        },
+                        new
+                        {
+                            Id = 36,
+                            IsReserved = false,
+                            SeatCode = "S36"
+                        },
+                        new
+                        {
+                            Id = 37,
+                            IsReserved = false,
+                            SeatCode = "S37"
+                        },
+                        new
+                        {
+                            Id = 38,
+                            IsReserved = false,
+                            SeatCode = "S38"
+                        },
+                        new
+                        {
+                            Id = 39,
+                            IsReserved = false,
+                            SeatCode = "S39"
+                        },
+                        new
+                        {
+                            Id = 40,
+                            IsReserved = false,
+                            SeatCode = "S40"
+                        },
+                        new
+                        {
+                            Id = 41,
+                            IsReserved = false,
+                            SeatCode = "S41"
+                        },
+                        new
+                        {
+                            Id = 42,
+                            IsReserved = false,
+                            SeatCode = "S42"
+                        },
+                        new
+                        {
+                            Id = 43,
+                            IsReserved = false,
+                            SeatCode = "S43"
+                        },
+                        new
+                        {
+                            Id = 44,
+                            IsReserved = false,
+                            SeatCode = "S44"
+                        },
+                        new
+                        {
+                            Id = 45,
+                            IsReserved = false,
+                            SeatCode = "S45"
+                        },
+                        new
+                        {
+                            Id = 46,
+                            IsReserved = false,
+                            SeatCode = "S46"
+                        },
+                        new
+                        {
+                            Id = 47,
+                            IsReserved = false,
+                            SeatCode = "S47"
+                        },
+                        new
+                        {
+                            Id = 48,
+                            IsReserved = false,
+                            SeatCode = "S48"
+                        },
+                        new
+                        {
+                            Id = 49,
+                            IsReserved = false,
+                            SeatCode = "S49"
+                        },
+                        new
+                        {
+                            Id = 50,
+                            IsReserved = false,
+                            SeatCode = "S50"
+                        });
+                });
+
+            modelBuilder.Entity("Microsoft.AspNetCore.Identity.IdentityRole", b =>
+                {
+                    b.Property<string>("Id")
+                        .HasColumnType("nvarchar(450)");
+
+                    b.Property<string>("ConcurrencyStamp")
+                        .IsConcurrencyToken()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("Name")
+                        .HasMaxLength(256)
+                        .HasColumnType("nvarchar(256)");
+
+                    b.Property<string>("NormalizedName")
+                        .HasMaxLength(256)
+                        .HasColumnType("nvarchar(256)");
+
+                    b.HasKey("Id");
+
+                    b.HasIndex("NormalizedName")
+                        .IsUnique()
+                        .HasDatabaseName("RoleNameIndex")
+                        .HasFilter("[NormalizedName] IS NOT NULL");
+
+                    b.ToTable("AspNetRoles", (string)null);
+                });
+
+            modelBuilder.Entity("Microsoft.AspNetCore.Identity.IdentityRoleClaim<string>", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
+
+                    b.Property<string>("ClaimType")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("ClaimValue")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("RoleId")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(450)");
+
+                    b.HasKey("Id");
+
+                    b.HasIndex("RoleId");
+
+                    b.ToTable("AspNetRoleClaims", (string)null);
+                });
+
+            modelBuilder.Entity("Microsoft.AspNetCore.Identity.IdentityUserClaim<string>", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
+
+                    b.Property<string>("ClaimType")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("ClaimValue")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("UserId")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(450)");
+
+                    b.HasKey("Id");
+
+                    b.HasIndex("UserId");
+
+                    b.ToTable("AspNetUserClaims", (string)null);
+                });
+
+            modelBuilder.Entity("Microsoft.AspNetCore.Identity.IdentityUserLogin<string>", b =>
+                {
+                    b.Property<string>("LoginProvider")
+                        .HasColumnType("nvarchar(450)");
+
+                    b.Property<string>("ProviderKey")
+                        .HasColumnType("nvarchar(450)");
+
+                    b.Property<string>("ProviderDisplayName")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("UserId")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(450)");
+
+                    b.HasKey("LoginProvider", "ProviderKey");
+
+                    b.HasIndex("UserId");
+
+                    b.ToTable("AspNetUserLogins", (string)null);
+                });
+
+            modelBuilder.Entity("Microsoft.AspNetCore.Identity.IdentityUserRole<string>", b =>
+                {
+                    b.Property<string>("UserId")
+                        .HasColumnType("nvarchar(450)");
+
+                    b.Property<string>("RoleId")
+                        .HasColumnType("nvarchar(450)");
+
+                    b.HasKey("UserId", "RoleId");
+
+                    b.HasIndex("RoleId");
+
+                    b.ToTable("AspNetUserRoles", (string)null);
+                });
+
+            modelBuilder.Entity("Microsoft.AspNetCore.Identity.IdentityUserToken<string>", b =>
+                {
+                    b.Property<string>("UserId")
+                        .HasColumnType("nvarchar(450)");
+
+                    b.Property<string>("LoginProvider")
+                        .HasColumnType("nvarchar(450)");
+
+                    b.Property<string>("Name")
+                        .HasColumnType("nvarchar(450)");
+
+                    b.Property<string>("Value")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.HasKey("UserId", "LoginProvider", "Name");
+
+                    b.ToTable("AspNetUserTokens", (string)null);
+                });
+
             modelBuilder.Entity("ActorMovie", b =>
                 {
                     b.HasOne("ECinema.Models.Actor", null)
@@ -205,6 +789,36 @@ namespace ECinema.Migrations
                         .HasForeignKey("MoviesId")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
+                });
+
+            modelBuilder.Entity("ECinema.Models.ApplicationUserOTP", b =>
+                {
+                    b.HasOne("ECinema.Models.ApplicationUser", "ApplicationUser")
+                        .WithMany()
+                        .HasForeignKey("ApplicationUserId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.Navigation("ApplicationUser");
+                });
+
+            modelBuilder.Entity("ECinema.Models.Cart", b =>
+                {
+                    b.HasOne("ECinema.Models.ApplicationUser", "ApplicationUser")
+                        .WithMany()
+                        .HasForeignKey("ApplicationUserId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.HasOne("ECinema.Models.Movie", "Movie")
+                        .WithMany()
+                        .HasForeignKey("MovieId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.Navigation("ApplicationUser");
+
+                    b.Navigation("Movie");
                 });
 
             modelBuilder.Entity("ECinema.Models.Movie", b =>
@@ -250,6 +864,57 @@ namespace ECinema.Migrations
                     b.HasOne("ECinema.Models.Movie", null)
                         .WithMany("MovieSubimages")
                         .HasForeignKey("MovieId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+                });
+
+            modelBuilder.Entity("Microsoft.AspNetCore.Identity.IdentityRoleClaim<string>", b =>
+                {
+                    b.HasOne("Microsoft.AspNetCore.Identity.IdentityRole", null)
+                        .WithMany()
+                        .HasForeignKey("RoleId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+                });
+
+            modelBuilder.Entity("Microsoft.AspNetCore.Identity.IdentityUserClaim<string>", b =>
+                {
+                    b.HasOne("ECinema.Models.ApplicationUser", null)
+                        .WithMany()
+                        .HasForeignKey("UserId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+                });
+
+            modelBuilder.Entity("Microsoft.AspNetCore.Identity.IdentityUserLogin<string>", b =>
+                {
+                    b.HasOne("ECinema.Models.ApplicationUser", null)
+                        .WithMany()
+                        .HasForeignKey("UserId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+                });
+
+            modelBuilder.Entity("Microsoft.AspNetCore.Identity.IdentityUserRole<string>", b =>
+                {
+                    b.HasOne("Microsoft.AspNetCore.Identity.IdentityRole", null)
+                        .WithMany()
+                        .HasForeignKey("RoleId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.HasOne("ECinema.Models.ApplicationUser", null)
+                        .WithMany()
+                        .HasForeignKey("UserId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+                });
+
+            modelBuilder.Entity("Microsoft.AspNetCore.Identity.IdentityUserToken<string>", b =>
+                {
+                    b.HasOne("ECinema.Models.ApplicationUser", null)
+                        .WithMany()
+                        .HasForeignKey("UserId")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
                 });

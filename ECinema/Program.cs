@@ -1,6 +1,7 @@
-﻿using ECinema.DataAccess;
-using ECinema.Repositories;
-using ECinema.Repositories.IRepositories;
+using ECinema.Configrations;
+using ECinema.Utility.DBInitilizer;
+using Microsoft.CodeAnalysis.Options;
+using Microsoft.EntityFrameworkCore;
 
 namespace ECinema
 {
@@ -8,37 +9,50 @@ namespace ECinema
     {
         public static void Main(string[] args)
         {
+
             var builder = WebApplication.CreateBuilder(args);
 
-            // Add services
+            // Add services to the container.
             builder.Services.AddControllersWithViews();
 
-            // DbContext
-            builder.Services.AddDbContext<ApplicationDbContext>();
+            var connectionStrng =
+                builder.Configuration.GetConnectionString("DefaultConnection")
+                ?? throw new InvalidOperationException("Connection string " +
+                "'DefaultConnection' not found.");
 
-            // Generic repository
-            builder.Services.AddScoped(typeof(IRepository<>), typeof(Repository<>));
+           //AppConfigrution.RegisterConfig(builder.Services, connectionStrng);
 
-            // ✅ Specific repositories
-            builder.Services.AddScoped<IMovieRepository, MovieRepository>();
+            builder.Services.RegisterConfig(connectionStrng);
+            builder.Services.RegisterMapsterConfig();
+
+
 
             var app = builder.Build();
+            // Initialize Database
+            var scope = app.Services.CreateScope();
+            var service = scope.ServiceProvider.GetService<IDBInitializer>();
+            service!.Initialize();
 
+            // Configure the HTTP request pipeline.
             if (!app.Environment.IsDevelopment())
             {
                 app.UseExceptionHandler("/Home/Error");
+                // The default HSTS value is 30 days. You may want to change this for production scenarios, see https://aka.ms/aspnetcore-hsts.
                 app.UseHsts();
             }
 
             app.UseHttpsRedirection();
             app.UseRouting();
+
             app.UseAuthorization();
 
             app.MapStaticAssets();
             app.MapControllerRoute(
                 name: "default",
-                pattern: "{area=Admin}/{controller=Home}/{action=Index}/{id?}")
+                pattern: "{area=Customer}/{controller=Home}/{action=Index}/{id?}")
                 .WithStaticAssets();
+
+            
 
             app.Run();
         }
