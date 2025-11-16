@@ -3,39 +3,38 @@
   "WorkspaceRootPath": "C:\\Users\\Mokhtar Ahmed\\source\\repos\\ECinema\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A97DCC6D-A565-4A95-B176-8F5AE8382316}|ECinema\\ECinema.csproj|c:\\users\\mokhtar ahmed\\source\\repos\\ecinema\\ecinema\\areas\\customer\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A97DCC6D-A565-4A95-B176-8F5AE8382316}|ECinema\\ECinema.csproj|solutionrelative:ecinema\\areas\\customer\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A97DCC6D-A565-4A95-B176-8F5AE8382316}|ECinema\\ECinema.csproj|c:\\users\\mokhtar ahmed\\source\\repos\\ecinema\\ecinema\\areas\\customer\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A97DCC6D-A565-4A95-B176-8F5AE8382316}|ECinema\\ECinema.csproj|solutionrelative:ecinema\\areas\\customer\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A97DCC6D-A565-4A95-B176-8F5AE8382316}|ECinema\\ECinema.csproj|c:\\users\\mokhtar ahmed\\source\\repos\\ecinema\\ecinema\\areas\\customer\\views\\home\\item.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A97DCC6D-A565-4A95-B176-8F5AE8382316}|ECinema\\ECinema.csproj|solutionrelative:ecinema\\areas\\customer\\views\\home\\item.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/./ECinema/True/SqlTable/dbo.AspNetUsers.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A97DCC6D-A565-4A95-B176-8F5AE8382316}|ECinema\\ECinema.csproj|c:\\users\\mokhtar ahmed\\source\\repos\\ecinema\\ecinema\\areas\\customer\\controllers\\cinemacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A97DCC6D-A565-4A95-B176-8F5AE8382316}|ECinema\\ECinema.csproj|solutionrelative:ecinema\\areas\\customer\\controllers\\cinemacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/./ECinema/True/SqlTable/dbo.AspNetUserLogins.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A97DCC6D-A565-4A95-B176-8F5AE8382316}|ECinema\\ECinema.csproj|c:\\users\\mokhtar ahmed\\source\\repos\\ecinema\\ecinema\\models\\seat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A97DCC6D-A565-4A95-B176-8F5AE8382316}|ECinema\\ECinema.csproj|solutionrelative:ecinema\\models\\seat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A97DCC6D-A565-4A95-B176-8F5AE8382316}|ECinema\\ECinema.csproj|c:\\users\\mokhtar ahmed\\source\\repos\\ecinema\\ecinema\\appconfigrution.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A97DCC6D-A565-4A95-B176-8F5AE8382316}|ECinema\\ECinema.csproj|solutionrelative:ecinema\\appconfigrution.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A97DCC6D-A565-4A95-B176-8F5AE8382316}|ECinema\\ECinema.csproj|c:\\users\\mokhtar ahmed\\source\\repos\\ecinema\\ecinema\\areas\\customer\\views\\cinema\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A97DCC6D-A565-4A95-B176-8F5AE8382316}|ECinema\\ECinema.csproj|solutionrelative:ecinema\\areas\\customer\\views\\cinema\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A97DCC6D-A565-4A95-B176-8F5AE8382316}|ECinema\\ECinema.csproj|c:\\users\\mokhtar ahmed\\source\\repos\\ecinema\\ecinema\\configrations\\mapstercongig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A97DCC6D-A565-4A95-B176-8F5AE8382316}|ECinema\\ECinema.csproj|solutionrelative:ecinema\\configrations\\mapstercongig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A97DCC6D-A565-4A95-B176-8F5AE8382316}|ECinema\\ECinema.csproj|c:\\users\\mokhtar ahmed\\source\\repos\\ecinema\\ecinema\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A97DCC6D-A565-4A95-B176-8F5AE8382316}|ECinema\\ECinema.csproj|solutionrelative:ecinema\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A97DCC6D-A565-4A95-B176-8F5AE8382316}|ECinema\\ECinema.csproj|c:\\users\\mokhtar ahmed\\source\\repos\\ecinema\\ecinema\\areas\\identity\\controllers\\profilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A97DCC6D-A565-4A95-B176-8F5AE8382316}|ECinema\\ECinema.csproj|solutionrelative:ecinema\\areas\\identity\\controllers\\profilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/./ECinema/True/SqlTable/dbo.Seats.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+      "AbsoluteMoniker": "D:0:0:{A97DCC6D-A565-4A95-B176-8F5AE8382316}|ECinema\\ECinema.csproj|c:\\users\\mokhtar ahmed\\source\\repos\\ecinema\\ecinema\\areas\\identity\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A97DCC6D-A565-4A95-B176-8F5AE8382316}|ECinema\\ECinema.csproj|solutionrelative:ecinema\\areas\\identity\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A97DCC6D-A565-4A95-B176-8F5AE8382316}|ECinema\\ECinema.csproj|c:\\users\\mokhtar ahmed\\source\\repos\\ecinema\\ecinema\\utility\\sd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A97DCC6D-A565-4A95-B176-8F5AE8382316}|ECinema\\ECinema.csproj|solutionrelative:ecinema\\utility\\sd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A97DCC6D-A565-4A95-B176-8F5AE8382316}|ECinema\\ECinema.csproj|c:\\users\\mokhtar ahmed\\source\\repos\\ecinema\\ecinema\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A97DCC6D-A565-4A95-B176-8F5AE8382316}|ECinema\\ECinema.csproj|solutionrelative:ecinema\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A97DCC6D-A565-4A95-B176-8F5AE8382316}|ECinema\\ECinema.csproj|c:\\users\\mokhtar ahmed\\source\\repos\\ecinema\\ecinema\\migrations\\20251115051148_a.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A97DCC6D-A565-4A95-B176-8F5AE8382316}|ECinema\\ECinema.csproj|solutionrelative:ecinema\\migrations\\20251115051148_a.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A97DCC6D-A565-4A95-B176-8F5AE8382316}|ECinema\\ECinema.csproj|c:\\users\\mokhtar ahmed\\source\\repos\\ecinema\\ecinema\\areas\\customer\\controllers\\cartcontroller1cs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A97DCC6D-A565-4A95-B176-8F5AE8382316}|ECinema\\ECinema.csproj|solutionrelative:ecinema\\areas\\customer\\controllers\\cartcontroller1cs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -45,21 +44,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 3,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "CinemaController.cs",
-              "DocumentMoniker": "C:\\Users\\Mokhtar Ahmed\\source\\repos\\ECinema\\ECinema\\Areas\\Customer\\Controllers\\CinemaController.cs",
-              "RelativeDocumentMoniker": "ECinema\\Areas\\Customer\\Controllers\\CinemaController.cs",
-              "ToolTip": "C:\\Users\\Mokhtar Ahmed\\source\\repos\\ECinema\\ECinema\\Areas\\Customer\\Controllers\\CinemaController.cs",
-              "RelativeToolTip": "ECinema\\Areas\\Customer\\Controllers\\CinemaController.cs",
-              "ViewState": "AgIAACcAAAAAAAAAAAAgwEAAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-15T04:16:32.883Z",
-              "IsPinned": true
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
@@ -75,96 +61,113 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Mokhtar Ahmed\\source\\repos\\ECinema\\ECinema\\Areas\\Customer\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "ECinema\\Areas\\Customer\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Mokhtar Ahmed\\source\\repos\\ECinema\\ECinema\\Areas\\Customer\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "ECinema\\Areas\\Customer\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAI4AAAAAAAAAAAAAAIQAAAB9AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-15T06:03:44.82Z",
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Mokhtar Ahmed\\source\\repos\\ECinema\\ECinema\\Areas\\Customer\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ECinema\\Areas\\Customer\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Mokhtar Ahmed\\source\\repos\\ECinema\\ECinema\\Areas\\Customer\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ECinema\\Areas\\Customer\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAIwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T12:11:15.501Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Item.cshtml",
-              "DocumentMoniker": "C:\\Users\\Mokhtar Ahmed\\source\\repos\\ECinema\\ECinema\\Areas\\Customer\\Views\\Home\\Item.cshtml",
-              "RelativeDocumentMoniker": "ECinema\\Areas\\Customer\\Views\\Home\\Item.cshtml",
-              "ToolTip": "C:\\Users\\Mokhtar Ahmed\\source\\repos\\ECinema\\ECinema\\Areas\\Customer\\Views\\Home\\Item.cshtml",
-              "RelativeToolTip": "ECinema\\Areas\\Customer\\Views\\Home\\Item.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADoAAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-15T05:57:48.475Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ApplicationUser.cs",
-              "DocumentMoniker": "C:\\Users\\Mokhtar Ahmed\\source\\repos\\ECinema\\ECinema\\Models\\ApplicationUser.cs",
-              "RelativeDocumentMoniker": "ECinema\\Models\\ApplicationUser.cs",
-              "ToolTip": "C:\\Users\\Mokhtar Ahmed\\source\\repos\\ECinema\\ECinema\\Models\\ApplicationUser.cs",
-              "RelativeToolTip": "ECinema\\Models\\ApplicationUser.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-15T05:44:37.1Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "20251115051148_A.cs",
-              "DocumentMoniker": "C:\\Users\\Mokhtar Ahmed\\source\\repos\\ECinema\\ECinema\\Migrations\\20251115051148_A.cs",
-              "RelativeDocumentMoniker": "ECinema\\Migrations\\20251115051148_A.cs",
-              "ToolTip": "C:\\Users\\Mokhtar Ahmed\\source\\repos\\ECinema\\ECinema\\Migrations\\20251115051148_A.cs",
-              "RelativeToolTip": "ECinema\\Migrations\\20251115051148_A.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-15T05:11:48.347Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "dbo.Seats.sql",
-              "DocumentMoniker": "ViewDataWindow_MSSQL__/./ECinema/True/SqlTable/dbo.Seats.sql",
-              "ToolTip": "ViewDataWindow_MSSQL__/./ECinema/True/SqlTable/dbo.Seats.sql",
+              "Title": "dbo.AspNetUsers [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/./ECinema/True/SqlTable/dbo.AspNetUsers.sql",
+              "ToolTip": "dbo.AspNetUsers [Data]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2025-11-15T05:09:33.835Z"
+              "WhenOpened": "2025-11-16T12:06:53.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "dbo.AspNetUserLogins [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/./ECinema/True/SqlTable/dbo.AspNetUserLogins.sql",
+              "ToolTip": "dbo.AspNetUserLogins [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-11-16T12:05:38.112Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Seat.cs",
-              "DocumentMoniker": "C:\\Users\\Mokhtar Ahmed\\source\\repos\\ECinema\\ECinema\\Models\\Seat.cs",
-              "RelativeDocumentMoniker": "ECinema\\Models\\Seat.cs",
-              "ToolTip": "C:\\Users\\Mokhtar Ahmed\\source\\repos\\ECinema\\ECinema\\Models\\Seat.cs",
-              "RelativeToolTip": "ECinema\\Models\\Seat.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Title": "AppConfigrution.cs",
+              "DocumentMoniker": "C:\\Users\\Mokhtar Ahmed\\source\\repos\\ECinema\\ECinema\\AppConfigrution.cs",
+              "RelativeDocumentMoniker": "ECinema\\AppConfigrution.cs",
+              "ToolTip": "C:\\Users\\Mokhtar Ahmed\\source\\repos\\ECinema\\ECinema\\AppConfigrution.cs",
+              "RelativeToolTip": "ECinema\\AppConfigrution.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-15T04:49:56.266Z"
+              "WhenOpened": "2025-11-16T12:03:18.995Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Mokhtar Ahmed\\source\\repos\\ECinema\\ECinema\\Areas\\Customer\\Views\\Cinema\\Index.cshtml",
-              "RelativeDocumentMoniker": "ECinema\\Areas\\Customer\\Views\\Cinema\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Mokhtar Ahmed\\source\\repos\\ECinema\\ECinema\\Areas\\Customer\\Views\\Cinema\\Index.cshtml",
-              "RelativeToolTip": "ECinema\\Areas\\Customer\\Views\\Cinema\\Index.cshtml",
-              "ViewState": "AgIAAHsAAAAAAAAAAAAwwKoAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-15T04:34:17.252Z"
+              "Title": "MapsterCongig.cs",
+              "DocumentMoniker": "C:\\Users\\Mokhtar Ahmed\\source\\repos\\ECinema\\ECinema\\Configrations\\MapsterCongig.cs",
+              "RelativeDocumentMoniker": "ECinema\\Configrations\\MapsterCongig.cs",
+              "ToolTip": "C:\\Users\\Mokhtar Ahmed\\source\\repos\\ECinema\\ECinema\\Configrations\\MapsterCongig.cs",
+              "RelativeToolTip": "ECinema\\Configrations\\MapsterCongig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T12:03:05.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProfileController.cs",
+              "DocumentMoniker": "C:\\Users\\Mokhtar Ahmed\\source\\repos\\ECinema\\ECinema\\Areas\\Identity\\Controllers\\ProfileController.cs",
+              "RelativeDocumentMoniker": "ECinema\\Areas\\Identity\\Controllers\\ProfileController.cs",
+              "ToolTip": "C:\\Users\\Mokhtar Ahmed\\source\\repos\\ECinema\\ECinema\\Areas\\Identity\\Controllers\\ProfileController.cs",
+              "RelativeToolTip": "ECinema\\Areas\\Identity\\Controllers\\ProfileController.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAuwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T12:02:48.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\Mokhtar Ahmed\\source\\repos\\ECinema\\ECinema\\Areas\\Identity\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "ECinema\\Areas\\Identity\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\Mokhtar Ahmed\\source\\repos\\ECinema\\ECinema\\Areas\\Identity\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "ECinema\\Areas\\Identity\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAJEAAAAAAAAAAAAqwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T12:02:23.069Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "SD.cs",
-              "DocumentMoniker": "C:\\Users\\Mokhtar Ahmed\\source\\repos\\ECinema\\ECinema\\Utility\\SD.cs",
-              "RelativeDocumentMoniker": "ECinema\\Utility\\SD.cs",
-              "ToolTip": "C:\\Users\\Mokhtar Ahmed\\source\\repos\\ECinema\\ECinema\\Utility\\SD.cs",
-              "RelativeToolTip": "ECinema\\Utility\\SD.cs",
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\Mokhtar Ahmed\\source\\repos\\ECinema\\ECinema\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "ECinema\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\Mokhtar Ahmed\\source\\repos\\ECinema\\ECinema\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "ECinema\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAuwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T12:01:59.373Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CartController1cs.cs",
+              "DocumentMoniker": "C:\\Users\\Mokhtar Ahmed\\source\\repos\\ECinema\\ECinema\\Areas\\Customer\\Controllers\\CartController1cs.cs",
+              "RelativeDocumentMoniker": "ECinema\\Areas\\Customer\\Controllers\\CartController1cs.cs",
+              "ToolTip": "C:\\Users\\Mokhtar Ahmed\\source\\repos\\ECinema\\ECinema\\Areas\\Customer\\Controllers\\CartController1cs.cs",
+              "RelativeToolTip": "ECinema\\Areas\\Customer\\Controllers\\CartController1cs.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-15T04:23:44.841Z"
+              "WhenOpened": "2025-11-16T12:01:47.877Z",
+              "EditorCaption": ""
             }
           ]
         }

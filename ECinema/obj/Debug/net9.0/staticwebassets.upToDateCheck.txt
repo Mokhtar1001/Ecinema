@@ -551,23 +551,30 @@ wwwroot\images\89a8ae15-fc6a-4c1c-87c3-da4bb6182c66.jpg
 wwwroot\images\8b3e24c7-b3ca-4eb3-a129-bac6c634c196.jpg
 wwwroot\images\923b0424-f54c-41bb-8f89-d11897bf7b4f.png
 wwwroot\images\999e7aea-7212-404c-ba0a-d1635fe359b7.png
+wwwroot\images\a6044551-736f-49ed-a3ef-50a1591de00d.png
 wwwroot\images\af81f829-a5c1-411e-b937-a03c0a78b6ab.jpg
+wwwroot\images\b553f859-7912-45d6-8849-397bf4ac08fb.png
 wwwroot\images\b55b28ac-d5fc-41af-b60e-ba4218c5b65e.jpg
 wwwroot\images\c253621c-bf7c-4182-a744-4625a7b17e55.jpg
 wwwroot\images\d1eb7b70-7890-47bd-bba0-758fd8050ede.jpg
+wwwroot\images\ddb96189-aba4-4ec4-84ba-692f4b80cf63.png
 wwwroot\images\dfddcc8f-6d4f-4ef2-88c8-ecf26b3e4e41.png
 wwwroot\images\e7f37a63-43f4-4a75-a222-3b5739d7d1de.png
 wwwroot\images\ebc60dfd-2cd4-480a-9947-0d6f721602b7.jpg
 wwwroot\images\ed6164f4-a9a1-4bfc-bac5-bfe2c60731b8.jpg
 wwwroot\images\fa50709b-f0f8-4800-b37b-df2b4e5ab359.jpg
 wwwroot\images\ffbfe2c1-40a8-4f84-a272-37ff19e04df0.png
+wwwroot\images\Movie_images\0361a064-55a7-4236-b4ba-851183417023.png
 wwwroot\images\Movie_images\0546dde8-fb06-4c14-9106-1d5e4a6b0221.jpg
 wwwroot\images\Movie_images\061002c2-b692-4d2c-b955-eebf34e4f549.jpg
 wwwroot\images\Movie_images\0a8413ac-8dc1-4dda-9dd0-8001ee51fb9e.jpg
 wwwroot\images\Movie_images\161d96ce-9e55-4d8b-982e-e4aae058e5e6.jpg
 wwwroot\images\Movie_images\2571336a-2ab9-4e61-b888-734dd10053a8.jpg
 wwwroot\images\Movie_images\2b0f3647-a436-4ee4-bf40-29eeccdb3e05.jpg
+wwwroot\images\Movie_images\2e0735df-d95e-4bd2-a8be-4ec108cd224d.png
 wwwroot\images\Movie_images\35256f7d-1fad-473a-8a2a-4454681deaea.jpg
+wwwroot\images\Movie_images\3c248166-9a06-43fb-bb4b-aceeac18c6e4.png
+wwwroot\images\Movie_images\5f304837-280c-4632-9b1c-a13286a3ad5f.png
 wwwroot\images\Movie_images\b7f621b8-ace3-4cc7-8a20-c6f8829fd64e.jpg
 wwwroot\images\Movie_images\d135e313-17d2-4cd4-a86c-cfa74fa98f53.jpg
 wwwroot\images\Movie_images\d6139855-8ba5-4271-93c9-1216f5f97c02.jpg
@@ -1032,627 +1039,627 @@ wwwroot\vendors\tinymce\tinymce.js
 wwwroot\vendors\tinymce\tinymce.min.js
 wwwroot\vendors\typed.js\typed.js
 wwwroot\vendors\validator\validator.min.js
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\css\site.css
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\favicon.ico
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\js\site.js
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css.map
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css.map
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css.map
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css.map
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css.map
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css.map
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css.map
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css.map
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\lib\bootstrap\dist\css\bootstrap.css
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css.map
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css.map
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js.map
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js.map
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\lib\bootstrap\dist\js\bootstrap.js
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.js
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.min.js
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\lib\jquery-validation-unobtrusive\LICENSE.txt
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\lib\jquery-validation\dist\additional-methods.js
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\lib\jquery-validation\dist\additional-methods.min.js
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\lib\jquery-validation\dist\jquery.validate.js
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\lib\jquery-validation\dist\jquery.validate.min.js
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\lib\jquery-validation\LICENSE.md
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\lib\jquery\dist\jquery.js
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\lib\jquery\dist\jquery.min.js
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\lib\jquery\dist\jquery.min.map
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\lib\jquery\dist\jquery.slim.js
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\lib\jquery\dist\jquery.slim.min.js
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\lib\jquery\dist\jquery.slim.min.map
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\lib\jquery\LICENSE.txt
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\app\chat.html
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\app\calendar.html
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\app\e-commerce\billing.html
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\app\e-commerce\checkout.html
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\app\e-commerce\customer-details.html
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\app\e-commerce\customers.html
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\app\e-commerce\invoice.html
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\app\e-commerce\orders\order-details.html
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\app\e-commerce\orders\order-list.html
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\app\e-commerce\product\product-details.html
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\app\e-commerce\product\product-grid.html
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\app\e-commerce\product\product-list.html
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\app\e-commerce\shopping-cart.html
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\app\e-learning\course\course-details.html
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\app\e-learning\course\course-grid.html
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\app\e-learning\course\course-list.html
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\app\e-learning\course\create-a-course.html
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\app\e-learning\student-overview.html
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\app\e-learning\trainer-profile.html
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\app\email\compose.html
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\app\email\email-detail.html
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\app\email\inbox.html
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\app\events\create-an-event.html
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\app\events\event-detail.html
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\app\events\event-list.html
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\app\kanban.html
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\app\social\activity-log.html
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\app\social\feed.html
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\app\social\followers.html
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\app\social\notifications.html
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\app\support-desk\card-view.html
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\app\support-desk\contact-details.html
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\app\support-desk\contacts.html
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\app\support-desk\quick-links.html
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\app\support-desk\reports.html
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\app\support-desk\table-view.html
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\app\support-desk\tickets-preview.html
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\assets\css\theme-rtl.css
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\assets\css\theme-rtl.css.map
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\assets\css\theme-rtl.min.css
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\assets\css\theme-rtl.min.css.map
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\assets\css\theme.css
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\assets\css\theme.css.map
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\assets\css\theme.min.css
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\assets\css\theme.min.css.map
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\assets\css\user-rtl.css
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\assets\css\user-rtl.css.map
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\assets\css\user-rtl.min.css
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\assets\css\user-rtl.min.css.map
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\assets\css\user.css
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\assets\css\user.css.map
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\assets\css\user.min.css
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\assets\css\user.min.css.map
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\assets\data\usa.js
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\assets\data\world.js
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\assets\img\animated-icons\bm.json
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\assets\img\animated-icons\bouncing-ball.json
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\assets\img\animated-icons\celebration.json
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\assets\img\animated-icons\check-primary-light.json
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\assets\img\animated-icons\heart.json
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\assets\img\animated-icons\infinite-loop.json
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\assets\img\animated-icons\loading-animation.json
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\assets\img\animated-icons\loading-balls.json
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\assets\img\animated-icons\loading-circle-scale.json
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\assets\img\animated-icons\loading-square.json
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\assets\img\animated-icons\loading.json
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\assets\img\animated-icons\shopping-list.json
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\assets\img\animated-icons\sleeping-404.json
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\assets\img\animated-icons\ss.json
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\assets\img\animated-icons\star-feedback.json
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\assets\img\animated-icons\warning-light.json
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\assets\img\crm\call.svg
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\assets\img\crm\email.svg
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\assets\img\crm\other.svg
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\assets\img\crm\social.svg
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\assets\img\favicons\browserconfig.xml
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\assets\img\favicons\favicon.ico
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\assets\img\favicons\manifest.json
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\assets\img\favicons\site.webmanifest
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\assets\img\icons\arrows-h.svg
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\assets\img\icons\chevron-up.svg
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\assets\img\icons\cloud-download-.svg
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\assets\img\icons\cloud-download.svg
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\assets\img\icons\cloud-upload.svg
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\assets\img\icons\discount.svg
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\assets\img\icons\double-chevron-up.svg
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\assets\img\icons\edit-alt-.svg
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\assets\img\icons\edit-alt.svg
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\assets\img\icons\folder-open-solid.svg
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\assets\img\icons\folder-solid.svg
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\assets\img\icons\free.svg
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\assets\img\icons\icon-angle-right.svg
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\assets\img\icons\left-arrow-from-left.svg
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\assets\img\icons\moon.svg
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\assets\img\icons\networking.svg
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\assets\img\icons\nineDots.svg
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\assets\img\icons\paragraph.svg
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\assets\img\icons\play.svg
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\assets\img\icons\pro.svg
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\assets\img\icons\sent.svg
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\assets\img\icons\shield.svg
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\assets\img\icons\spot-illustrations\1.svg
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\assets\img\icons\spot-illustrations\2.svg
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\assets\img\icons\spot-illustrations\3.svg
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\assets\img\icons\spot-illustrations\4.svg
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\assets\img\icons\spot-illustrations\5.svg
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\assets\img\icons\spot-illustrations\6.svg
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\assets\img\icons\spot-illustrations\calendar.svg
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\assets\img\icons\spot-illustrations\editing.svg
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\assets\img\icons\spot-illustrations\image.svg
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\assets\img\icons\spot-illustrations\location.svg
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\assets\img\icons\spot-illustrations\paper-plane.svg
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\assets\img\icons\spot-illustrations\startup.svg
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\assets\img\icons\star_on.svg
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\assets\img\icons\sun.svg
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\assets\img\icons\target.svg
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\assets\img\icons\triple-chevron-up.svg
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\assets\img\icons\user-plus.svg
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\assets\img\icons\users.svg
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\assets\img\illustrations\1.svg
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\assets\img\illustrations\2.svg
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\assets\img\illustrations\3.svg
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\assets\img\illustrations\4.svg
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\assets\img\illustrations\5.svg
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\assets\img\illustrations\6.svg
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\assets\img\illustrations\calendar.svg
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\assets\img\illustrations\editing.svg
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\assets\img\illustrations\image.svg
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\assets\img\illustrations\location.svg
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\assets\img\illustrations\paper-plane.svg
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\assets\img\illustrations\startup.svg
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\assets\js\config.js
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\assets\js\config.js.map
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\assets\js\echart-example.js
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\assets\js\echart-example.js.map
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\assets\js\echarts-example.js
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\assets\js\echarts-example.js.map
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\assets\js\emoji-button.js
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\assets\js\flatpickr.js
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\assets\js\theme.js
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\assets\js\theme.js.map
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\assets\js\theme.min.js
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\assets\js\theme.min.js.map
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\dashboard\analytics.html
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\dashboard\crm.html
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\dashboard\e-commerce.html
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\dashboard\lms.html
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\dashboard\project-management.html
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\dashboard\saas.html
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\dashboard\support-desk.html
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\demo\combo-nav.html
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\demo\fluid.html
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\demo\navbar-double-top.html
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\demo\navbar-top.html
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\demo\navbar-vertical-card.html
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\demo\navbar-vertical-inverted.html
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\demo\navbar-vertical-vibrant.html
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\demo\navbar-vertical.html
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\demo\RTL.html
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\documentation\customization\configuration.html
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\documentation\customization\dark-mode.html
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\documentation\customization\plugin.html
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\documentation\customization\styling.html
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\documentation\design-file.html
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\documentation\faq.html
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\documentation\getting-started.html
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\documentation\gulp.html
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\modules\charts\chartjs.html
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\modules\charts\d3js.html
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\modules\charts\echarts\bar-charts.html
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\modules\charts\echarts\candlestick-charts.html
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\modules\charts\echarts\gauge-charts.html
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\modules\charts\echarts\geo-map.html
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\modules\charts\echarts\heatmap-charts.html
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\modules\charts\echarts\how-to-use.html
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\modules\charts\echarts\line-charts.html
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\modules\charts\echarts\pie-charts.html
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\modules\charts\echarts\radar-charts.html
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\modules\charts\echarts\scatter-charts.html
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\modules\components\accordion.html
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\modules\components\alerts.html
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\modules\components\anchor.html
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\modules\components\animated-icons.html
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\modules\components\background.html
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\modules\components\badges.html
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\modules\components\bottom-bar.html
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\modules\components\breadcrumbs.html
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\modules\components\buttons.html
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\modules\components\calendar.html
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\modules\components\cards.html
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\modules\components\carousel\bootstrap.html
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\modules\components\carousel\swiper.html
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\modules\components\close-button.html
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\modules\components\collapse.html
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\modules\components\cookie-notice.html
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\modules\components\countup.html
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\modules\components\draggable.html
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\modules\components\dropdowns.html
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\modules\components\jquery-components.html
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\modules\components\list-group.html
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\modules\components\modals.html
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\modules\components\navs-and-tabs\combo-navbar.html
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\modules\components\navs-and-tabs\double-top-navbar.html
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\modules\components\navs-and-tabs\navbar.html
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\modules\components\navs-and-tabs\navs.html
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\modules\components\navs-and-tabs\tabs.html
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\modules\components\navs-and-tabs\top-navbar.html
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\modules\components\navs-and-tabs\vertical-navbar.html
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\modules\components\offcanvas.html
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\modules\components\pagination.html
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\modules\components\pictures\avatar.html
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\modules\components\pictures\figures.html
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\modules\components\pictures\hoverbox.html
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\modules\components\pictures\images.html
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\modules\components\pictures\lightbox.html
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\modules\components\placeholder.html
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\modules\components\popovers.html
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\modules\components\progress-bar.html
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\modules\components\scrollspy.html
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\modules\components\search.html
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\modules\components\spinners.html
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\modules\components\timeline.html
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\modules\components\toasts.html
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\modules\components\tooltips.html
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\modules\components\treeview.html
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\modules\components\typed-text.html
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\modules\components\videos\embed.html
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\modules\components\videos\plyr.html
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\modules\forms\advance\advance-select.html
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\modules\forms\advance\date-picker.html
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\modules\forms\advance\editor.html
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\modules\forms\advance\emoji-button.html
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\modules\forms\advance\file-uploader.html
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\modules\forms\advance\rating.html
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\modules\forms\basic\checks.html
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\modules\forms\basic\form-control.html
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\modules\forms\basic\input-group.html
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\modules\forms\basic\layout.html
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\modules\forms\basic\range.html
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\modules\forms\basic\select.html
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\modules\forms\floating-labels.html
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\modules\forms\validation.html
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\modules\forms\wizard.html
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\modules\icons\bootstrap-icons.html
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\modules\icons\feather.html
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\modules\icons\font-awesome.html
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\modules\icons\material-icons.html
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\modules\maps\google-map.html
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\modules\maps\leaflet-map.html
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\modules\tables\advance-tables.html
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\modules\tables\basic-tables.html
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\modules\tables\bulk-select.html
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\modules\utilities\borders.html
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\modules\utilities\clearfix.html
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\modules\utilities\colored-links.html
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\modules\utilities\colors.html
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\modules\utilities\display.html
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\modules\utilities\flex.html
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\modules\utilities\float.html
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\modules\utilities\grid.html
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\modules\utilities\overlayscrollbar.html
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\modules\utilities\position.html
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\modules\utilities\sizing.html
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\modules\utilities\spacing.html
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\modules\utilities\stretched-link.html
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\modules\utilities\text-truncation.html
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\modules\utilities\typography.html
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\modules\utilities\vertical-align.html
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\modules\utilities\visibility.html
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\pages\authentication\card\confirm-mail.html
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\pages\authentication\card\forgot-password.html
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\pages\authentication\card\lock-screen.html
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\pages\authentication\card\login.html
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\pages\authentication\card\logout.html
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\pages\authentication\card\register.html
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\pages\authentication\card\reset-password.html
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\pages\authentication\simple\confirm-mail.html
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\pages\authentication\simple\forgot-password.html
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\pages\authentication\simple\lock-screen.html
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\pages\authentication\simple\login.html
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\pages\authentication\simple\logout.html
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\pages\authentication\simple\register.html
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\pages\authentication\simple\reset-password.html
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\pages\authentication\split\confirm-mail.html
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\pages\authentication\split\forgot-password.html
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\pages\authentication\split\lock-screen.html
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\pages\authentication\split\login.html
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\pages\authentication\split\logout.html
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\pages\authentication\split\register.html
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\pages\authentication\split\reset-password.html
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\pages\authentication\wizard.html
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\pages\errors\404.html
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\pages\errors\500.html
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\pages\faq\faq-accordion.html
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\pages\faq\faq-alt.html
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\pages\faq\faq-basic.html
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\pages\landing.html
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\pages\miscellaneous\associations.html
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\pages\miscellaneous\invite-people.html
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\pages\miscellaneous\privacy-policy.html
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\pages\pricing\pricing-alt.html
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\pages\pricing\pricing-default.html
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\pages\starter.html
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\pages\user\profile.html
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\pages\user\settings.html
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\vendors\anchorjs\anchor.min.js
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\vendors\bootstrap\bootstrap.min.js
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\vendors\bootstrap\bootstrap.min.js.map
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\vendors\chart\chart.min.js
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\vendors\choices\base.min.css
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\vendors\choices\choices.min.css
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\vendors\choices\choices.min.js
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\vendors\countup\countUp.umd.js
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\vendors\d3\d3.min.js
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\vendors\datatables.net-bs5\dataTables.bootstrap5.min.css
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\vendors\datatables.net-bs5\dataTables.bootstrap5.min.js
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\vendors\datatables.net-dt\jquery.dataTables.min.css
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\vendors\datatables.net-fixedcolumns\dataTables.fixedColumns.min.js
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\vendors\datatables.net\jquery.dataTables.min.js
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\vendors\dayjs\dayjs.min.js
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\vendors\draggable\draggable.bundle.legacy.js
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\vendors\dropzone\dropzone.min.css
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\vendors\dropzone\dropzone.min.js
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\vendors\echarts-countries-js\map\USA.js
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\vendors\echarts-countries-js\map\world.js
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\vendors\echarts-countries-js\world\world.js
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\vendors\echarts\echarts.min.js
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\vendors\flatpickr\flatpickr.min.css
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\vendors\fontawesome\all.min.js
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\vendors\fullcalendar\main.js
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\vendors\fullcalendar\main.min.css
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\vendors\fullcalendar\main.min.js
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\vendors\glightbox\glightbox.min.css
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\vendors\glightbox\glightbox.min.js
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\vendors\is\is.min.js
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\vendors\jquery\jquery.min.js
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\vendors\leaflet.markercluster\leaflet.markercluster.js
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\vendors\leaflet.markercluster\leaflet.markercluster.js.map
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\vendors\leaflet.markercluster\MarkerCluster.css
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\vendors\leaflet.markercluster\MarkerCluster.Default.css
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\vendors\leaflet.tilelayer.colorfilter\leaflet-tilelayer-colorfilter.min.js
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\vendors\leaflet\leaflet.css
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\vendors\leaflet\leaflet.js
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\vendors\leaflet\leaflet.js.map
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\vendors\list.js\list.min.js
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\vendors\list.js\list.min.js.map
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\vendors\lodash\lodash.min.js
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\vendors\lottie\lottie.min.js
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\vendors\overlayscrollbars\OverlayScrollbars.min.css
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\vendors\overlayscrollbars\OverlayScrollbars.min.js
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\vendors\plyr\plyr.css
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\vendors\plyr\plyr.polyfilled.min.js
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\vendors\plyr\plyr.polyfilled.min.js.map
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\vendors\popper\popper.min.js
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\vendors\popper\popper.min.js.map
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\vendors\prism\prism-okaidia.css
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\vendors\prism\prism.js
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\vendors\rater-js\index.js
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\vendors\rater-js\rater-js.js
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\vendors\rater-js\star_0.svg
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\vendors\rater-js\star_1.svg
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\vendors\rater-js\style.css
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\vendors\select2-bootstrap-5-theme\select2-bootstrap-5-theme.min.css
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\vendors\select2\select2.full.min.js
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\vendors\select2\select2.min.css
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\vendors\select2\select2.min.js
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\vendors\simplebar\simplebar.min.css
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\vendors\simplebar\simplebar.min.js
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\vendors\swiper\swiper-bundle.min.css
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\vendors\swiper\swiper-bundle.min.js
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\vendors\tiny-slider\tiny-slider.css
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\vendors\tiny-slider\tiny-slider.css.map
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\vendors\tiny-slider\tiny-slider.js
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\vendors\tinymce\bower.json
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\vendors\tinymce\CHANGELOG.md
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\vendors\tinymce\composer.json
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\vendors\tinymce\icons\default\icons.js
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\vendors\tinymce\icons\default\icons.min.js
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\vendors\tinymce\icons\default\index.js
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\vendors\tinymce\jquery.tinymce.js
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\vendors\tinymce\jquery.tinymce.min.js
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\vendors\tinymce\license.txt
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\vendors\tinymce\package.json
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\vendors\tinymce\plugins\advlist\index.js
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\vendors\tinymce\plugins\advlist\plugin.js
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\vendors\tinymce\plugins\advlist\plugin.min.js
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\vendors\tinymce\plugins\anchor\index.js
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\vendors\tinymce\plugins\anchor\plugin.js
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\vendors\tinymce\plugins\anchor\plugin.min.js
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\vendors\tinymce\plugins\autolink\index.js
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\vendors\tinymce\plugins\autolink\plugin.js
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\vendors\tinymce\plugins\autolink\plugin.min.js
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\vendors\tinymce\plugins\autoresize\index.js
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\vendors\tinymce\plugins\autoresize\plugin.js
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\vendors\tinymce\plugins\autoresize\plugin.min.js
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\vendors\tinymce\plugins\autosave\index.js
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\vendors\tinymce\plugins\autosave\plugin.js
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\vendors\tinymce\plugins\autosave\plugin.min.js
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\vendors\tinymce\plugins\bbcode\index.js
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\vendors\tinymce\plugins\bbcode\plugin.js
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\vendors\tinymce\plugins\bbcode\plugin.min.js
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\vendors\tinymce\plugins\charmap\index.js
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\vendors\tinymce\plugins\charmap\plugin.js
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\vendors\tinymce\plugins\charmap\plugin.min.js
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\vendors\tinymce\plugins\codesample\index.js
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\vendors\tinymce\plugins\codesample\plugin.js
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\vendors\tinymce\plugins\codesample\plugin.min.js
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\vendors\tinymce\plugins\code\index.js
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\vendors\tinymce\plugins\code\plugin.js
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\vendors\tinymce\plugins\code\plugin.min.js
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\vendors\tinymce\plugins\colorpicker\index.js
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\vendors\tinymce\plugins\colorpicker\plugin.js
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\vendors\tinymce\plugins\colorpicker\plugin.min.js
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\vendors\tinymce\plugins\contextmenu\index.js
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\vendors\tinymce\plugins\contextmenu\plugin.js
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\vendors\tinymce\plugins\contextmenu\plugin.min.js
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\vendors\tinymce\plugins\directionality\index.js
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\vendors\tinymce\plugins\directionality\plugin.js
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\vendors\tinymce\plugins\directionality\plugin.min.js
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\vendors\tinymce\plugins\emoticons\index.js
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\vendors\tinymce\plugins\emoticons\js\emojiimages.js
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\vendors\tinymce\plugins\emoticons\js\emojiimages.min.js
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\vendors\tinymce\plugins\emoticons\js\emojis.js
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\vendors\tinymce\plugins\emoticons\js\emojis.min.js
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\vendors\tinymce\plugins\emoticons\plugin.js
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\vendors\tinymce\plugins\emoticons\plugin.min.js
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\vendors\tinymce\plugins\fullpage\index.js
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\vendors\tinymce\plugins\fullpage\plugin.js
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\vendors\tinymce\plugins\fullpage\plugin.min.js
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\vendors\tinymce\plugins\fullscreen\index.js
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\vendors\tinymce\plugins\fullscreen\plugin.js
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\vendors\tinymce\plugins\fullscreen\plugin.min.js
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\vendors\tinymce\plugins\help\index.js
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\vendors\tinymce\plugins\help\plugin.js
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\vendors\tinymce\plugins\help\plugin.min.js
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\vendors\tinymce\plugins\hr\index.js
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\vendors\tinymce\plugins\hr\plugin.js
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\vendors\tinymce\plugins\hr\plugin.min.js
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\vendors\tinymce\plugins\imagetools\index.js
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\vendors\tinymce\plugins\imagetools\plugin.js
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\vendors\tinymce\plugins\imagetools\plugin.min.js
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\vendors\tinymce\plugins\image\index.js
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\vendors\tinymce\plugins\image\plugin.js
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\vendors\tinymce\plugins\image\plugin.min.js
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\vendors\tinymce\plugins\importcss\index.js
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\vendors\tinymce\plugins\importcss\plugin.js
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\vendors\tinymce\plugins\importcss\plugin.min.js
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\vendors\tinymce\plugins\insertdatetime\index.js
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\vendors\tinymce\plugins\insertdatetime\plugin.js
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\vendors\tinymce\plugins\insertdatetime\plugin.min.js
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\vendors\tinymce\plugins\legacyoutput\index.js
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\vendors\tinymce\plugins\legacyoutput\plugin.js
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\vendors\tinymce\plugins\legacyoutput\plugin.min.js
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\vendors\tinymce\plugins\link\index.js
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\vendors\tinymce\plugins\link\plugin.js
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\vendors\tinymce\plugins\link\plugin.min.js
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\vendors\tinymce\plugins\lists\index.js
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\vendors\tinymce\plugins\lists\plugin.js
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\vendors\tinymce\plugins\lists\plugin.min.js
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\vendors\tinymce\plugins\media\index.js
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\vendors\tinymce\plugins\media\plugin.js
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\vendors\tinymce\plugins\media\plugin.min.js
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\vendors\tinymce\plugins\nonbreaking\index.js
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\vendors\tinymce\plugins\nonbreaking\plugin.js
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\vendors\tinymce\plugins\nonbreaking\plugin.min.js
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\vendors\tinymce\plugins\noneditable\index.js
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\vendors\tinymce\plugins\noneditable\plugin.js
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\vendors\tinymce\plugins\noneditable\plugin.min.js
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\vendors\tinymce\plugins\pagebreak\index.js
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\vendors\tinymce\plugins\pagebreak\plugin.js
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\vendors\tinymce\plugins\pagebreak\plugin.min.js
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\vendors\tinymce\plugins\paste\index.js
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\vendors\tinymce\plugins\paste\plugin.js
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\vendors\tinymce\plugins\paste\plugin.min.js
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\vendors\tinymce\plugins\preview\index.js
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\vendors\tinymce\plugins\preview\plugin.js
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\vendors\tinymce\plugins\preview\plugin.min.js
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\vendors\tinymce\plugins\print\index.js
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\vendors\tinymce\plugins\print\plugin.js
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\vendors\tinymce\plugins\print\plugin.min.js
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\vendors\tinymce\plugins\quickbars\index.js
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\vendors\tinymce\plugins\quickbars\plugin.js
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\vendors\tinymce\plugins\quickbars\plugin.min.js
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\vendors\tinymce\plugins\save\index.js
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\vendors\tinymce\plugins\save\plugin.js
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\vendors\tinymce\plugins\save\plugin.min.js
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\vendors\tinymce\plugins\searchreplace\index.js
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\vendors\tinymce\plugins\searchreplace\plugin.js
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\vendors\tinymce\plugins\searchreplace\plugin.min.js
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\vendors\tinymce\plugins\spellchecker\index.js
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\vendors\tinymce\plugins\spellchecker\plugin.js
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\vendors\tinymce\plugins\spellchecker\plugin.min.js
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\vendors\tinymce\plugins\tabfocus\index.js
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\vendors\tinymce\plugins\tabfocus\plugin.js
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\vendors\tinymce\plugins\tabfocus\plugin.min.js
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\vendors\tinymce\plugins\table\index.js
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\vendors\tinymce\plugins\table\plugin.js
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\vendors\tinymce\plugins\table\plugin.min.js
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\vendors\tinymce\plugins\template\index.js
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\vendors\tinymce\plugins\template\plugin.js
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\vendors\tinymce\plugins\template\plugin.min.js
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\vendors\tinymce\plugins\textcolor\index.js
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\vendors\tinymce\plugins\textcolor\plugin.js
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\vendors\tinymce\plugins\textcolor\plugin.min.js
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\vendors\tinymce\plugins\textpattern\index.js
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\vendors\tinymce\plugins\textpattern\plugin.js
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\vendors\tinymce\plugins\textpattern\plugin.min.js
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\vendors\tinymce\plugins\toc\index.js
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\vendors\tinymce\plugins\toc\plugin.js
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\vendors\tinymce\plugins\toc\plugin.min.js
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\vendors\tinymce\plugins\visualblocks\index.js
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\vendors\tinymce\plugins\visualblocks\plugin.js
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\vendors\tinymce\plugins\visualblocks\plugin.min.js
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\vendors\tinymce\plugins\visualchars\index.js
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\vendors\tinymce\plugins\visualchars\plugin.js
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\vendors\tinymce\plugins\visualchars\plugin.min.js
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\vendors\tinymce\plugins\wordcount\index.js
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\vendors\tinymce\plugins\wordcount\plugin.js
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\vendors\tinymce\plugins\wordcount\plugin.min.js
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\vendors\tinymce\README.md
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\vendors\tinymce\skins\content\dark\content.css
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\vendors\tinymce\skins\content\dark\content.min.css
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\vendors\tinymce\skins\content\default\content.css
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\vendors\tinymce\skins\content\default\content.min.css
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\vendors\tinymce\skins\content\document\content.css
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\vendors\tinymce\skins\content\document\content.min.css
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\vendors\tinymce\skins\content\writer\content.css
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\vendors\tinymce\skins\content\writer\content.min.css
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\vendors\tinymce\skins\ui\oxide-dark\content.css
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\vendors\tinymce\skins\ui\oxide-dark\content.inline.css
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\vendors\tinymce\skins\ui\oxide-dark\content.inline.min.css
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\vendors\tinymce\skins\ui\oxide-dark\content.min.css
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\vendors\tinymce\skins\ui\oxide-dark\content.mobile.css
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\vendors\tinymce\skins\ui\oxide-dark\content.mobile.min.css
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\vendors\tinymce\skins\ui\oxide-dark\skin.css
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\vendors\tinymce\skins\ui\oxide-dark\skin.min.css
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\vendors\tinymce\skins\ui\oxide-dark\skin.mobile.css
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\vendors\tinymce\skins\ui\oxide-dark\skin.mobile.min.css
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\vendors\tinymce\skins\ui\oxide-dark\skin.shadowdom.css
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\vendors\tinymce\skins\ui\oxide-dark\skin.shadowdom.min.css
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\vendors\tinymce\skins\ui\oxide\content.css
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\vendors\tinymce\skins\ui\oxide\content.inline.css
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\vendors\tinymce\skins\ui\oxide\content.inline.min.css
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\vendors\tinymce\skins\ui\oxide\content.min.css
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\vendors\tinymce\skins\ui\oxide\content.mobile.css
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\vendors\tinymce\skins\ui\oxide\content.mobile.min.css
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\vendors\tinymce\skins\ui\oxide\skin.css
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\vendors\tinymce\skins\ui\oxide\skin.min.css
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\vendors\tinymce\skins\ui\oxide\skin.mobile.css
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\vendors\tinymce\skins\ui\oxide\skin.mobile.min.css
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\vendors\tinymce\skins\ui\oxide\skin.shadowdom.css
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\vendors\tinymce\skins\ui\oxide\skin.shadowdom.min.css
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\vendors\tinymce\themes\mobile\index.js
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\vendors\tinymce\themes\mobile\theme.js
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\vendors\tinymce\themes\mobile\theme.min.js
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\vendors\tinymce\themes\silver\index.js
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\vendors\tinymce\themes\silver\theme.js
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\vendors\tinymce\themes\silver\theme.min.js
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\vendors\tinymce\tinymce.js
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\vendors\tinymce\tinymce.min.js
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\vendors\typed.js\typed.js
-D:\source\repos\Tasks\ECinema1\ECinema\wwwroot\vendors\validator\validator.min.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\app\calendar.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\app\chat.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\app\e-commerce\billing.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\app\e-commerce\checkout.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\app\e-commerce\customer-details.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\app\e-commerce\customers.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\app\e-commerce\invoice.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\app\e-commerce\orders\order-details.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\app\e-commerce\orders\order-list.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\app\e-commerce\product\product-details.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\app\e-commerce\product\product-grid.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\app\e-commerce\product\product-list.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\app\e-commerce\shopping-cart.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\app\e-learning\course\course-details.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\app\e-learning\course\course-grid.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\app\e-learning\course\course-list.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\app\e-learning\course\create-a-course.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\app\e-learning\student-overview.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\app\e-learning\trainer-profile.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\app\email\compose.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\app\email\email-detail.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\app\email\inbox.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\app\events\create-an-event.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\app\events\event-detail.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\app\events\event-list.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\app\kanban.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\app\social\activity-log.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\app\social\feed.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\app\social\followers.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\app\social\notifications.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\app\support-desk\card-view.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\app\support-desk\contact-details.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\app\support-desk\contacts.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\app\support-desk\quick-links.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\app\support-desk\reports.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\app\support-desk\table-view.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\app\support-desk\tickets-preview.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\assets\css\theme-rtl.css
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\assets\css\theme-rtl.css.map
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\assets\css\theme-rtl.min.css
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\assets\css\theme-rtl.min.css.map
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\assets\css\theme.css
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\assets\css\theme.css.map
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\assets\css\theme.min.css
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\assets\css\theme.min.css.map
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\assets\css\user-rtl.css
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\assets\css\user-rtl.css.map
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\assets\css\user-rtl.min.css
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\assets\css\user-rtl.min.css.map
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\assets\css\user.css
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\assets\css\user.css.map
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\assets\css\user.min.css
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\assets\css\user.min.css.map
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\assets\data\usa.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\assets\data\world.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\assets\img\animated-icons\bm.json
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\assets\img\animated-icons\bouncing-ball.json
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\assets\img\animated-icons\celebration.json
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\assets\img\animated-icons\check-primary-light.json
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\assets\img\animated-icons\heart.json
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\assets\img\animated-icons\infinite-loop.json
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\assets\img\animated-icons\loading-animation.json
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\assets\img\animated-icons\loading-balls.json
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\assets\img\animated-icons\loading-circle-scale.json
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\assets\img\animated-icons\loading-square.json
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\assets\img\animated-icons\loading.json
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\assets\img\animated-icons\shopping-list.json
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\assets\img\animated-icons\sleeping-404.json
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\assets\img\animated-icons\ss.json
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\assets\img\animated-icons\star-feedback.json
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\assets\img\animated-icons\warning-light.json
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\assets\img\crm\call.svg
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\assets\img\crm\email.svg
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\assets\img\crm\other.svg
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\assets\img\crm\social.svg
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\assets\img\favicons\browserconfig.xml
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\assets\img\favicons\favicon.ico
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\assets\img\favicons\manifest.json
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\assets\img\favicons\site.webmanifest
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\assets\img\icons\arrows-h.svg
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\assets\img\icons\chevron-up.svg
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\assets\img\icons\cloud-download-.svg
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\assets\img\icons\cloud-download.svg
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\assets\img\icons\cloud-upload.svg
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\assets\img\icons\discount.svg
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\assets\img\icons\double-chevron-up.svg
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\assets\img\icons\edit-alt-.svg
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\assets\img\icons\edit-alt.svg
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\assets\img\icons\folder-open-solid.svg
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\assets\img\icons\folder-solid.svg
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\assets\img\icons\free.svg
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\assets\img\icons\icon-angle-right.svg
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\assets\img\icons\left-arrow-from-left.svg
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\assets\img\icons\moon.svg
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\assets\img\icons\networking.svg
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\assets\img\icons\nineDots.svg
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\assets\img\icons\paragraph.svg
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\assets\img\icons\play.svg
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\assets\img\icons\pro.svg
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\assets\img\icons\sent.svg
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\assets\img\icons\shield.svg
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\assets\img\icons\spot-illustrations\1.svg
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\assets\img\icons\spot-illustrations\2.svg
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\assets\img\icons\spot-illustrations\3.svg
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\assets\img\icons\spot-illustrations\4.svg
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\assets\img\icons\spot-illustrations\5.svg
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\assets\img\icons\spot-illustrations\6.svg
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\assets\img\icons\spot-illustrations\calendar.svg
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\assets\img\icons\spot-illustrations\editing.svg
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\assets\img\icons\spot-illustrations\image.svg
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\assets\img\icons\spot-illustrations\location.svg
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\assets\img\icons\spot-illustrations\paper-plane.svg
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\assets\img\icons\spot-illustrations\startup.svg
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\assets\img\icons\star_on.svg
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\assets\img\icons\sun.svg
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\assets\img\icons\target.svg
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\assets\img\icons\triple-chevron-up.svg
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\assets\img\icons\user-plus.svg
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\assets\img\icons\users.svg
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\assets\img\illustrations\1.svg
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\assets\img\illustrations\2.svg
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\assets\img\illustrations\3.svg
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\assets\img\illustrations\4.svg
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\assets\img\illustrations\5.svg
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\assets\img\illustrations\6.svg
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\assets\img\illustrations\calendar.svg
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\assets\img\illustrations\editing.svg
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\assets\img\illustrations\image.svg
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\assets\img\illustrations\location.svg
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\assets\img\illustrations\paper-plane.svg
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\assets\img\illustrations\startup.svg
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\assets\js\config.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\assets\js\config.js.map
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\assets\js\echart-example.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\assets\js\echart-example.js.map
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\assets\js\echarts-example.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\assets\js\echarts-example.js.map
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\assets\js\emoji-button.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\assets\js\flatpickr.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\assets\js\theme.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\assets\js\theme.js.map
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\assets\js\theme.min.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\assets\js\theme.min.js.map
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\css\site.css
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\dashboard\analytics.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\dashboard\crm.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\dashboard\e-commerce.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\dashboard\lms.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\dashboard\project-management.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\dashboard\saas.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\dashboard\support-desk.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\demo\combo-nav.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\demo\fluid.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\demo\navbar-double-top.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\demo\navbar-top.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\demo\navbar-vertical-card.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\demo\navbar-vertical-inverted.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\demo\navbar-vertical-vibrant.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\demo\navbar-vertical.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\demo\RTL.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\documentation\customization\configuration.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\documentation\customization\dark-mode.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\documentation\customization\plugin.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\documentation\customization\styling.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\documentation\design-file.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\documentation\faq.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\documentation\getting-started.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\documentation\gulp.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\favicon.ico
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\js\site.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css.map
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css.map
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css.map
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css.map
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css.map
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css.map
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css.map
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css.map
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\lib\bootstrap\dist\css\bootstrap.css
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css.map
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css.map
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js.map
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js.map
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\lib\bootstrap\dist\js\bootstrap.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.min.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\lib\jquery-validation-unobtrusive\LICENSE.txt
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\lib\jquery-validation\dist\additional-methods.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\lib\jquery-validation\dist\additional-methods.min.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\lib\jquery-validation\dist\jquery.validate.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\lib\jquery-validation\dist\jquery.validate.min.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\lib\jquery-validation\LICENSE.md
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\lib\jquery\dist\jquery.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\lib\jquery\dist\jquery.min.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\lib\jquery\dist\jquery.min.map
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\lib\jquery\dist\jquery.slim.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\lib\jquery\dist\jquery.slim.min.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\lib\jquery\dist\jquery.slim.min.map
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\lib\jquery\LICENSE.txt
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\modules\charts\chartjs.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\modules\charts\d3js.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\modules\charts\echarts\bar-charts.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\modules\charts\echarts\candlestick-charts.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\modules\charts\echarts\gauge-charts.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\modules\charts\echarts\geo-map.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\modules\charts\echarts\heatmap-charts.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\modules\charts\echarts\how-to-use.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\modules\charts\echarts\line-charts.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\modules\charts\echarts\pie-charts.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\modules\charts\echarts\radar-charts.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\modules\charts\echarts\scatter-charts.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\modules\components\accordion.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\modules\components\alerts.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\modules\components\anchor.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\modules\components\animated-icons.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\modules\components\background.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\modules\components\badges.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\modules\components\bottom-bar.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\modules\components\breadcrumbs.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\modules\components\buttons.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\modules\components\calendar.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\modules\components\cards.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\modules\components\carousel\bootstrap.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\modules\components\carousel\swiper.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\modules\components\close-button.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\modules\components\collapse.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\modules\components\cookie-notice.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\modules\components\countup.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\modules\components\draggable.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\modules\components\dropdowns.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\modules\components\jquery-components.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\modules\components\list-group.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\modules\components\modals.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\modules\components\navs-and-tabs\combo-navbar.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\modules\components\navs-and-tabs\double-top-navbar.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\modules\components\navs-and-tabs\navbar.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\modules\components\navs-and-tabs\navs.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\modules\components\navs-and-tabs\tabs.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\modules\components\navs-and-tabs\top-navbar.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\modules\components\navs-and-tabs\vertical-navbar.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\modules\components\offcanvas.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\modules\components\pagination.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\modules\components\pictures\avatar.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\modules\components\pictures\figures.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\modules\components\pictures\hoverbox.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\modules\components\pictures\images.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\modules\components\pictures\lightbox.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\modules\components\placeholder.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\modules\components\popovers.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\modules\components\progress-bar.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\modules\components\scrollspy.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\modules\components\search.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\modules\components\spinners.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\modules\components\timeline.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\modules\components\toasts.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\modules\components\tooltips.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\modules\components\treeview.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\modules\components\typed-text.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\modules\components\videos\embed.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\modules\components\videos\plyr.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\modules\forms\advance\advance-select.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\modules\forms\advance\date-picker.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\modules\forms\advance\editor.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\modules\forms\advance\emoji-button.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\modules\forms\advance\file-uploader.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\modules\forms\advance\rating.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\modules\forms\basic\checks.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\modules\forms\basic\form-control.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\modules\forms\basic\input-group.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\modules\forms\basic\layout.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\modules\forms\basic\range.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\modules\forms\basic\select.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\modules\forms\floating-labels.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\modules\forms\validation.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\modules\forms\wizard.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\modules\icons\bootstrap-icons.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\modules\icons\feather.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\modules\icons\font-awesome.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\modules\icons\material-icons.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\modules\maps\google-map.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\modules\maps\leaflet-map.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\modules\tables\advance-tables.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\modules\tables\basic-tables.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\modules\tables\bulk-select.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\modules\utilities\borders.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\modules\utilities\clearfix.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\modules\utilities\colored-links.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\modules\utilities\colors.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\modules\utilities\display.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\modules\utilities\flex.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\modules\utilities\float.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\modules\utilities\grid.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\modules\utilities\overlayscrollbar.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\modules\utilities\position.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\modules\utilities\sizing.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\modules\utilities\spacing.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\modules\utilities\stretched-link.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\modules\utilities\text-truncation.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\modules\utilities\typography.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\modules\utilities\vertical-align.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\modules\utilities\visibility.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\pages\authentication\card\confirm-mail.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\pages\authentication\card\forgot-password.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\pages\authentication\card\lock-screen.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\pages\authentication\card\login.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\pages\authentication\card\logout.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\pages\authentication\card\register.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\pages\authentication\card\reset-password.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\pages\authentication\simple\confirm-mail.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\pages\authentication\simple\forgot-password.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\pages\authentication\simple\lock-screen.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\pages\authentication\simple\login.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\pages\authentication\simple\logout.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\pages\authentication\simple\register.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\pages\authentication\simple\reset-password.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\pages\authentication\split\confirm-mail.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\pages\authentication\split\forgot-password.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\pages\authentication\split\lock-screen.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\pages\authentication\split\login.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\pages\authentication\split\logout.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\pages\authentication\split\register.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\pages\authentication\split\reset-password.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\pages\authentication\wizard.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\pages\errors\404.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\pages\errors\500.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\pages\faq\faq-accordion.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\pages\faq\faq-alt.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\pages\faq\faq-basic.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\pages\landing.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\pages\miscellaneous\associations.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\pages\miscellaneous\invite-people.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\pages\miscellaneous\privacy-policy.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\pages\pricing\pricing-alt.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\pages\pricing\pricing-default.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\pages\starter.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\pages\user\profile.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\pages\user\settings.html
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\anchorjs\anchor.min.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\bootstrap\bootstrap.min.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\bootstrap\bootstrap.min.js.map
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\chart\chart.min.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\choices\base.min.css
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\choices\choices.min.css
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\choices\choices.min.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\countup\countUp.umd.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\d3\d3.min.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\datatables.net-bs5\dataTables.bootstrap5.min.css
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\datatables.net-bs5\dataTables.bootstrap5.min.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\datatables.net-dt\jquery.dataTables.min.css
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\datatables.net-fixedcolumns\dataTables.fixedColumns.min.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\datatables.net\jquery.dataTables.min.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\dayjs\dayjs.min.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\draggable\draggable.bundle.legacy.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\dropzone\dropzone.min.css
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\dropzone\dropzone.min.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\echarts-countries-js\map\USA.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\echarts-countries-js\map\world.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\echarts-countries-js\world\world.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\echarts\echarts.min.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\flatpickr\flatpickr.min.css
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\fontawesome\all.min.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\fullcalendar\main.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\fullcalendar\main.min.css
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\fullcalendar\main.min.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\glightbox\glightbox.min.css
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\glightbox\glightbox.min.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\is\is.min.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\jquery\jquery.min.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\leaflet.markercluster\leaflet.markercluster.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\leaflet.markercluster\leaflet.markercluster.js.map
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\leaflet.markercluster\MarkerCluster.css
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\leaflet.markercluster\MarkerCluster.Default.css
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\leaflet.tilelayer.colorfilter\leaflet-tilelayer-colorfilter.min.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\leaflet\leaflet.css
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\leaflet\leaflet.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\leaflet\leaflet.js.map
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\list.js\list.min.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\list.js\list.min.js.map
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\lodash\lodash.min.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\lottie\lottie.min.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\overlayscrollbars\OverlayScrollbars.min.css
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\overlayscrollbars\OverlayScrollbars.min.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\plyr\plyr.css
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\plyr\plyr.polyfilled.min.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\plyr\plyr.polyfilled.min.js.map
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\popper\popper.min.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\popper\popper.min.js.map
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\prism\prism-okaidia.css
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\prism\prism.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\rater-js\index.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\rater-js\rater-js.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\rater-js\star_0.svg
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\rater-js\star_1.svg
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\rater-js\style.css
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\select2-bootstrap-5-theme\select2-bootstrap-5-theme.min.css
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\select2\select2.full.min.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\select2\select2.min.css
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\select2\select2.min.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\simplebar\simplebar.min.css
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\simplebar\simplebar.min.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\swiper\swiper-bundle.min.css
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\swiper\swiper-bundle.min.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tiny-slider\tiny-slider.css
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tiny-slider\tiny-slider.css.map
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tiny-slider\tiny-slider.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\bower.json
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\CHANGELOG.md
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\composer.json
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\icons\default\icons.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\icons\default\icons.min.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\icons\default\index.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\jquery.tinymce.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\jquery.tinymce.min.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\license.txt
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\package.json
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\plugins\advlist\index.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\plugins\advlist\plugin.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\plugins\advlist\plugin.min.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\plugins\anchor\index.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\plugins\anchor\plugin.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\plugins\anchor\plugin.min.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\plugins\autolink\index.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\plugins\autolink\plugin.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\plugins\autolink\plugin.min.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\plugins\autoresize\index.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\plugins\autoresize\plugin.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\plugins\autoresize\plugin.min.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\plugins\autosave\index.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\plugins\autosave\plugin.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\plugins\autosave\plugin.min.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\plugins\bbcode\index.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\plugins\bbcode\plugin.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\plugins\bbcode\plugin.min.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\plugins\charmap\index.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\plugins\charmap\plugin.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\plugins\charmap\plugin.min.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\plugins\codesample\index.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\plugins\codesample\plugin.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\plugins\codesample\plugin.min.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\plugins\code\index.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\plugins\code\plugin.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\plugins\code\plugin.min.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\plugins\colorpicker\index.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\plugins\colorpicker\plugin.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\plugins\colorpicker\plugin.min.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\plugins\contextmenu\index.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\plugins\contextmenu\plugin.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\plugins\contextmenu\plugin.min.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\plugins\directionality\index.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\plugins\directionality\plugin.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\plugins\directionality\plugin.min.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\plugins\emoticons\index.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\plugins\emoticons\js\emojiimages.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\plugins\emoticons\js\emojiimages.min.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\plugins\emoticons\js\emojis.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\plugins\emoticons\js\emojis.min.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\plugins\emoticons\plugin.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\plugins\emoticons\plugin.min.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\plugins\fullpage\index.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\plugins\fullpage\plugin.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\plugins\fullpage\plugin.min.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\plugins\fullscreen\index.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\plugins\fullscreen\plugin.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\plugins\fullscreen\plugin.min.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\plugins\help\index.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\plugins\help\plugin.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\plugins\help\plugin.min.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\plugins\hr\index.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\plugins\hr\plugin.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\plugins\hr\plugin.min.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\plugins\imagetools\index.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\plugins\imagetools\plugin.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\plugins\imagetools\plugin.min.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\plugins\image\index.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\plugins\image\plugin.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\plugins\image\plugin.min.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\plugins\importcss\index.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\plugins\importcss\plugin.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\plugins\importcss\plugin.min.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\plugins\insertdatetime\index.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\plugins\insertdatetime\plugin.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\plugins\insertdatetime\plugin.min.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\plugins\legacyoutput\index.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\plugins\legacyoutput\plugin.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\plugins\legacyoutput\plugin.min.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\plugins\link\index.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\plugins\link\plugin.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\plugins\link\plugin.min.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\plugins\lists\index.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\plugins\lists\plugin.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\plugins\lists\plugin.min.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\plugins\media\index.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\plugins\media\plugin.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\plugins\media\plugin.min.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\plugins\nonbreaking\index.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\plugins\nonbreaking\plugin.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\plugins\nonbreaking\plugin.min.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\plugins\noneditable\index.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\plugins\noneditable\plugin.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\plugins\noneditable\plugin.min.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\plugins\pagebreak\index.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\plugins\pagebreak\plugin.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\plugins\pagebreak\plugin.min.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\plugins\paste\index.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\plugins\paste\plugin.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\plugins\paste\plugin.min.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\plugins\preview\index.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\plugins\preview\plugin.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\plugins\preview\plugin.min.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\plugins\print\index.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\plugins\print\plugin.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\plugins\print\plugin.min.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\plugins\quickbars\index.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\plugins\quickbars\plugin.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\plugins\quickbars\plugin.min.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\plugins\save\index.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\plugins\save\plugin.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\plugins\save\plugin.min.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\plugins\searchreplace\index.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\plugins\searchreplace\plugin.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\plugins\searchreplace\plugin.min.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\plugins\spellchecker\index.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\plugins\spellchecker\plugin.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\plugins\spellchecker\plugin.min.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\plugins\tabfocus\index.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\plugins\tabfocus\plugin.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\plugins\tabfocus\plugin.min.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\plugins\table\index.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\plugins\table\plugin.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\plugins\table\plugin.min.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\plugins\template\index.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\plugins\template\plugin.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\plugins\template\plugin.min.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\plugins\textcolor\index.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\plugins\textcolor\plugin.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\plugins\textcolor\plugin.min.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\plugins\textpattern\index.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\plugins\textpattern\plugin.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\plugins\textpattern\plugin.min.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\plugins\toc\index.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\plugins\toc\plugin.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\plugins\toc\plugin.min.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\plugins\visualblocks\index.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\plugins\visualblocks\plugin.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\plugins\visualblocks\plugin.min.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\plugins\visualchars\index.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\plugins\visualchars\plugin.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\plugins\visualchars\plugin.min.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\plugins\wordcount\index.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\plugins\wordcount\plugin.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\plugins\wordcount\plugin.min.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\README.md
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\skins\content\dark\content.css
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\skins\content\dark\content.min.css
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\skins\content\default\content.css
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\skins\content\default\content.min.css
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\skins\content\document\content.css
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\skins\content\document\content.min.css
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\skins\content\writer\content.css
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\skins\content\writer\content.min.css
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\skins\ui\oxide-dark\content.css
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\skins\ui\oxide-dark\content.inline.css
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\skins\ui\oxide-dark\content.inline.min.css
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\skins\ui\oxide-dark\content.min.css
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\skins\ui\oxide-dark\content.mobile.css
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\skins\ui\oxide-dark\content.mobile.min.css
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\skins\ui\oxide-dark\skin.css
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\skins\ui\oxide-dark\skin.min.css
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\skins\ui\oxide-dark\skin.mobile.css
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\skins\ui\oxide-dark\skin.mobile.min.css
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\skins\ui\oxide-dark\skin.shadowdom.css
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\skins\ui\oxide-dark\skin.shadowdom.min.css
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\skins\ui\oxide\content.css
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\skins\ui\oxide\content.inline.css
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\skins\ui\oxide\content.inline.min.css
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\skins\ui\oxide\content.min.css
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\skins\ui\oxide\content.mobile.css
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\skins\ui\oxide\content.mobile.min.css
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\skins\ui\oxide\skin.css
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\skins\ui\oxide\skin.min.css
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\skins\ui\oxide\skin.mobile.css
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\skins\ui\oxide\skin.mobile.min.css
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\skins\ui\oxide\skin.shadowdom.css
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\skins\ui\oxide\skin.shadowdom.min.css
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\themes\mobile\index.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\themes\mobile\theme.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\themes\mobile\theme.min.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\themes\silver\index.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\themes\silver\theme.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\themes\silver\theme.min.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\tinymce.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\tinymce\tinymce.min.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\typed.js\typed.js
+C:\Users\Mokhtar Ahmed\source\repos\ECinema\ECinema\wwwroot\vendors\validator\validator.min.js
